@@ -2,6 +2,8 @@
 
 **Tags:** `Array`, `Hash Table`, `Two Pointers`
 
+<!-- Tags are auto-parsed by update_readme.py script -->
+
 ## Intuition
 
 What's the first thought that comes to mind when you see this problem?
