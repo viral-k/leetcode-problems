@@ -7,14 +7,15 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 | Difficulty | Solved | Problems |
 |------------|--------|----------|
 | Easy       | 2      | [View](easy/README.md) |
-| Medium     | 13      | [View](medium/README.md) |
+| Medium     | 14      | [View](medium/README.md) |
 | Hard       | 1      | [View](hard/README.md) |
-| **Total**  | **16**  | |
+| **Total**  | **17**  | |
 
 ## Topics Covered
 
 - Array
 - Binary Search
+- Bit Manipulation
 - Brute Force
 - Bucket Sort
 - Counting Sort
@@ -25,6 +26,7 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 - Math
 - Matrix
 - Prefix Sum
+- Recursion
 - Segment Tree
 - Simulation
 - Sliding Window
