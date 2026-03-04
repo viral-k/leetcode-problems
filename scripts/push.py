@@ -42,8 +42,14 @@ def get_changed_problems() -> dict:
         if not line.strip():
             continue
         
-        status_code = line[:2].strip()
-        file_path = line[3:].strip()
+        # Git porcelain format: "XY PATH" where XY is 2 chars
+        # Use regex to properly extract status and path
+        match = re.match(r'^(..)[ ](.+)$', line)
+        if not match:
+            continue
+        
+        status_code = match.group(1).strip()
+        file_path = match.group(2)
         
         # Check if it's a problem file
         parts = Path(file_path).parts
