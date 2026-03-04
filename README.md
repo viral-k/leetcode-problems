@@ -7,32 +7,18 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 | Difficulty | Solved |
 |------------|--------|
 | Easy       | 0      |
-| Medium     | 2      |
+| Medium     | 3      |
 | Hard       | 0      |
-| **Total**  | **2**  |
+| **Total**  | **3**  |
 
 ## Topics Covered
 
 - Array
-- Arrays
-- Backtracking
-- Binary Search
-- Bit Manipulation
-- Dynamic Programming
-- Graphs
+- Geometry
 - Greedy
 - Hash Table
-- Heap/Priority Queue
-- Linked Lists
 - Math
-- Segment Tree
-- Sliding Window
 - Sorting
-- Stack/Queue
-- Strings
-- Trees
-- Trie
-- Two Pointers
 
 ## Solutions
 
@@ -40,6 +26,7 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 |-----|---------|------------|------|--------|------|
 | 2943 | Maximize Area of Square Hole in Grid | Medium | `Array`, `Sorting`, `Greedy` | [✓](medium/2943-maximize-area-of-square-hole-in-grid/solution.py) | [✓](medium/2943-maximize-area-of-square-hole-in-grid/solution.java) |
 | 2975 | Maximum Square Area by Removing Fences From a Field | Medium | `Array`, `Hash Table`, `Sorting` | [✓](medium/2975-maximum-square-area-by-removing-fences-from-a-field/solution.py) | [✓](medium/2975-maximum-square-area-by-removing-fences-from-a-field/solution.java) |
+| 3047 | Find the Largest Area of Square Inside Two Rectangles | Medium | `Array`, `Math`, `Geometry` | [✓](medium/3047-find-the-largest-area-of-square-inside-two-rectangles/solution.py) | [✓](medium/3047-find-the-largest-area-of-square-inside-two-rectangles/solution.java) |
 
 ## Repository Structure
 

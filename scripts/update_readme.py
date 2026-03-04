@@ -116,17 +116,11 @@ def generate_readme(data: dict) -> str:
 | Hard       | {counts['hard']}      |
 | **Total**  | **{total}**  |"""
 
-    # Topics (only show tags that are actually used, plus defaults)
-    default_topics = [
-        "Arrays", "Strings", "Linked Lists", "Trees", "Graphs",
-        "Dynamic Programming", "Greedy", "Binary Search", "Two Pointers",
-        "Sliding Window", "Stack/Queue", "Heap/Priority Queue",
-        "Backtracking", "Bit Manipulation", "Math", "Segment Tree", "Trie"
-    ]
-    
-    # Merge default topics with discovered tags
-    all_topics = sorted(set(default_topics) | set(tags))
-    topics_list = "\n".join(f"- {topic}" for topic in all_topics)
+    # Topics (only show tags that are actually used in problems)
+    if tags:
+        topics_list = "\n".join(f"- {topic}" for topic in sorted(tags))
+    else:
+        topics_list = "_No topics yet. Add problems to see topics here._"
     
     # Solutions table
     if problems:
