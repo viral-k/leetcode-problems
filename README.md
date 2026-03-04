@@ -6,10 +6,10 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 0      |
+| Easy       | 1      |
 | Medium     | 6      |
 | Hard       | 0      |
-| **Total**  | **6**  |
+| **Total**  | **7**  |
 
 ## Topics Covered
 
@@ -21,6 +21,7 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 - Math
 - Matrix
 - Prefix Sum
+- Simulation
 - Sorting
 - String
 
@@ -28,6 +29,7 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 
 | #   | Problem | Difficulty | Tags | Python | Java |
 |-----|---------|------------|------|--------|------|
+| 3507 | Minimum Pair Removal to Sort Array I | Easy | `Array`, `Simulation`, `Greedy` | [✓](easy/3507-minimum-pair-removal-to-sort-array-i/solution.py) | [✓](easy/3507-minimum-pair-removal-to-sort-array-i/solution.java) |
 | 049 | Group Anagrams | Medium | `Array`, `Hash Table`, `String`, `Sorting` | [✓](medium/049-group-anagrams/solution.py) | [✓](medium/049-group-anagrams/solution.java) |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Medium | `Array`, `Binary Search`, `Matrix`, `Prefix Sum` | [✓](medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.py) | [✓](medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.java) |
 | 223 | Rectangle Area | Medium | `Math`, `Geometry` | [✓](medium/223-rectangle-area/solution.py) | [✓](medium/223-rectangle-area/solution.java) |
