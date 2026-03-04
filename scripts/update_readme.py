@@ -93,6 +93,10 @@ def scan_problems() -> dict:
             
             counts[difficulty] += 1
     
+    # Sort each difficulty by problem number
+    for difficulty in DIFFICULTIES:
+        problems_by_difficulty[difficulty].sort(key=lambda p: int(p["number"]))
+    
     return {
         "problems_by_difficulty": problems_by_difficulty,
         "tags": sorted(all_tags),
