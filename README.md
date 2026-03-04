@@ -7,9 +7,9 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 | Difficulty | Solved | Problems |
 |------------|--------|----------|
 | Easy       | 2      | [View](easy/README.md) |
-| Medium     | 12      | [View](medium/README.md) |
+| Medium     | 13      | [View](medium/README.md) |
 | Hard       | 1      | [View](hard/README.md) |
-| **Total**  | **15**  | |
+| **Total**  | **16**  | |
 
 ## Topics Covered
 
@@ -18,6 +18,7 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 - Brute Force
 - Bucket Sort
 - Counting Sort
+- DFS
 - Geometry
 - Greedy
 - Hash Table
@@ -29,6 +30,7 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 - Sliding Window
 - Sorting
 - String
+- Tree
 - Two Pointers
 
 ## Quick Start

@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 12 problems
+**Total:** 13 problems
 
 ## Problems
 
@@ -17,6 +17,7 @@
 | 2943 | [Maximize Area of Square Hole in Grid](2943-maximize-area-of-square-hole-in-grid/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](2943-maximize-area-of-square-hole-in-grid/solution.py) | [✓](2943-maximize-area-of-square-hole-in-grid/solution.java) |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](2975-maximum-square-area-by-removing-fences-from-a-field/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.py) | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.java) |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](3047-find-the-largest-area-of-square-inside-two-rectangles/problem.md) | `Array`, `Math`, `Geometry` | [✓](3047-find-the-largest-area-of-square-inside-two-rectangles/solution.py) | [✓](3047-find-the-largest-area-of-square-inside-two-rectangles/solution.java) |
+| 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/problem.md) | `Array`, `Tree`, `DFS` | [✓](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/solution.py) | [✓](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/solution.java) |
 | 3634 | [Minimum Removals to Balance Array](3634-minimum-removals-to-balance-array/problem.md) | `Array`, `Sorting`, `Two Pointers`, `Sliding Window` | [✓](3634-minimum-removals-to-balance-array/solution.py) | [✓](3634-minimum-removals-to-balance-array/solution.java) |
 | 3713 | [Longest Balanced Substring I](3713-longest-balanced-substring-i/problem.md) | `String`, `Hash Table`, `Brute Force` | [✓](3713-longest-balanced-substring-i/solution.py) | [✓](3713-longest-balanced-substring-i/solution.java) |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i/problem.md) | `Array`, `Hash Table`, `Brute Force` | [✓](3719-longest-balanced-subarray-i/solution.py) | [✓](3719-longest-balanced-subarray-i/solution.java) |
