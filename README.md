@@ -13,27 +13,7 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 
 ## Topics Covered
 
-- Array
-- Binary Search
-- Bit Manipulation
-- Brute Force
-- Bucket Sort
-- Counting Sort
-- DFS
-- Geometry
-- Greedy
-- Hash Table
-- Math
-- Matrix
-- Prefix Sum
-- Recursion
-- Segment Tree
-- Simulation
-- Sliding Window
-- Sorting
-- String
-- Tree
-- Two Pointers
+`Array` `Binary Search` `Bit Manipulation` `Brute Force` `Bucket Sort` `Counting Sort` `DFS` `Geometry` `Greedy` `Hash Table` `Math` `Matrix` `Prefix Sum` `Recursion` `Segment Tree` `Simulation` `Sliding Window` `Sorting` `String` `Tree` `Two Pointers`
 
 ## Quick Start
 

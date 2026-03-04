@@ -119,7 +119,7 @@ def generate_main_readme(data: dict) -> str:
 | **Total**  | **{total}**  | |"""
 
     if tags:
-        topics_list = "\n".join(f"- {topic}" for topic in sorted(tags))
+        topics_list = " ".join(f"`{topic}`" for topic in sorted(tags))
     else:
         topics_list = "_No topics yet. Add problems to see topics here._"
 
