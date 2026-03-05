@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 3 problems
+**Total:** 4 problems
 
 ## Problems
 
@@ -10,4 +10,5 @@
 |-----|---------|------|--------|------|
 | 696 | [Count Binary Substrings](696-count-binary-substrings/problem.md) | `String`, `Two Pointers` | [✓](696-count-binary-substrings/solution.py) | [✓](696-count-binary-substrings/solution.java) |
 | 1582 | [Special Positions in a Binary Matrix](1582-special-positions-in-a-binary-matrix/problem.md) | `Array`, `Matrix` | [✓](1582-special-positions-in-a-binary-matrix/solution.py) | [✓](1582-special-positions-in-a-binary-matrix/solution.java) |
+| 1758 | [Minimum Changes To Make Alternating Binary String](1758-minimum-changes-to-make-alternating-binary-string/problem.md) | `String`, `Greedy` | [✓](1758-minimum-changes-to-make-alternating-binary-string/solution.py) | [✓](1758-minimum-changes-to-make-alternating-binary-string/solution.java) |
 | 3507 | [Minimum Pair Removal to Sort Array I](3507-minimum-pair-removal-to-sort-array-i/problem.md) | `Array`, `Simulation`, `Greedy` | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.py) | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.java) |
