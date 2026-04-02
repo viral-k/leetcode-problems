@@ -9,13 +9,13 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 | Difficulty | Solved | Problems |
 |------------|--------|----------|
 | Easy       | 6      | [View](easy/README.md) |
-| Medium     | 14      | [View](medium/README.md) |
+| Medium     | 15      | [View](medium/README.md) |
 | Hard       | 2      | [View](hard/README.md) |
-| **Total**  | **22**  | |
+| **Total**  | **23**  | |
 
 ## Topics Covered
 
-`Array` `Binary Search` `Bit Manipulation` `Brute Force` `Bucket Sort` `Counting Sort` `DFS` `Geometry` `Greedy` `Hash Table` `Math` `Matrix` `Prefix Sum` `Recursion` `Segment Tree` `Simulation` `Sliding Window` `Sorting` `Stack` `String` `Tree` `Two Pointers`
+`Array` `Binary Search` `Bit Manipulation` `Brute Force` `Bucket Sort` `Counting Sort` `DFS` `Dynamic Programming` `Geometry` `Greedy` `Hash Table` `Math` `Matrix` `Prefix Sum` `Recursion` `Segment Tree` `Simulation` `Sliding Window` `Sorting` `Stack` `String` `Tree` `Two Pointers`
 
 ## Quick Start
 
