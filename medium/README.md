@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 15 problems
+**Total:** 16 problems
 
 ## Problems
 
@@ -15,6 +15,7 @@
 | 1545 | [Find Kth Bit in Nth Binary String](1545-find-kth-bit-in-nth-binary-string/problem.md) | `String`, `Recursion`, `Bit Manipulation` | [✓](1545-find-kth-bit-in-nth-binary-string/solution.py) | [✓](1545-find-kth-bit-in-nth-binary-string/solution.java) |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](1689-partitioning-into-minimum-number-of-deci-binary-numbers/problem.md) | `String`, `Greedy` | [✓](1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.py) | [✓](1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.java) |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/problem.md) | `Array`, `Greedy`, `Sorting`, `Counting Sort` | [✓](1833-maximum-ice-cream-bars/solution.py) | [✓](1833-maximum-ice-cream-bars/solution.java) |
+| 2075 | [Decode the Slanted Ciphertext](2075-decode-the-slanted-ciphertext/problem.md) | `String`, `Matrix`, `Simulation` | [✓](2075-decode-the-slanted-ciphertext/solution.py) | [✓](2075-decode-the-slanted-ciphertext/solution.java) |
 | 2943 | [Maximize Area of Square Hole in Grid](2943-maximize-area-of-square-hole-in-grid/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](2943-maximize-area-of-square-hole-in-grid/solution.py) | [✓](2943-maximize-area-of-square-hole-in-grid/solution.java) |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](2975-maximum-square-area-by-removing-fences-from-a-field/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.py) | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.java) |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](3047-find-the-largest-area-of-square-inside-two-rectangles/problem.md) | `Array`, `Math`, `Geometry` | [✓](3047-find-the-largest-area-of-square-inside-two-rectangles/solution.py) | [✓](3047-find-the-largest-area-of-square-inside-two-rectangles/solution.java) |
