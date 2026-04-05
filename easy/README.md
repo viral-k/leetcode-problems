@@ -2,12 +2,13 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 6 problems
+**Total:** 7 problems
 
 ## Problems
 
 | #   | Problem | Tags | Python | Java |
 |-----|---------|------|--------|------|
+| 657 | [Robot Return to Origin](657-robot-return-to-origin/problem.md) | `String`, `Simulation` | [✓](657-robot-return-to-origin/solution.py) | [✓](657-robot-return-to-origin/solution.java) |
 | 696 | [Count Binary Substrings](696-count-binary-substrings/problem.md) | `String`, `Two Pointers` | [✓](696-count-binary-substrings/solution.py) | [✓](696-count-binary-substrings/solution.java) |
 | 1009 | [Complement of Base 10 Integer](1009-complement-of-base-10-integer/problem.md) | `Bit Manipulation` | [✓](1009-complement-of-base-10-integer/solution.py) | [✓](1009-complement-of-base-10-integer/solution.java) |
 | 1582 | [Special Positions in a Binary Matrix](1582-special-positions-in-a-binary-matrix/problem.md) | `Array`, `Matrix` | [✓](1582-special-positions-in-a-binary-matrix/solution.py) | [✓](1582-special-positions-in-a-binary-matrix/solution.java) |
