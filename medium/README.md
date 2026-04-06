@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 16 problems
+**Total:** 17 problems
 
 ## Problems
 
@@ -11,6 +11,7 @@
 | 049 | [Group Anagrams](049-group-anagrams/problem.md) | `Array`, `Hash Table`, `String`, `Sorting` | [✓](049-group-anagrams/solution.py) | [✓](049-group-anagrams/solution.java) |
 | 223 | [Rectangle Area](223-rectangle-area/problem.md) | `Math`, `Geometry` | [✓](223-rectangle-area/solution.py) | [✓](223-rectangle-area/solution.java) |
 | 347 | [Top K Frequent Elements](347-top-k-frequent-elements/problem.md) | `Array`, `Hash Table`, `Bucket Sort` | [✓](347-top-k-frequent-elements/solution.py) | [✓](347-top-k-frequent-elements/solution.java) |
+| 874 | [Walking Robot Simulation](874-walking-robot-simulation/problem.md) | `Array`, `Hash Table`, `Simulation` | [✓](874-walking-robot-simulation/solution.py) | [✓](874-walking-robot-simulation/solution.java) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/problem.md) | `Array`, `Binary Search`, `Matrix`, `Prefix Sum` | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.py) | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.java) |
 | 1545 | [Find Kth Bit in Nth Binary String](1545-find-kth-bit-in-nth-binary-string/problem.md) | `String`, `Recursion`, `Bit Manipulation` | [✓](1545-find-kth-bit-in-nth-binary-string/solution.py) | [✓](1545-find-kth-bit-in-nth-binary-string/solution.java) |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](1689-partitioning-into-minimum-number-of-deci-binary-numbers/problem.md) | `String`, `Greedy` | [✓](1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.py) | [✓](1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.java) |
