@@ -7,16 +7,19 @@ class Robot {
     private int width, height;
     private int perimeter;
     private int index;
+    private boolean moved;
 
     public Robot(int width, int height) {
         this.width = width;
         this.height = height;
         this.perimeter = 2 * (width + height - 2);
         this.index = 0;
+        this.moved = false;
     }
 
     public void step(int num) {
         index = (index + num) % perimeter;
+        moved = true;
     }
 
     public int[] getPos() {
@@ -43,7 +46,7 @@ class Robot {
         int w = width, h = height;
 
         if (i == 0) {
-            return "East";
+            return moved ? "South" : "East";
         }
         if (i < w) {
             return "East";

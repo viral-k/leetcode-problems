@@ -10,9 +10,11 @@ class Robot:
         self.height = height
         self.perimeter = 2 * (width + height - 2)
         self.index = 0
+        self.moved = False
 
     def step(self, num: int) -> None:
         self.index = (self.index + num) % self.perimeter
+        self.moved = True
 
     def getPos(self) -> list[int]:
         i = self.index
@@ -34,7 +36,7 @@ class Robot:
         w, h = self.width, self.height
 
         if i == 0:
-            return "East"
+            return "South" if self.moved else "East"
         if i < w:
             return "East"
         if i < w + h - 1:
