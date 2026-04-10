@@ -8,14 +8,14 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 
 | Difficulty | Solved | Problems |
 |------------|--------|----------|
-| Easy       | 7      | [View](easy/README.md) |
+| Easy       | 8      | [View](easy/README.md) |
 | Medium     | 19      | [View](medium/README.md) |
-| Hard       | 3      | [View](hard/README.md) |
-| **Total**  | **29**  | |
+| Hard       | 4      | [View](hard/README.md) |
+| **Total**  | **31**  | |
 
 ## Topics Covered
 
-`Array` `Binary Search` `Bit Manipulation` `Brute Force` `Bucket Sort` `Counting Sort` `DFS` `Design` `Dynamic Programming` `Geometry` `Greedy` `Hash Table` `Math` `Matrix` `Prefix Sum` `Recursion` `Segment Tree` `Simulation` `Sliding Window` `Sorting` `Stack` `String` `Tree` `Two Pointers`
+`Array` `Binary Search` `Bit Manipulation` `Brute Force` `Bucket Sort` `Counting Sort` `DFS` `Design` `Dynamic Programming` `Geometry` `Greedy` `Hash Table` `Math` `Matrix` `Prefix Sum` `Recursion` `Segment Tree` `Simulation` `Sliding Window` `Sorting` `Sqrt Decomposition` `Stack` `String` `Tree` `Two Pointers`
 
 ## Quick Start
 
