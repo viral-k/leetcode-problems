@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 19 problems
+**Total:** 20 problems
 
 ## Problems
 
@@ -27,3 +27,4 @@
 | 3653 | [XOR After Range Multiplication Queries I](3653-xor-after-range-multiplication-queries-i/problem.md) | `Array`, `Bit Manipulation`, `Simulation` | [✓](3653-xor-after-range-multiplication-queries-i/solution.py) | [✓](3653-xor-after-range-multiplication-queries-i/solution.java) |
 | 3713 | [Longest Balanced Substring I](3713-longest-balanced-substring-i/problem.md) | `String`, `Hash Table`, `Brute Force` | [✓](3713-longest-balanced-substring-i/solution.py) | [✓](3713-longest-balanced-substring-i/solution.java) |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i/problem.md) | `Array`, `Hash Table`, `Brute Force` | [✓](3719-longest-balanced-subarray-i/solution.py) | [✓](3719-longest-balanced-subarray-i/solution.java) |
+| 3741 | [Minimum Distance Between Three Equal Elements II](3741-minimum-distance-between-three-equal-elements-ii/problem.md) | `Array`, `Hash Table` | [✓](3741-minimum-distance-between-three-equal-elements-ii/solution.py) | [✓](3741-minimum-distance-between-three-equal-elements-ii/solution.java) |
