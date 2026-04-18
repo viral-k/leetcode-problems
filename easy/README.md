@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 10 problems
+**Total:** 11 problems
 
 ## Problems
 
@@ -18,3 +18,4 @@
 | 2515 | [Shortest Distance to Target String in a Circular Array](2515-shortest-distance-to-target-string-in-a-circular-array/problem.md) | `Array`, `String` | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.py) | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.java) |
 | 3507 | [Minimum Pair Removal to Sort Array I](3507-minimum-pair-removal-to-sort-array-i/problem.md) | `Array`, `Simulation`, `Greedy` | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.py) | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.java) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](3740-minimum-distance-between-three-equal-elements-i/problem.md) | `Array`, `Hash Table` | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.py) | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.java) |
+| 3783 | [Mirror Distance of an Integer](3783-mirror-distance-of-an-integer/problem.md) | `Math` | [✓](3783-mirror-distance-of-an-integer/solution.py) | [✓](3783-mirror-distance-of-an-integer/solution.java) |
