@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 22 problems
+**Total:** 23 problems
 
 ## Problems
 
@@ -16,6 +16,7 @@
 | 1545 | [Find Kth Bit in Nth Binary String](1545-find-kth-bit-in-nth-binary-string/problem.md) | `String`, `Recursion`, `Bit Manipulation` | [✓](1545-find-kth-bit-in-nth-binary-string/solution.py) | [✓](1545-find-kth-bit-in-nth-binary-string/solution.java) |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](1689-partitioning-into-minimum-number-of-deci-binary-numbers/problem.md) | `String`, `Greedy` | [✓](1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.py) | [✓](1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.java) |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/problem.md) | `Array`, `Greedy`, `Sorting`, `Counting Sort` | [✓](1833-maximum-ice-cream-bars/solution.py) | [✓](1833-maximum-ice-cream-bars/solution.java) |
+| 1855 | [Maximum Distance Between a Pair of Values](1855-maximum-distance-between-a-pair-of-values/problem.md) | `Array`, `Two Pointers`, `Binary Search` | [✓](1855-maximum-distance-between-a-pair-of-values/solution.py) | [✓](1855-maximum-distance-between-a-pair-of-values/solution.java) |
 | 2069 | [Walking Robot Simulation II](2069-walking-robot-simulation-ii/problem.md) | `Design`, `Simulation` | [✓](2069-walking-robot-simulation-ii/solution.py) | [✓](2069-walking-robot-simulation-ii/solution.java) |
 | 2075 | [Decode the Slanted Ciphertext](2075-decode-the-slanted-ciphertext/problem.md) | `String`, `Matrix`, `Simulation` | [✓](2075-decode-the-slanted-ciphertext/solution.py) | [✓](2075-decode-the-slanted-ciphertext/solution.java) |
 | 2943 | [Maximize Area of Square Hole in Grid](2943-maximize-area-of-square-hole-in-grid/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](2943-maximize-area-of-square-hole-in-grid/solution.py) | [✓](2943-maximize-area-of-square-hole-in-grid/solution.java) |
