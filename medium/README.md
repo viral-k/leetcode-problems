@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 25 problems
+**Total:** 26 problems
 
 ## Problems
 
@@ -21,6 +21,7 @@
 | 2069 | [Walking Robot Simulation II](2069-walking-robot-simulation-ii/problem.md) | `Design`, `Simulation` | [✓](2069-walking-robot-simulation-ii/solution.py) | [✓](2069-walking-robot-simulation-ii/solution.java) |
 | 2075 | [Decode the Slanted Ciphertext](2075-decode-the-slanted-ciphertext/problem.md) | `String`, `Matrix`, `Simulation` | [✓](2075-decode-the-slanted-ciphertext/solution.py) | [✓](2075-decode-the-slanted-ciphertext/solution.java) |
 | 2452 | [Words Within Two Edits of Dictionary](2452-words-within-two-edits-of-dictionary/problem.md) | `Array`, `String` | [✓](2452-words-within-two-edits-of-dictionary/solution.py) | [✓](2452-words-within-two-edits-of-dictionary/solution.java) |
+| 2615 | [Sum of Distances](2615-sum-of-distances/problem.md) | `Array`, `Hash Table`, `Prefix Sum` | [✓](2615-sum-of-distances/solution.py) | [✓](2615-sum-of-distances/solution.java) |
 | 2943 | [Maximize Area of Square Hole in Grid](2943-maximize-area-of-square-hole-in-grid/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](2943-maximize-area-of-square-hole-in-grid/solution.py) | [✓](2943-maximize-area-of-square-hole-in-grid/solution.java) |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](2975-maximum-square-area-by-removing-fences-from-a-field/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.py) | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.java) |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](3047-find-the-largest-area-of-square-inside-two-rectangles/problem.md) | `Array`, `Math`, `Geometry` | [✓](3047-find-the-largest-area-of-square-inside-two-rectangles/solution.py) | [✓](3047-find-the-largest-area-of-square-inside-two-rectangles/solution.java) |
