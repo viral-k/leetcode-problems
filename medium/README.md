@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 29 problems
+**Total:** 30 problems
 
 ## Problems
 
@@ -36,4 +36,5 @@
 | 3713 | [Longest Balanced Substring I](3713-longest-balanced-substring-i/problem.md) | `String`, `Hash Table`, `Brute Force` | [✓](3713-longest-balanced-substring-i/solution.py) | [✓](3713-longest-balanced-substring-i/solution.java) |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i/problem.md) | `Array`, `Hash Table`, `Brute Force` | [✓](3719-longest-balanced-subarray-i/solution.py) | [✓](3719-longest-balanced-subarray-i/solution.java) |
 | 3741 | [Minimum Distance Between Three Equal Elements II](3741-minimum-distance-between-three-equal-elements-ii/problem.md) | `Array`, `Hash Table` | [✓](3741-minimum-distance-between-three-equal-elements-ii/solution.py) | [✓](3741-minimum-distance-between-three-equal-elements-ii/solution.java) |
+| 3742 | [Maximum Path Score In A Grid](3742-maximum-path-score-in-a-grid/problem.md) | `Array`, `Matrix`, `Dynamic Programming` | [✓](3742-maximum-path-score-in-a-grid/solution.py) | [✓](3742-maximum-path-score-in-a-grid/solution.java) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](3761-minimum-absolute-distance-between-mirror-pairs/problem.md) | `Array`, `Hash Table` | [✓](3761-minimum-absolute-distance-between-mirror-pairs/solution.py) | [✓](3761-minimum-absolute-distance-between-mirror-pairs/solution.java) |
