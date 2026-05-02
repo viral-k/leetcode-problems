@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 31 problems
+**Total:** 32 problems
 
 ## Problems
 
@@ -12,6 +12,7 @@
 | 223 | [Rectangle Area](223-rectangle-area/problem.md) | `Math`, `Geometry` | [✓](223-rectangle-area/solution.py) | [✓](223-rectangle-area/solution.java) |
 | 347 | [Top K Frequent Elements](347-top-k-frequent-elements/problem.md) | `Array`, `Hash Table`, `Bucket Sort` | [✓](347-top-k-frequent-elements/solution.py) | [✓](347-top-k-frequent-elements/solution.java) |
 | 396 | [Rotate Function](396-rotate-function/problem.md) | `Array`, `Math`, `Dynamic Programming` | [✓](396-rotate-function/solution.py) | [✓](396-rotate-function/solution.java) |
+| 788 | [Rotated Digits](788-rotated-digits/problem.md) | `Math`, `Dynamic Programming` | [✓](788-rotated-digits/solution.py) | [✓](788-rotated-digits/solution.java) |
 | 874 | [Walking Robot Simulation](874-walking-robot-simulation/problem.md) | `Array`, `Hash Table`, `Simulation` | [✓](874-walking-robot-simulation/solution.py) | [✓](874-walking-robot-simulation/solution.java) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/problem.md) | `Array`, `Binary Search`, `Matrix`, `Prefix Sum` | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.py) | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.java) |
 | 1391 | [Check if There is a Valid Path in a Grid](1391-check-if-there-is-a-valid-path-in-a-grid/problem.md) | `Array`, `BFS`, `DFS`, `Matrix`, `Union Find` | [✓](1391-check-if-there-is-a-valid-path-in-a-grid/solution.py) | [✓](1391-check-if-there-is-a-valid-path-in-a-grid/solution.java) |
