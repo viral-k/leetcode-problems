@@ -2,12 +2,13 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 32 problems
+**Total:** 33 problems
 
 ## Problems
 
 | #   | Problem | Tags | Python | Java |
 |-----|---------|------|--------|------|
+| 048 | [Rotate Image](048-rotate-image/problem.md) | `Array`, `Math`, `Matrix` | [✓](048-rotate-image/solution.py) | [✓](048-rotate-image/solution.java) |
 | 049 | [Group Anagrams](049-group-anagrams/problem.md) | `Array`, `Hash Table`, `String`, `Sorting` | [✓](049-group-anagrams/solution.py) | [✓](049-group-anagrams/solution.java) |
 | 223 | [Rectangle Area](223-rectangle-area/problem.md) | `Math`, `Geometry` | [✓](223-rectangle-area/solution.py) | [✓](223-rectangle-area/solution.java) |
 | 347 | [Top K Frequent Elements](347-top-k-frequent-elements/problem.md) | `Array`, `Hash Table`, `Bucket Sort` | [✓](347-top-k-frequent-elements/solution.py) | [✓](347-top-k-frequent-elements/solution.java) |
