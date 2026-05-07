@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 35 problems
+**Total:** 36 problems
 
 ## Problems
 
@@ -38,6 +38,7 @@
 | 3488 | [Closest Equal Element Queries](3488-closest-equal-element-queries/problem.md) | `Array`, `Hash Table` | [✓](3488-closest-equal-element-queries/solution.py) | [✓](3488-closest-equal-element-queries/solution.java) |
 | 3634 | [Minimum Removals to Balance Array](3634-minimum-removals-to-balance-array/problem.md) | `Array`, `Sorting`, `Two Pointers`, `Sliding Window` | [✓](3634-minimum-removals-to-balance-array/solution.py) | [✓](3634-minimum-removals-to-balance-array/solution.java) |
 | 3653 | [XOR After Range Multiplication Queries I](3653-xor-after-range-multiplication-queries-i/problem.md) | `Array`, `Bit Manipulation`, `Simulation` | [✓](3653-xor-after-range-multiplication-queries-i/solution.py) | [✓](3653-xor-after-range-multiplication-queries-i/solution.java) |
+| 3660 | [Jump Game IX](3660-jump-game-ix/problem.md) | `Array`, `Graph`, `Prefix Maximum`, `Suffix Minimum` | [✓](3660-jump-game-ix/solution.py) | [✓](3660-jump-game-ix/solution.java) |
 | 3713 | [Longest Balanced Substring I](3713-longest-balanced-substring-i/problem.md) | `String`, `Hash Table`, `Brute Force` | [✓](3713-longest-balanced-substring-i/solution.py) | [✓](3713-longest-balanced-substring-i/solution.java) |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i/problem.md) | `Array`, `Hash Table`, `Brute Force` | [✓](3719-longest-balanced-subarray-i/solution.py) | [✓](3719-longest-balanced-subarray-i/solution.java) |
 | 3741 | [Minimum Distance Between Three Equal Elements II](3741-minimum-distance-between-three-equal-elements-ii/problem.md) | `Array`, `Hash Table` | [✓](3741-minimum-distance-between-three-equal-elements-ii/solution.py) | [✓](3741-minimum-distance-between-three-equal-elements-ii/solution.java) |
