@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 36 problems
+**Total:** 37 problems
 
 ## Problems
 
@@ -36,6 +36,7 @@
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/problem.md) | `Array`, `Tree`, `DFS` | [✓](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/solution.py) | [✓](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/solution.java) |
 | 3418 | [Maximum Amount of Money Robot Can Earn](3418-maximum-amount-of-money-robot-can-earn/problem.md) | `Array`, `Matrix`, `Dynamic Programming` | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.py) | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.java) |
 | 3488 | [Closest Equal Element Queries](3488-closest-equal-element-queries/problem.md) | `Array`, `Hash Table` | [✓](3488-closest-equal-element-queries/solution.py) | [✓](3488-closest-equal-element-queries/solution.java) |
+| 3629 | [Minimum Jumps to Reach End via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation/problem.md) | `Array`, `BFS`, `Number Theory`, `Hash Table` | [✓](3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.py) | [✓](3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.java) |
 | 3634 | [Minimum Removals to Balance Array](3634-minimum-removals-to-balance-array/problem.md) | `Array`, `Sorting`, `Two Pointers`, `Sliding Window` | [✓](3634-minimum-removals-to-balance-array/solution.py) | [✓](3634-minimum-removals-to-balance-array/solution.java) |
 | 3653 | [XOR After Range Multiplication Queries I](3653-xor-after-range-multiplication-queries-i/problem.md) | `Array`, `Bit Manipulation`, `Simulation` | [✓](3653-xor-after-range-multiplication-queries-i/solution.py) | [✓](3653-xor-after-range-multiplication-queries-i/solution.java) |
 | 3660 | [Jump Game IX](3660-jump-game-ix/problem.md) | `Array`, `Graph`, `Prefix Maximum`, `Suffix Minimum` | [✓](3660-jump-game-ix/solution.py) | [✓](3660-jump-game-ix/solution.java) |
