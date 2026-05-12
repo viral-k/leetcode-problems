@@ -2,13 +2,14 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 8 problems
+**Total:** 9 problems
 
 ## Problems
 
 | #   | Problem | Tags | Python | Java |
 |-----|---------|------|--------|------|
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](1320-minimum-distance-to-type-a-word-using-two-fingers/problem.md) | `String`, `Dynamic Programming` | [✓](1320-minimum-distance-to-type-a-word-using-two-fingers/solution.py) | [✓](1320-minimum-distance-to-type-a-word-using-two-fingers/solution.java) |
+| 1665 | [Minimum Initial Energy to Finish Tasks](1665-minimum-initial-energy-to-finish-tasks/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.py) | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.java) |
 | 2463 | [Minimum Total Distance Traveled](2463-minimum-total-distance-traveled/problem.md) | `Array`, `Dynamic Programming`, `Sorting` | [✓](2463-minimum-total-distance-traveled/solution.py) | [✓](2463-minimum-total-distance-traveled/solution.java) |
 | 2751 | [Robot Collisions](2751-robot-collisions/problem.md) | `Array`, `Stack`, `Sorting`, `Simulation` | [✓](2751-robot-collisions/solution.py) | [✓](2751-robot-collisions/solution.java) |
 | 3225 | [Maximum Score From Grid Operations](3225-maximum-score-from-grid-operations/problem.md) | `Array`, `Dynamic Programming`, `Matrix`, `Prefix Sum` | [✓](3225-maximum-score-from-grid-operations/solution.py) | [✓](3225-maximum-score-from-grid-operations/solution.java) |
