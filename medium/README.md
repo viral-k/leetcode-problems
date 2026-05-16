@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 40 problems
+**Total:** 41 problems
 
 ## Problems
 
@@ -11,6 +11,7 @@
 | 048 | [Rotate Image](048-rotate-image/problem.md) | `Array`, `Math`, `Matrix` | [✓](048-rotate-image/solution.py) | [✓](048-rotate-image/solution.java) |
 | 049 | [Group Anagrams](049-group-anagrams/problem.md) | `Array`, `Hash Table`, `String`, `Sorting` | [✓](049-group-anagrams/solution.py) | [✓](049-group-anagrams/solution.java) |
 | 061 | [Rotate List](061-rotate-list/problem.md) | `Linked List`, `Two Pointers` | [✓](061-rotate-list/solution.py) | [✓](061-rotate-list/solution.java) |
+| 153 | [Find Minimum in Rotated Sorted Array](153-find-minimum-in-rotated-sorted-array/problem.md) | `Array`, `Binary Search` | [✓](153-find-minimum-in-rotated-sorted-array/solution.py) | [✓](153-find-minimum-in-rotated-sorted-array/solution.java) |
 | 223 | [Rectangle Area](223-rectangle-area/problem.md) | `Math`, `Geometry` | [✓](223-rectangle-area/solution.py) | [✓](223-rectangle-area/solution.java) |
 | 347 | [Top K Frequent Elements](347-top-k-frequent-elements/problem.md) | `Array`, `Hash Table`, `Bucket Sort` | [✓](347-top-k-frequent-elements/solution.py) | [✓](347-top-k-frequent-elements/solution.java) |
 | 396 | [Rotate Function](396-rotate-function/problem.md) | `Array`, `Math`, `Dynamic Programming` | [✓](396-rotate-function/solution.py) | [✓](396-rotate-function/solution.java) |
