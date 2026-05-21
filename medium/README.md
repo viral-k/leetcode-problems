@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 43 problems
+**Total:** 44 problems
 
 ## Problems
 
@@ -38,6 +38,7 @@
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](2770-maximum-number-of-jumps-to-reach-the-last-index/problem.md) | `Array`, `Dynamic Programming` | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.py) | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) |
 | 2943 | [Maximize Area of Square Hole in Grid](2943-maximize-area-of-square-hole-in-grid/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](2943-maximize-area-of-square-hole-in-grid/solution.py) | [✓](2943-maximize-area-of-square-hole-in-grid/solution.java) |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](2975-maximum-square-area-by-removing-fences-from-a-field/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.py) | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.java) |
+| 3043 | [Find the Length of the Longest Common Prefix](3043-find-the-length-of-the-longest-common-prefix/problem.md) | `Array`, `Hash Table` | [✓](3043-find-the-length-of-the-longest-common-prefix/solution.py) | [✓](3043-find-the-length-of-the-longest-common-prefix/solution.java) |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](3047-find-the-largest-area-of-square-inside-two-rectangles/problem.md) | `Array`, `Math`, `Geometry` | [✓](3047-find-the-largest-area-of-square-inside-two-rectangles/solution.py) | [✓](3047-find-the-largest-area-of-square-inside-two-rectangles/solution.java) |
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/problem.md) | `Array`, `Tree`, `DFS` | [✓](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/solution.py) | [✓](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/solution.java) |
 | 3418 | [Maximum Amount of Money Robot Can Earn](3418-maximum-amount-of-money-robot-can-earn/problem.md) | `Array`, `Matrix`, `Dynamic Programming` | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.py) | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.java) |
