@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 17 problems
+**Total:** 18 problems
 
 ## Problems
 
@@ -13,6 +13,7 @@
 | 796 | [Rotate String](796-rotate-string/problem.md) | `String`, `String Matching` | [✓](796-rotate-string/solution.py) | [✓](796-rotate-string/solution.java) |
 | 1009 | [Complement of Base 10 Integer](1009-complement-of-base-10-integer/problem.md) | `Bit Manipulation` | [✓](1009-complement-of-base-10-integer/solution.py) | [✓](1009-complement-of-base-10-integer/solution.java) |
 | 1582 | [Special Positions in a Binary Matrix](1582-special-positions-in-a-binary-matrix/problem.md) | `Array`, `Matrix` | [✓](1582-special-positions-in-a-binary-matrix/solution.py) | [✓](1582-special-positions-in-a-binary-matrix/solution.java) |
+| 1752 | [Check if Array Is Sorted and Rotated](1752-check-if-array-is-sorted-and-rotated/problem.md) | `Array` | [✓](1752-check-if-array-is-sorted-and-rotated/solution.py) | [✓](1752-check-if-array-is-sorted-and-rotated/solution.java) |
 | 1758 | [Minimum Changes To Make Alternating Binary String](1758-minimum-changes-to-make-alternating-binary-string/problem.md) | `String`, `Greedy` | [✓](1758-minimum-changes-to-make-alternating-binary-string/solution.py) | [✓](1758-minimum-changes-to-make-alternating-binary-string/solution.java) |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones/problem.md) | `String` | [✓](1784-check-if-binary-string-has-at-most-one-segment-of-ones/solution.py) | [✓](1784-check-if-binary-string-has-at-most-one-segment-of-ones/solution.java) |
 | 1848 | [Minimum Distance to the Target Element](1848-minimum-distance-to-the-target-element/problem.md) | `Array` | [✓](1848-minimum-distance-to-the-target-element/solution.py) | [✓](1848-minimum-distance-to-the-target-element/solution.java) |
