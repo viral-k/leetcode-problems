@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 45 problems
+**Total:** 46 problems
 
 ## Problems
 
@@ -29,6 +29,7 @@
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/problem.md) | `Array`, `Greedy`, `Sorting`, `Counting Sort` | [✓](1833-maximum-ice-cream-bars/solution.py) | [✓](1833-maximum-ice-cream-bars/solution.java) |
 | 1855 | [Maximum Distance Between a Pair of Values](1855-maximum-distance-between-a-pair-of-values/problem.md) | `Array`, `Two Pointers`, `Binary Search` | [✓](1855-maximum-distance-between-a-pair-of-values/solution.py) | [✓](1855-maximum-distance-between-a-pair-of-values/solution.java) |
 | 1861 | [Rotating the Box](1861-rotating-the-box/problem.md) | `Array`, `Two Pointers`, `Matrix`, `Simulation` | [✓](1861-rotating-the-box/solution.py) | [✓](1861-rotating-the-box/solution.java) |
+| 1871 | [Jump Game VII](1871-jump-game-vii/problem.md) | `String`, `Dynamic Programming`, `Prefix Sum`, `Sliding Window` | [✓](1871-jump-game-vii/solution.py) | [✓](1871-jump-game-vii/solution.java) |
 | 1914 | [Cyclically Rotating a Grid](1914-cyclically-rotating-a-grid/problem.md) | `Array`, `Matrix`, `Simulation` | [✓](1914-cyclically-rotating-a-grid/solution.py) | [✓](1914-cyclically-rotating-a-grid/solution.java) |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](2033-minimum-operations-to-make-a-uni-value-grid/problem.md) | `Array`, `Math`, `Sorting`, `Matrix` | [✓](2033-minimum-operations-to-make-a-uni-value-grid/solution.py) | [✓](2033-minimum-operations-to-make-a-uni-value-grid/solution.java) |
 | 2069 | [Walking Robot Simulation II](2069-walking-robot-simulation-ii/problem.md) | `Design`, `Simulation` | [✓](2069-walking-robot-simulation-ii/solution.py) | [✓](2069-walking-robot-simulation-ii/solution.java) |
