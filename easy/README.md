@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 18 problems
+**Total:** 19 problems
 
 ## Problems
 
@@ -23,6 +23,7 @@
 | 2553 | [Separate the Digits in an Array](2553-separate-the-digits-in-an-array/problem.md) | `Array`, `Simulation` | [✓](2553-separate-the-digits-in-an-array/solution.py) | [✓](2553-separate-the-digits-in-an-array/solution.java) |
 | 2784 | [Check if Array is Good](2784-check-if-array-is-good/problem.md) | `Array`, `Hash Table`, `Counting` | [✓](2784-check-if-array-is-good/solution.py) | [✓](2784-check-if-array-is-good/solution.java) |
 | 2833 | [Furthest Point From Origin](2833-furthest-point-from-origin/problem.md) | `String`, `Greedy` | [✓](2833-furthest-point-from-origin/solution.py) | [✓](2833-furthest-point-from-origin/solution.java) |
+| 3120 | [Count the Number of Special Characters I](3120-count-the-number-of-special-characters-i/problem.md) | `Hash Set`, `String` | [✓](3120-count-the-number-of-special-characters-i/solution.py) | [✓](3120-count-the-number-of-special-characters-i/solution.java) |
 | 3507 | [Minimum Pair Removal to Sort Array I](3507-minimum-pair-removal-to-sort-array-i/problem.md) | `Array`, `Simulation`, `Greedy` | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.py) | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.java) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](3740-minimum-distance-between-three-equal-elements-i/problem.md) | `Array`, `Hash Table` | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.py) | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.java) |
 | 3783 | [Mirror Distance of an Integer](3783-mirror-distance-of-an-integer/problem.md) | `Math` | [✓](3783-mirror-distance-of-an-integer/solution.py) | [✓](3783-mirror-distance-of-an-integer/solution.java) |
