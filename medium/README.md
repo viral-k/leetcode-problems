@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 46 problems
+**Total:** 47 problems
 
 ## Problems
 
@@ -43,6 +43,7 @@
 | 3043 | [Find the Length of the Longest Common Prefix](3043-find-the-length-of-the-longest-common-prefix/problem.md) | `Array`, `Hash Table` | [✓](3043-find-the-length-of-the-longest-common-prefix/solution.py) | [✓](3043-find-the-length-of-the-longest-common-prefix/solution.java) |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](3047-find-the-largest-area-of-square-inside-two-rectangles/problem.md) | `Array`, `Math`, `Geometry` | [✓](3047-find-the-largest-area-of-square-inside-two-rectangles/solution.py) | [✓](3047-find-the-largest-area-of-square-inside-two-rectangles/solution.java) |
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/problem.md) | `Array`, `Tree`, `DFS` | [✓](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/solution.py) | [✓](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/solution.java) |
+| 3121 | [Count the Number of Special Characters II](3121-count-the-number-of-special-characters-ii/problem.md) | `Hash Table`, `String` | [✓](3121-count-the-number-of-special-characters-ii/solution.py) | [✓](3121-count-the-number-of-special-characters-ii/solution.java) |
 | 3418 | [Maximum Amount of Money Robot Can Earn](3418-maximum-amount-of-money-robot-can-earn/problem.md) | `Array`, `Matrix`, `Dynamic Programming` | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.py) | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.java) |
 | 3488 | [Closest Equal Element Queries](3488-closest-equal-element-queries/problem.md) | `Array`, `Hash Table` | [✓](3488-closest-equal-element-queries/solution.py) | [✓](3488-closest-equal-element-queries/solution.java) |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation/problem.md) | `Array`, `BFS`, `Number Theory`, `Hash Table` | [✓](3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.py) | [✓](3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.java) |
