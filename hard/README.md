@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 12 problems
+**Total:** 13 problems
 
 ## Problems
 
@@ -15,6 +15,7 @@
 | 1665 | [Minimum Initial Energy to Finish Tasks](1665-minimum-initial-energy-to-finish-tasks/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.py) | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.java) |
 | 2463 | [Minimum Total Distance Traveled](2463-minimum-total-distance-traveled/problem.md) | `Array`, `Dynamic Programming`, `Sorting` | [✓](2463-minimum-total-distance-traveled/solution.py) | [✓](2463-minimum-total-distance-traveled/solution.java) |
 | 2751 | [Robot Collisions](2751-robot-collisions/problem.md) | `Array`, `Stack`, `Sorting`, `Simulation` | [✓](2751-robot-collisions/solution.py) | [✓](2751-robot-collisions/solution.java) |
+| 3093 | [Longest Common Suffix Queries](3093-longest-common-suffix-queries/problem.md) | `Array`, `String`, `Trie` | [✓](3093-longest-common-suffix-queries/solution.py) | [✓](3093-longest-common-suffix-queries/solution.java) |
 | 3225 | [Maximum Score From Grid Operations](3225-maximum-score-from-grid-operations/problem.md) | `Array`, `Dynamic Programming`, `Matrix`, `Prefix Sum` | [✓](3225-maximum-score-from-grid-operations/solution.py) | [✓](3225-maximum-score-from-grid-operations/solution.java) |
 | 3464 | [Maximize the Distance Between Points on a Square](3464-maximize-the-distance-between-points-on-a-square/problem.md) | `Array`, `Binary Search`, `Greedy` | [✓](3464-maximize-the-distance-between-points-on-a-square/solution.py) | [✓](3464-maximize-the-distance-between-points-on-a-square/solution.java) |
 | 3655 | [XOR After Range Multiplication Queries II](3655-xor-after-range-multiplication-queries-ii/problem.md) | `Array`, `Bit Manipulation`, `Math`, `Sqrt Decomposition` | [✓](3655-xor-after-range-multiplication-queries-ii/solution.py) | [✓](3655-xor-after-range-multiplication-queries-ii/solution.java) |
