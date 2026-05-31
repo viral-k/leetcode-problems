@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 47 problems
+**Total:** 48 problems
 
 ## Problems
 
@@ -34,6 +34,7 @@
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](2033-minimum-operations-to-make-a-uni-value-grid/problem.md) | `Array`, `Math`, `Sorting`, `Matrix` | [✓](2033-minimum-operations-to-make-a-uni-value-grid/solution.py) | [✓](2033-minimum-operations-to-make-a-uni-value-grid/solution.java) |
 | 2069 | [Walking Robot Simulation II](2069-walking-robot-simulation-ii/problem.md) | `Design`, `Simulation` | [✓](2069-walking-robot-simulation-ii/solution.py) | [✓](2069-walking-robot-simulation-ii/solution.java) |
 | 2075 | [Decode the Slanted Ciphertext](2075-decode-the-slanted-ciphertext/problem.md) | `String`, `Matrix`, `Simulation` | [✓](2075-decode-the-slanted-ciphertext/solution.py) | [✓](2075-decode-the-slanted-ciphertext/solution.java) |
+| 2126 | [Destroying Asteroids](2126-destroying-asteroids/problem.md) | `Array`, `Greedy`, `Counting Sort` | [✓](2126-destroying-asteroids/solution.py) | [✓](2126-destroying-asteroids/solution.java) |
 | 2452 | [Words Within Two Edits of Dictionary](2452-words-within-two-edits-of-dictionary/problem.md) | `Array`, `String` | [✓](2452-words-within-two-edits-of-dictionary/solution.py) | [✓](2452-words-within-two-edits-of-dictionary/solution.java) |
 | 2615 | [Sum of Distances](2615-sum-of-distances/problem.md) | `Array`, `Hash Table`, `Prefix Sum` | [✓](2615-sum-of-distances/solution.py) | [✓](2615-sum-of-distances/solution.java) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](2657-find-the-prefix-common-array-of-two-arrays/problem.md) | `Array`, `Hash Table`, `Counting` | [✓](2657-find-the-prefix-common-array-of-two-arrays/solution.py) | [✓](2657-find-the-prefix-common-array-of-two-arrays/solution.java) |
