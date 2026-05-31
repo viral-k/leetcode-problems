@@ -2,7 +2,7 @@
 
 Personal collection of LeetCode problem solutions with detailed approaches and explanations.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-viras03-orange?logo=leetcode)](https://leetcode.com/u/viras03/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-yral--k-orange?logo=leetcode)](https://leetcode.com/u/yral-k/)
 
 ## Progress
 
