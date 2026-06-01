@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 20 problems
+**Total:** 21 problems
 
 ## Problems
 
@@ -18,6 +18,7 @@
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones/problem.md) | `String` | [✓](1784-check-if-binary-string-has-at-most-one-segment-of-ones/solution.py) | [✓](1784-check-if-binary-string-has-at-most-one-segment-of-ones/solution.java) |
 | 1848 | [Minimum Distance to the Target Element](1848-minimum-distance-to-the-target-element/problem.md) | `Array` | [✓](1848-minimum-distance-to-the-target-element/solution.py) | [✓](1848-minimum-distance-to-the-target-element/solution.java) |
 | 2078 | [Two Furthest Houses With Different Colors](2078-two-furthest-houses-with-different-colors/problem.md) | `Array`, `Greedy` | [✓](2078-two-furthest-houses-with-different-colors/solution.py) | [✓](2078-two-furthest-houses-with-different-colors/solution.java) |
+| 2144 | [Minimum Cost of Buying Candies With Discount](2144-minimum-cost-of-buying-candies-with-discount/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.py) | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.java) |
 | 2515 | [Shortest Distance to Target String in a Circular Array](2515-shortest-distance-to-target-string-in-a-circular-array/problem.md) | `Array`, `String` | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.py) | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.java) |
 | 2540 | [Minimum Common Value](2540-minimum-common-value/problem.md) | `Array`, `Two Pointers` | [✓](2540-minimum-common-value/solution.py) | [✓](2540-minimum-common-value/solution.java) |
 | 2553 | [Separate the Digits in an Array](2553-separate-the-digits-in-an-array/problem.md) | `Array`, `Simulation` | [✓](2553-separate-the-digits-in-an-array/solution.py) | [✓](2553-separate-the-digits-in-an-array/solution.java) |
