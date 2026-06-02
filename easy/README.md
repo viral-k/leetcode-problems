@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 21 problems
+**Total:** 22 problems
 
 ## Problems
 
@@ -27,5 +27,6 @@
 | 3120 | [Count the Number of Special Characters I](3120-count-the-number-of-special-characters-i/problem.md) | `Hash Set`, `String` | [✓](3120-count-the-number-of-special-characters-i/solution.py) | [✓](3120-count-the-number-of-special-characters-i/solution.java) |
 | 3300 | [Minimum Element After Replacement With Digit Sum](3300-minimum-element-after-replacement-with-digit-sum/problem.md) | `Array`, `Math` | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.py) | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.java) |
 | 3507 | [Minimum Pair Removal to Sort Array I](3507-minimum-pair-removal-to-sort-array-i/problem.md) | `Array`, `Simulation`, `Greedy` | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.py) | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.java) |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i/problem.md) | `Array`, `Brute Force`, `Simulation` | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.py) | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.java) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](3740-minimum-distance-between-three-equal-elements-i/problem.md) | `Array`, `Hash Table` | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.py) | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.java) |
 | 3783 | [Mirror Distance of an Integer](3783-mirror-distance-of-an-integer/problem.md) | `Math` | [✓](3783-mirror-distance-of-an-integer/solution.py) | [✓](3783-mirror-distance-of-an-integer/solution.java) |
