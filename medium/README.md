@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 49 problems
+**Total:** 50 problems
 
 ## Problems
 
@@ -56,4 +56,5 @@
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i/problem.md) | `Array`, `Hash Table`, `Brute Force` | [✓](3719-longest-balanced-subarray-i/solution.py) | [✓](3719-longest-balanced-subarray-i/solution.java) |
 | 3741 | [Minimum Distance Between Three Equal Elements II](3741-minimum-distance-between-three-equal-elements-ii/problem.md) | `Array`, `Hash Table` | [✓](3741-minimum-distance-between-three-equal-elements-ii/solution.py) | [✓](3741-minimum-distance-between-three-equal-elements-ii/solution.java) |
 | 3742 | [Maximum Path Score In A Grid](3742-maximum-path-score-in-a-grid/problem.md) | `Array`, `Matrix`, `Dynamic Programming` | [✓](3742-maximum-path-score-in-a-grid/solution.py) | [✓](3742-maximum-path-score-in-a-grid/solution.java) |
+| 3751 | [Total Waviness of Numbers in Range I](3751-total-waviness-of-numbers-in-range-i/problem.md) | `Math`, `Simulation` | [✓](3751-total-waviness-of-numbers-in-range-i/solution.py) | [✓](3751-total-waviness-of-numbers-in-range-i/solution.java) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](3761-minimum-absolute-distance-between-mirror-pairs/problem.md) | `Array`, `Hash Table` | [✓](3761-minimum-absolute-distance-between-mirror-pairs/solution.py) | [✓](3761-minimum-absolute-distance-between-mirror-pairs/solution.java) |
