@@ -10,12 +10,12 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 |------------|--------|----------|
 | Easy       | 22      | [View](easy/README.md) |
 | Medium     | 50      | [View](medium/README.md) |
-| Hard       | 14      | [View](hard/README.md) |
-| **Total**  | **86**  | |
+| Hard       | 15      | [View](hard/README.md) |
+| **Total**  | **87**  | |
 
 ## Topics Covered
 
-`Array` `BFS` `Binary Indexed Tree` `Binary Search` `Bit Manipulation` `Brute Force` `Bucket Sort` `Counting` `Counting Sort` `DFS` `Design` `Dynamic Programming` `Geometry` `Graph` `Greedy` `Hash Set` `Hash Table` `Linked List` `Math` `Matrix` `Memoization` `Number Theory` `Prefix Maximum` `Prefix Minimum` `Prefix Sum` `Recursion` `Segment Tree` `Simulation` `Sliding Window` `Sorting` `Sqrt Decomposition` `Stack` `String` `String Matching` `Suffix Minimum` `Tree` `Trie` `Two Pointers` `Union Find`
+`Array` `BFS` `Binary Indexed Tree` `Binary Search` `Bit Manipulation` `Brute Force` `Bucket Sort` `Counting` `Counting Sort` `DFS` `Design` `Digit DP` `Dynamic Programming` `Geometry` `Graph` `Greedy` `Hash Set` `Hash Table` `Linked List` `Math` `Matrix` `Memoization` `Number Theory` `Prefix Maximum` `Prefix Minimum` `Prefix Sum` `Recursion` `Segment Tree` `Simulation` `Sliding Window` `Sorting` `Sqrt Decomposition` `Stack` `String` `String Matching` `Suffix Minimum` `Tree` `Trie` `Two Pointers` `Union Find`
 
 ## Quick Start
 

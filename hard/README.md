@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 14 problems
+**Total:** 15 problems
 
 ## Problems
 
@@ -22,3 +22,4 @@
 | 3655 | [XOR After Range Multiplication Queries II](3655-xor-after-range-multiplication-queries-ii/problem.md) | `Array`, `Bit Manipulation`, `Math`, `Sqrt Decomposition` | [✓](3655-xor-after-range-multiplication-queries-ii/solution.py) | [✓](3655-xor-after-range-multiplication-queries-ii/solution.java) |
 | 3661 | [Maximum Walls Destroyed by Robots](3661-maximum-walls-destroyed-by-robots/problem.md) | `Array`, `Greedy`, `Sorting`, `Binary Search`, `Dynamic Programming` | [✓](3661-maximum-walls-destroyed-by-robots/solution.py) | [✓](3661-maximum-walls-destroyed-by-robots/solution.java) |
 | 3721 | [Longest Balanced Subarray II](3721-longest-balanced-subarray-ii/problem.md) | `Array`, `Hash Table`, `Segment Tree` | [✓](3721-longest-balanced-subarray-ii/solution.py) | [✓](3721-longest-balanced-subarray-ii/solution.java) |
+| 3753 | [Total Waviness of Numbers in Range II](3753-total-waviness-of-numbers-in-range-ii/problem.md) | `Digit DP`, `Dynamic Programming`, `Math` | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.py) | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.java) |
