@@ -1,5 +1,5 @@
 /**
- * 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+ * 1689. Partitioning Into Minimum Number of Deci-Binary Numbers
  * Time: O(n)
  * Space: O(1)
  */

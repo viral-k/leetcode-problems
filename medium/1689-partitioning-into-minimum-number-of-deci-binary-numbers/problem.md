@@ -1,7 +1,7 @@
-# Partitioning Into Minimum Number Of Deci-Binary Numbers
+# Partitioning Into Minimum Number of Deci-Binary Numbers
 
 **Difficulty:** Medium  
-**LeetCode Link:** [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
+**LeetCode Link:** [Partitioning Into Minimum Number of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
 
 ## Description
 

@@ -15,6 +15,24 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).parent.parent
 TEMPLATES_DIR = REPO_ROOT / "_templates"
 VALID_DIFFICULTIES = {"easy", "medium", "hard"}
+ROMAN_NUMERALS = {"i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"}
+LOWERCASE_TITLE_WORDS = {"a", "an", "and", "as", "at", "by", "for", "from", "in", "of", "on", "or", "the", "to", "with"}
+
+
+def title_from_slug(slug: str) -> str:
+    words = slug.replace("-", " ").title().split()
+    normalized = []
+
+    for index, word in enumerate(words):
+        lower_word = word.lower()
+        if lower_word in ROMAN_NUMERALS:
+            normalized.append(lower_word.upper())
+        elif index > 0 and lower_word in LOWERCASE_TITLE_WORDS:
+            normalized.append(lower_word)
+        else:
+            normalized.append(word)
+
+    return " ".join(normalized)
 
 
 def create_problem(number: str, slug: str, difficulty: str) -> None:
@@ -40,7 +58,7 @@ def create_problem(number: str, slug: str, difficulty: str) -> None:
     folder_path.mkdir(parents=True, exist_ok=True)
     
     # Copy and customize templates
-    title = slug.replace("-", " ").title()
+    title = title_from_slug(slug)
     leetcode_url = f"https://leetcode.com/problems/{slug}/"
     
     # problem.md

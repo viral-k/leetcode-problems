@@ -12,6 +12,8 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
 DIFFICULTIES = ["easy", "medium", "hard"]
+ROMAN_NUMERALS = {"i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"}
+LOWERCASE_TITLE_WORDS = {"a", "an", "and", "as", "at", "by", "for", "from", "in", "of", "on", "or", "the", "to", "with"}
 
 
 def parse_problem_folder(folder_name: str) -> tuple[str, str]:
@@ -20,6 +22,28 @@ def parse_problem_folder(folder_name: str) -> tuple[str, str]:
     if match:
         return match.group(1), match.group(2)
     return "", folder_name
+
+
+def normalize_title(title: str) -> str:
+    """Normalize generated title casing and roman numeral suffixes."""
+    words = title.split()
+    normalized = []
+
+    for index, word in enumerate(words):
+        lower_word = word.lower()
+        if lower_word in ROMAN_NUMERALS:
+            normalized.append(lower_word.upper())
+        elif index > 0 and lower_word in LOWERCASE_TITLE_WORDS:
+            normalized.append(lower_word)
+        else:
+            normalized.append(word)
+
+    return " ".join(normalized)
+
+
+def title_from_slug(slug: str) -> str:
+    """Convert a problem slug into a readable title."""
+    return normalize_title(slug.replace("-", " ").title())
 
 
 def get_tags_from_approach(approach_path: Path) -> list[str]:
@@ -49,7 +73,7 @@ def get_problem_title(problem_path: Path) -> str:
     if match:
         title = match.group(1).strip()
         title = re.sub(r"\s*\(.*\)\s*$", "", title)
-        return title
+        return normalize_title(title)
     return ""
 
 
@@ -77,7 +101,7 @@ def scan_problems() -> dict:
             solution_py = folder / "solution.py"
             solution_java = folder / "solution.java"
             
-            title = get_problem_title(problem_md) or slug.replace("-", " ").title()
+            title = get_problem_title(problem_md) or title_from_slug(slug)
             tags = get_tags_from_approach(approach_md)
             all_tags.update(tags)
             
