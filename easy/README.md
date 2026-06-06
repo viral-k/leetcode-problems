@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 22 problems
+**Total:** 23 problems
 
 ## Problems
 
@@ -22,6 +22,7 @@
 | 2515 | [Shortest Distance to Target String in a Circular Array](2515-shortest-distance-to-target-string-in-a-circular-array/problem.md) | `Array`, `String` | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.py) | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.java) |
 | 2540 | [Minimum Common Value](2540-minimum-common-value/problem.md) | `Array`, `Two Pointers` | [✓](2540-minimum-common-value/solution.py) | [✓](2540-minimum-common-value/solution.java) |
 | 2553 | [Separate the Digits in an Array](2553-separate-the-digits-in-an-array/problem.md) | `Array`, `Simulation` | [✓](2553-separate-the-digits-in-an-array/solution.py) | [✓](2553-separate-the-digits-in-an-array/solution.java) |
+| 2574 | [Left and Right Sum Differences](2574-left-and-right-sum-differences/problem.md) | `Array`, `Prefix Sum` | [✓](2574-left-and-right-sum-differences/solution.py) | [✓](2574-left-and-right-sum-differences/solution.java) |
 | 2784 | [Check if Array is Good](2784-check-if-array-is-good/problem.md) | `Array`, `Hash Table`, `Counting` | [✓](2784-check-if-array-is-good/solution.py) | [✓](2784-check-if-array-is-good/solution.java) |
 | 2833 | [Furthest Point from Origin](2833-furthest-point-from-origin/problem.md) | `String`, `Greedy` | [✓](2833-furthest-point-from-origin/solution.py) | [✓](2833-furthest-point-from-origin/solution.java) |
 | 3120 | [Count the Number of Special Characters I](3120-count-the-number-of-special-characters-i/problem.md) | `Hash Set`, `String` | [✓](3120-count-the-number-of-special-characters-i/solution.py) | [✓](3120-count-the-number-of-special-characters-i/solution.java) |
