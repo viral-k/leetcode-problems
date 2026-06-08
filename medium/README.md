@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 51 problems
+**Total:** 52 problems
 
 ## Problems
 
@@ -35,6 +35,7 @@
 | 2069 | [Walking Robot Simulation II](2069-walking-robot-simulation-ii/problem.md) | `Design`, `Simulation` | [✓](2069-walking-robot-simulation-ii/solution.py) | [✓](2069-walking-robot-simulation-ii/solution.java) |
 | 2075 | [Decode the Slanted Ciphertext](2075-decode-the-slanted-ciphertext/problem.md) | `String`, `Matrix`, `Simulation` | [✓](2075-decode-the-slanted-ciphertext/solution.py) | [✓](2075-decode-the-slanted-ciphertext/solution.java) |
 | 2126 | [Destroying Asteroids](2126-destroying-asteroids/problem.md) | `Array`, `Greedy`, `Counting Sort` | [✓](2126-destroying-asteroids/solution.py) | [✓](2126-destroying-asteroids/solution.java) |
+| 2161 | [Partition Array According to Given Pivot](2161-partition-array-according-to-given-pivot/problem.md) | `Array`, `Two Pointers` | [✓](2161-partition-array-according-to-given-pivot/solution.py) | [✓](2161-partition-array-according-to-given-pivot/solution.java) |
 | 2196 | [Create Binary Tree from Descriptions](2196-create-binary-tree-from-descriptions/problem.md) | `Array`, `Hash Table`, `Tree`, `Binary Tree` | [✓](2196-create-binary-tree-from-descriptions/solution.py) | [✓](2196-create-binary-tree-from-descriptions/solution.java) |
 | 2452 | [Words Within Two Edits of Dictionary](2452-words-within-two-edits-of-dictionary/problem.md) | `Array`, `String` | [✓](2452-words-within-two-edits-of-dictionary/solution.py) | [✓](2452-words-within-two-edits-of-dictionary/solution.java) |
 | 2615 | [Sum of Distances](2615-sum-of-distances/problem.md) | `Array`, `Hash Table`, `Prefix Sum` | [✓](2615-sum-of-distances/solution.py) | [✓](2615-sum-of-distances/solution.java) |
