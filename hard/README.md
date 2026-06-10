@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 15 problems
+**Total:** 16 problems
 
 ## Problems
 
@@ -21,5 +21,6 @@
 | 3464 | [Maximize the Distance Between Points on a Square](3464-maximize-the-distance-between-points-on-a-square/problem.md) | `Array`, `Binary Search`, `Greedy` | [✓](3464-maximize-the-distance-between-points-on-a-square/solution.py) | [✓](3464-maximize-the-distance-between-points-on-a-square/solution.java) |
 | 3655 | [XOR After Range Multiplication Queries II](3655-xor-after-range-multiplication-queries-ii/problem.md) | `Array`, `Bit Manipulation`, `Math`, `Sqrt Decomposition` | [✓](3655-xor-after-range-multiplication-queries-ii/solution.py) | [✓](3655-xor-after-range-multiplication-queries-ii/solution.java) |
 | 3661 | [Maximum Walls Destroyed by Robots](3661-maximum-walls-destroyed-by-robots/problem.md) | `Array`, `Greedy`, `Sorting`, `Binary Search`, `Dynamic Programming` | [✓](3661-maximum-walls-destroyed-by-robots/solution.py) | [✓](3661-maximum-walls-destroyed-by-robots/solution.java) |
+| 3691 | [Maximum Total Subarray Value II](3691-maximum-total-subarray-value-ii/problem.md) | `Array`, `Heap (Priority Queue)`, `Sparse Table` | [✓](3691-maximum-total-subarray-value-ii/solution.py) | [✓](3691-maximum-total-subarray-value-ii/solution.java) |
 | 3721 | [Longest Balanced Subarray II](3721-longest-balanced-subarray-ii/problem.md) | `Array`, `Hash Table`, `Segment Tree` | [✓](3721-longest-balanced-subarray-ii/solution.py) | [✓](3721-longest-balanced-subarray-ii/solution.java) |
 | 3753 | [Total Waviness of Numbers in Range II](3753-total-waviness-of-numbers-in-range-ii/problem.md) | `Digit DP`, `Dynamic Programming`, `Math` | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.py) | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.java) |
