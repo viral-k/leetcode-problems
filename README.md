@@ -10,12 +10,12 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 |------------|--------|----------|
 | Easy       | 23      | [View](easy/README.md) |
 | Medium     | 54      | [View](medium/README.md) |
-| Hard       | 16      | [View](hard/README.md) |
-| **Total**  | **93**  | |
+| Hard       | 17      | [View](hard/README.md) |
+| **Total**  | **94**  | |
 
 ## Topics Covered
 
-`Array` `BFS` `Binary Indexed Tree` `Binary Search` `Binary Tree` `Bit Manipulation` `Brute Force` `Bucket Sort` `Counting` `Counting Sort` `DFS` `Design` `Digit DP` `Dynamic Programming` `Geometry` `Graph` `Greedy` `Hash Set` `Hash Table` `Heap (Priority Queue)` `Linked List` `Math` `Matrix` `Memoization` `Number Theory` `Prefix Maximum` `Prefix Minimum` `Prefix Sum` `Recursion` `Segment Tree` `Simulation` `Sliding Window` `Sorting` `Sparse Table` `Sqrt Decomposition` `Stack` `String` `String Matching` `Suffix Minimum` `Tree` `Trie` `Two Pointers` `Union Find`
+`Array` `BFS` `Binary Indexed Tree` `Binary Lifting` `Binary Search` `Binary Tree` `Bit Manipulation` `Brute Force` `Bucket Sort` `Counting` `Counting Sort` `DFS` `Depth-First Search` `Design` `Digit DP` `Dynamic Programming` `Geometry` `Graph` `Greedy` `Hash Set` `Hash Table` `Heap (Priority Queue)` `Linked List` `Math` `Matrix` `Memoization` `Number Theory` `Prefix Maximum` `Prefix Minimum` `Prefix Sum` `Recursion` `Segment Tree` `Simulation` `Sliding Window` `Sorting` `Sparse Table` `Sqrt Decomposition` `Stack` `String` `String Matching` `Suffix Minimum` `Tree` `Trie` `Two Pointers` `Union Find`
 
 ## Quick Start
 
