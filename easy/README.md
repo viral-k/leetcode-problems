@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 23 problems
+**Total:** 24 problems
 
 ## Problems
 
@@ -31,3 +31,4 @@
 | 3633 | [Earliest Finish Time for Land and Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i/problem.md) | `Array`, `Brute Force`, `Simulation` | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.py) | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.java) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](3740-minimum-distance-between-three-equal-elements-i/problem.md) | `Array`, `Hash Table` | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.py) | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.java) |
 | 3783 | [Mirror Distance of an Integer](3783-mirror-distance-of-an-integer/problem.md) | `Math` | [✓](3783-mirror-distance-of-an-integer/solution.py) | [✓](3783-mirror-distance-of-an-integer/solution.java) |
+| 3838 | [Weighted Word Mapping](3838-weighted-word-mapping/problem.md) | `Array`, `String`, `Hash Table` | [✓](3838-weighted-word-mapping/solution.py) | [✓](3838-weighted-word-mapping/solution.java) |
