@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 55 problems
+**Total:** 56 problems
 
 ## Problems
 
@@ -34,6 +34,7 @@
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](2033-minimum-operations-to-make-a-uni-value-grid/problem.md) | `Array`, `Math`, `Sorting`, `Matrix` | [✓](2033-minimum-operations-to-make-a-uni-value-grid/solution.py) | [✓](2033-minimum-operations-to-make-a-uni-value-grid/solution.java) |
 | 2069 | [Walking Robot Simulation II](2069-walking-robot-simulation-ii/problem.md) | `Design`, `Simulation` | [✓](2069-walking-robot-simulation-ii/solution.py) | [✓](2069-walking-robot-simulation-ii/solution.java) |
 | 2075 | [Decode the Slanted Ciphertext](2075-decode-the-slanted-ciphertext/problem.md) | `String`, `Matrix`, `Simulation` | [✓](2075-decode-the-slanted-ciphertext/solution.py) | [✓](2075-decode-the-slanted-ciphertext/solution.java) |
+| 2095 | [Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list/problem.md) | `Linked List`, `Two Pointers` | [✓](2095-delete-the-middle-node-of-a-linked-list/solution.py) | [✓](2095-delete-the-middle-node-of-a-linked-list/solution.java) |
 | 2126 | [Destroying Asteroids](2126-destroying-asteroids/problem.md) | `Array`, `Greedy`, `Counting Sort` | [✓](2126-destroying-asteroids/solution.py) | [✓](2126-destroying-asteroids/solution.java) |
 | 2130 | [Maximum Twin Sum of a Linked List](2130-maximum-twin-sum-of-a-linked-list/problem.md) | `Linked List`, `Two Pointers`, `Stack` | [✓](2130-maximum-twin-sum-of-a-linked-list/solution.py) | [✓](2130-maximum-twin-sum-of-a-linked-list/solution.java) |
 | 2161 | [Partition Array According to Given Pivot](2161-partition-array-according-to-given-pivot/problem.md) | `Array`, `Two Pointers` | [✓](2161-partition-array-according-to-given-pivot/solution.py) | [✓](2161-partition-array-according-to-given-pivot/solution.java) |
