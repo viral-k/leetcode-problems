@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 56 problems
+**Total:** 57 problems
 
 ## Problems
 
@@ -52,6 +52,7 @@
 | 3418 | [Maximum Amount of Money Robot Can Earn](3418-maximum-amount-of-money-robot-can-earn/problem.md) | `Array`, `Matrix`, `Dynamic Programming` | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.py) | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.java) |
 | 3488 | [Closest Equal Element Queries](3488-closest-equal-element-queries/problem.md) | `Array`, `Hash Table` | [✓](3488-closest-equal-element-queries/solution.py) | [✓](3488-closest-equal-element-queries/solution.java) |
 | 3558 | [Number of Ways to Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i/problem.md) | `Tree`, `BFS`, `DFS`, `Math` | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.py) | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.java) |
+| 3612 | [Process String with Special Operations I](3612-process-string-with-special-operations-i/problem.md) | `String`, `Simulation`, `Stack` | [✓](3612-process-string-with-special-operations-i/solution.py) | [✓](3612-process-string-with-special-operations-i/solution.java) |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation/problem.md) | `Array`, `BFS`, `Number Theory`, `Hash Table` | [✓](3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.py) | [✓](3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.java) |
 | 3634 | [Minimum Removals to Balance Array](3634-minimum-removals-to-balance-array/problem.md) | `Array`, `Sorting`, `Two Pointers`, `Sliding Window` | [✓](3634-minimum-removals-to-balance-array/solution.py) | [✓](3634-minimum-removals-to-balance-array/solution.java) |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](3635-earliest-finish-time-for-land-and-water-rides-ii/problem.md) | `Array`, `Binary Search`, `Sorting`, `Prefix Minimum`, `Suffix Minimum` | [✓](3635-earliest-finish-time-for-land-and-water-rides-ii/solution.py) | [✓](3635-earliest-finish-time-for-land-and-water-rides-ii/solution.java) |
