@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 57 problems
+**Total:** 58 problems
 
 ## Problems
 
@@ -20,6 +20,7 @@
 | 874 | [Walking Robot Simulation](874-walking-robot-simulation/problem.md) | `Array`, `Hash Table`, `Simulation` | [✓](874-walking-robot-simulation/solution.py) | [✓](874-walking-robot-simulation/solution.java) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/problem.md) | `Array`, `Binary Search`, `Matrix`, `Prefix Sum` | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.py) | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.java) |
 | 1306 | [Jump Game III](1306-jump-game-iii/problem.md) | `Array`, `BFS`, `DFS` | [✓](1306-jump-game-iii/solution.py) | [✓](1306-jump-game-iii/solution.java) |
+| 1344 | [Angle Between Hands of a Clock](1344-angle-between-hands-of-a-clock/problem.md) | `Math`, `Geometry` | [✓](1344-angle-between-hands-of-a-clock/solution.py) | [✓](1344-angle-between-hands-of-a-clock/solution.java) |
 | 1391 | [Check if There is a Valid Path in a Grid](1391-check-if-there-is-a-valid-path-in-a-grid/problem.md) | `Array`, `BFS`, `DFS`, `Matrix`, `Union Find` | [✓](1391-check-if-there-is-a-valid-path-in-a-grid/solution.py) | [✓](1391-check-if-there-is-a-valid-path-in-a-grid/solution.java) |
 | 1545 | [Find Kth Bit in Nth Binary String](1545-find-kth-bit-in-nth-binary-string/problem.md) | `String`, `Recursion`, `Bit Manipulation` | [✓](1545-find-kth-bit-in-nth-binary-string/solution.py) | [✓](1545-find-kth-bit-in-nth-binary-string/solution.java) |
 | 1559 | [Detect Cycles in 2D Grid](1559-detect-cycles-in-2d-grid/problem.md) | `Array`, `DFS`, `BFS`, `Union Find`, `Matrix` | [✓](1559-detect-cycles-in-2d-grid/solution.py) | [✓](1559-detect-cycles-in-2d-grid/solution.java) |
