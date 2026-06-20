@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 20 problems
+**Total:** 21 problems
 
 ## Problems
 
@@ -15,6 +15,7 @@
 | 1340 | [Jump Game V](1340-jump-game-v/problem.md) | `Array`, `Dynamic Programming`, `DFS`, `Memoization` | [✓](1340-jump-game-v/solution.py) | [✓](1340-jump-game-v/solution.java) |
 | 1345 | [Jump Game IV](1345-jump-game-iv/problem.md) | `Array`, `Hash Table`, `BFS` | [✓](1345-jump-game-iv/solution.py) | [✓](1345-jump-game-iv/solution.java) |
 | 1665 | [Minimum Initial Energy to Finish Tasks](1665-minimum-initial-energy-to-finish-tasks/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.py) | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.java) |
+| 1840 | [Maximum Building Height](1840-maximum-building-height/problem.md) | `Array`, `Math`, `Greedy` | [✓](1840-maximum-building-height/solution.py) | [✓](1840-maximum-building-height/solution.java) |
 | 2463 | [Minimum Total Distance Traveled](2463-minimum-total-distance-traveled/problem.md) | `Array`, `Dynamic Programming`, `Sorting` | [✓](2463-minimum-total-distance-traveled/solution.py) | [✓](2463-minimum-total-distance-traveled/solution.java) |
 | 2751 | [Robot Collisions](2751-robot-collisions/problem.md) | `Array`, `Stack`, `Sorting`, `Simulation` | [✓](2751-robot-collisions/solution.py) | [✓](2751-robot-collisions/solution.java) |
 | 3093 | [Longest Common Suffix Queries](3093-longest-common-suffix-queries/problem.md) | `Array`, `String`, `Trie` | [✓](3093-longest-common-suffix-queries/solution.py) | [✓](3093-longest-common-suffix-queries/solution.java) |
