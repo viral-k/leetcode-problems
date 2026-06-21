@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 22 problems
+**Total:** 23 problems
 
 ## Problems
 
@@ -19,6 +19,7 @@
 | 1840 | [Maximum Building Height](1840-maximum-building-height/problem.md) | `Array`, `Math`, `Greedy` | [✓](1840-maximum-building-height/solution.py) | [✓](1840-maximum-building-height/solution.java) |
 | 2463 | [Minimum Total Distance Traveled](2463-minimum-total-distance-traveled/problem.md) | `Array`, `Dynamic Programming`, `Sorting` | [✓](2463-minimum-total-distance-traveled/solution.py) | [✓](2463-minimum-total-distance-traveled/solution.java) |
 | 2751 | [Robot Collisions](2751-robot-collisions/problem.md) | `Array`, `Stack`, `Sorting`, `Simulation` | [✓](2751-robot-collisions/solution.py) | [✓](2751-robot-collisions/solution.java) |
+| 2790 | [Maximum Number of Groups with Increasing Length](2790-maximum-number-of-groups-with-increasing-length/problem.md) | `Array`, `Greedy`, `Sorting`, `Binary Search` | [✓](2790-maximum-number-of-groups-with-increasing-length/solution.py) | [✓](2790-maximum-number-of-groups-with-increasing-length/solution.java) |
 | 3093 | [Longest Common Suffix Queries](3093-longest-common-suffix-queries/problem.md) | `Array`, `String`, `Trie` | [✓](3093-longest-common-suffix-queries/solution.py) | [✓](3093-longest-common-suffix-queries/solution.java) |
 | 3161 | [Block Placement Queries](3161-block-placement-queries/problem.md) | `Array`, `Binary Indexed Tree`, `Segment Tree` | [✓](3161-block-placement-queries/solution.py) | [✓](3161-block-placement-queries/solution.java) |
 | 3225 | [Maximum Score from Grid Operations](3225-maximum-score-from-grid-operations/problem.md) | `Array`, `Dynamic Programming`, `Matrix`, `Prefix Sum` | [✓](3225-maximum-score-from-grid-operations/solution.py) | [✓](3225-maximum-score-from-grid-operations/solution.java) |
