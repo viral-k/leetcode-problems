@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 25 problems
+**Total:** 27 problems
 
 ## Problems
 
@@ -12,6 +12,7 @@
 | 696 | [Count Binary Substrings](696-count-binary-substrings/problem.md) | `String`, `Two Pointers` | [✓](696-count-binary-substrings/solution.py) | [✓](696-count-binary-substrings/solution.java) |
 | 796 | [Rotate String](796-rotate-string/problem.md) | `String`, `String Matching` | [✓](796-rotate-string/solution.py) | [✓](796-rotate-string/solution.java) |
 | 1009 | [Complement of Base 10 Integer](1009-complement-of-base-10-integer/problem.md) | `Bit Manipulation` | [✓](1009-complement-of-base-10-integer/solution.py) | [✓](1009-complement-of-base-10-integer/solution.java) |
+| 1189 | [Maximum Number of Balloons](1189-maximum-number-of-balloons/problem.md) | `Hash Table`, `String`, `Counting` | [✓](1189-maximum-number-of-balloons/solution.py) | [✓](1189-maximum-number-of-balloons/solution.java) |
 | 1582 | [Special Positions in a Binary Matrix](1582-special-positions-in-a-binary-matrix/problem.md) | `Array`, `Matrix` | [✓](1582-special-positions-in-a-binary-matrix/solution.py) | [✓](1582-special-positions-in-a-binary-matrix/solution.java) |
 | 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/problem.md) | `Array`, `Prefix Sum` | [✓](1732-find-the-highest-altitude/solution.py) | [✓](1732-find-the-highest-altitude/solution.java) |
 | 1752 | [Check if Array Is Sorted and Rotated](1752-check-if-array-is-sorted-and-rotated/problem.md) | `Array` | [✓](1752-check-if-array-is-sorted-and-rotated/solution.py) | [✓](1752-check-if-array-is-sorted-and-rotated/solution.java) |
@@ -20,6 +21,7 @@
 | 1848 | [Minimum Distance to the Target Element](1848-minimum-distance-to-the-target-element/problem.md) | `Array` | [✓](1848-minimum-distance-to-the-target-element/solution.py) | [✓](1848-minimum-distance-to-the-target-element/solution.java) |
 | 2078 | [Two Furthest Houses with Different Colors](2078-two-furthest-houses-with-different-colors/problem.md) | `Array`, `Greedy` | [✓](2078-two-furthest-houses-with-different-colors/solution.py) | [✓](2078-two-furthest-houses-with-different-colors/solution.java) |
 | 2144 | [Minimum Cost of Buying Candies with Discount](2144-minimum-cost-of-buying-candies-with-discount/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.py) | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.java) |
+| 2287 | [Rearrange Characters to Make Target String](2287-rearrange-characters-to-make-target-string/problem.md) | `Hash Table`, `String`, `Counting` | - | - |
 | 2515 | [Shortest Distance to Target String in a Circular Array](2515-shortest-distance-to-target-string-in-a-circular-array/problem.md) | `Array`, `String` | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.py) | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.java) |
 | 2540 | [Minimum Common Value](2540-minimum-common-value/problem.md) | `Array`, `Two Pointers` | [✓](2540-minimum-common-value/solution.py) | [✓](2540-minimum-common-value/solution.java) |
 | 2553 | [Separate the Digits in an Array](2553-separate-the-digits-in-an-array/problem.md) | `Array`, `Simulation` | [✓](2553-separate-the-digits-in-an-array/solution.py) | [✓](2553-separate-the-digits-in-an-array/solution.java) |
