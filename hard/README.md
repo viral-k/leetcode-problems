@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 24 problems
+**Total:** 25 problems
 
 ## Problems
 
@@ -30,5 +30,6 @@
 | 3661 | [Maximum Walls Destroyed by Robots](3661-maximum-walls-destroyed-by-robots/problem.md) | `Array`, `Greedy`, `Sorting`, `Binary Search`, `Dynamic Programming` | [✓](3661-maximum-walls-destroyed-by-robots/solution.py) | [✓](3661-maximum-walls-destroyed-by-robots/solution.java) |
 | 3691 | [Maximum Total Subarray Value II](3691-maximum-total-subarray-value-ii/problem.md) | `Array`, `Heap (Priority Queue)`, `Sparse Table` | [✓](3691-maximum-total-subarray-value-ii/solution.py) | [✓](3691-maximum-total-subarray-value-ii/solution.java) |
 | 3699 | [Number of ZigZag Arrays I](3699-number-of-zigzag-arrays-i/problem.md) | `Dynamic Programming`, `Prefix Sum`, `Combinatorics` | [✓](3699-number-of-zigzag-arrays-i/solution.py) | [✓](3699-number-of-zigzag-arrays-i/solution.java) |
+| 3700 | [Number of ZigZag Arrays II](3700-number-of-zigzag-arrays-ii/problem.md) | `Dynamic Programming`, `Matrix Exponentiation`, `Combinatorics` | [✓](3700-number-of-zigzag-arrays-ii/solution.py) | [✓](3700-number-of-zigzag-arrays-ii/solution.java) |
 | 3721 | [Longest Balanced Subarray II](3721-longest-balanced-subarray-ii/problem.md) | `Array`, `Hash Table`, `Segment Tree` | [✓](3721-longest-balanced-subarray-ii/solution.py) | [✓](3721-longest-balanced-subarray-ii/solution.java) |
 | 3753 | [Total Waviness of Numbers in Range II](3753-total-waviness-of-numbers-in-range-ii/problem.md) | `Digit DP`, `Dynamic Programming`, `Math` | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.py) | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.java) |

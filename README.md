@@ -10,12 +10,12 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 |------------|--------|----------|
 | Easy       | 27      | [View](easy/README.md) |
 | Medium     | 58      | [View](medium/README.md) |
-| Hard       | 24      | [View](hard/README.md) |
-| **Total**  | **109**  | |
+| Hard       | 25      | [View](hard/README.md) |
+| **Total**  | **110**  | |
 
 ## Topics Covered
 
-`Array` `BFS` `Binary Indexed Tree` `Binary Lifting` `Binary Search` `Binary Tree` `Bit Manipulation` `Brute Force` `Bucket Sort` `Combinatorics` `Counting` `Counting Sort` `DFS` `Depth-First Search` `Design` `Digit DP` `Divide and Conquer` `Dynamic Programming` `Geometry` `Graph` `Greedy` `Hash Set` `Hash Table` `Heap (Priority Queue)` `Linked List` `Math` `Matrix` `Memoization` `Number Theory` `Prefix Maximum` `Prefix Minimum` `Prefix Sum` `Recursion` `Segment Tree` `Simulation` `Sliding Window` `Sorting` `Sparse Table` `Sqrt Decomposition` `Stack` `String` `String Matching` `Suffix Minimum` `Tree` `Trie` `Two Pointers` `Union Find`
+`Array` `BFS` `Binary Indexed Tree` `Binary Lifting` `Binary Search` `Binary Tree` `Bit Manipulation` `Brute Force` `Bucket Sort` `Combinatorics` `Counting` `Counting Sort` `DFS` `Depth-First Search` `Design` `Digit DP` `Divide and Conquer` `Dynamic Programming` `Geometry` `Graph` `Greedy` `Hash Set` `Hash Table` `Heap (Priority Queue)` `Linked List` `Math` `Matrix` `Matrix Exponentiation` `Memoization` `Number Theory` `Prefix Maximum` `Prefix Minimum` `Prefix Sum` `Recursion` `Segment Tree` `Simulation` `Sliding Window` `Sorting` `Sparse Table` `Sqrt Decomposition` `Stack` `String` `String Matching` `Suffix Minimum` `Tree` `Trie` `Two Pointers` `Union Find`
 
 ## Quick Start
 
