@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 58 problems
+**Total:** 59 problems
 
 ## Problems
 
@@ -62,6 +62,7 @@
 | 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i/problem.md) | `Array`, `Greedy`, `Math` | [✓](3689-maximum-total-subarray-value-i/solution.py) | [✓](3689-maximum-total-subarray-value-i/solution.java) |
 | 3713 | [Longest Balanced Substring I](3713-longest-balanced-substring-i/problem.md) | `String`, `Hash Table`, `Brute Force` | [✓](3713-longest-balanced-substring-i/solution.py) | [✓](3713-longest-balanced-substring-i/solution.java) |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i/problem.md) | `Array`, `Hash Table`, `Brute Force` | [✓](3719-longest-balanced-subarray-i/solution.py) | [✓](3719-longest-balanced-subarray-i/solution.java) |
+| 3737 | [Count Subarrays with Majority Element I](3737-count-subarrays-with-majority-element-i/problem.md) | `Array`, `Counting` | [✓](3737-count-subarrays-with-majority-element-i/solution.py) | [✓](3737-count-subarrays-with-majority-element-i/solution.java) |
 | 3741 | [Minimum Distance Between Three Equal Elements II](3741-minimum-distance-between-three-equal-elements-ii/problem.md) | `Array`, `Hash Table` | [✓](3741-minimum-distance-between-three-equal-elements-ii/solution.py) | [✓](3741-minimum-distance-between-three-equal-elements-ii/solution.java) |
 | 3742 | [Maximum Path Score in a Grid](3742-maximum-path-score-in-a-grid/problem.md) | `Array`, `Matrix`, `Dynamic Programming` | [✓](3742-maximum-path-score-in-a-grid/solution.py) | [✓](3742-maximum-path-score-in-a-grid/solution.java) |
 | 3751 | [Total Waviness of Numbers in Range I](3751-total-waviness-of-numbers-in-range-i/problem.md) | `Math`, `Simulation` | [✓](3751-total-waviness-of-numbers-in-range-i/solution.py) | [✓](3751-total-waviness-of-numbers-in-range-i/solution.java) |
