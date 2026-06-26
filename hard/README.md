@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 25 problems
+**Total:** 26 problems
 
 ## Problems
 
@@ -32,4 +32,5 @@
 | 3699 | [Number of ZigZag Arrays I](3699-number-of-zigzag-arrays-i/problem.md) | `Dynamic Programming`, `Prefix Sum`, `Combinatorics` | [✓](3699-number-of-zigzag-arrays-i/solution.py) | [✓](3699-number-of-zigzag-arrays-i/solution.java) |
 | 3700 | [Number of ZigZag Arrays II](3700-number-of-zigzag-arrays-ii/problem.md) | `Dynamic Programming`, `Matrix Exponentiation`, `Combinatorics` | [✓](3700-number-of-zigzag-arrays-ii/solution.py) | [✓](3700-number-of-zigzag-arrays-ii/solution.java) |
 | 3721 | [Longest Balanced Subarray II](3721-longest-balanced-subarray-ii/problem.md) | `Array`, `Hash Table`, `Segment Tree` | [✓](3721-longest-balanced-subarray-ii/solution.py) | [✓](3721-longest-balanced-subarray-ii/solution.java) |
+| 3739 | [Count Subarrays with Majority Element II](3739-count-subarrays-with-majority-element-ii/problem.md) | `Array`, `Prefix Sum`, `Counting` | [✓](3739-count-subarrays-with-majority-element-ii/solution.py) | [✓](3739-count-subarrays-with-majority-element-ii/solution.java) |
 | 3753 | [Total Waviness of Numbers in Range II](3753-total-waviness-of-numbers-in-range-ii/problem.md) | `Digit DP`, `Dynamic Programming`, `Math` | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.py) | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.java) |
