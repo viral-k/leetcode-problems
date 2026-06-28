@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 60 problems
+**Total:** 61 problems
 
 ## Problems
 
@@ -28,6 +28,7 @@
 | 1689 | [Partitioning Into Minimum Number of Deci-Binary Numbers](1689-partitioning-into-minimum-number-of-deci-binary-numbers/problem.md) | `String`, `Greedy` | [✓](1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.py) | [✓](1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.java) |
 | 1722 | [Minimize Hamming Distance After Swap Operations](1722-minimize-hamming-distance-after-swap-operations/problem.md) | `Array`, `Union Find`, `Hash Table` | [✓](1722-minimize-hamming-distance-after-swap-operations/solution.py) | [✓](1722-minimize-hamming-distance-after-swap-operations/solution.java) |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/problem.md) | `Array`, `Greedy`, `Sorting`, `Counting Sort` | [✓](1833-maximum-ice-cream-bars/solution.py) | [✓](1833-maximum-ice-cream-bars/solution.java) |
+| 1846 | [Maximum Element After Decreasing and Rearranging](1846-maximum-element-after-decreasing-and-rearranging/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](1846-maximum-element-after-decreasing-and-rearranging/solution.py) | [✓](1846-maximum-element-after-decreasing-and-rearranging/solution.java) |
 | 1855 | [Maximum Distance Between a Pair of Values](1855-maximum-distance-between-a-pair-of-values/problem.md) | `Array`, `Two Pointers`, `Binary Search` | [✓](1855-maximum-distance-between-a-pair-of-values/solution.py) | [✓](1855-maximum-distance-between-a-pair-of-values/solution.java) |
 | 1861 | [Rotating the Box](1861-rotating-the-box/problem.md) | `Array`, `Two Pointers`, `Matrix`, `Simulation` | [✓](1861-rotating-the-box/solution.py) | [✓](1861-rotating-the-box/solution.java) |
 | 1871 | [Jump Game VII](1871-jump-game-vii/problem.md) | `String`, `Dynamic Programming`, `Prefix Sum`, `Sliding Window` | [✓](1871-jump-game-vii/solution.py) | [✓](1871-jump-game-vii/solution.java) |
