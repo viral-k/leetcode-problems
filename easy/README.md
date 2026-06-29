@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 27 problems
+**Total:** 28 problems
 
 ## Problems
 
@@ -19,6 +19,7 @@
 | 1758 | [Minimum Changes to Make Alternating Binary String](1758-minimum-changes-to-make-alternating-binary-string/problem.md) | `String`, `Greedy` | [✓](1758-minimum-changes-to-make-alternating-binary-string/solution.py) | [✓](1758-minimum-changes-to-make-alternating-binary-string/solution.java) |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](1784-check-if-binary-string-has-at-most-one-segment-of-ones/problem.md) | `String` | [✓](1784-check-if-binary-string-has-at-most-one-segment-of-ones/solution.py) | [✓](1784-check-if-binary-string-has-at-most-one-segment-of-ones/solution.java) |
 | 1848 | [Minimum Distance to the Target Element](1848-minimum-distance-to-the-target-element/problem.md) | `Array` | [✓](1848-minimum-distance-to-the-target-element/solution.py) | [✓](1848-minimum-distance-to-the-target-element/solution.java) |
+| 1967 | [Number of Strings That Appear as Substrings in Word](1967-number-of-strings-that-appear-as-substrings-in-word/problem.md) | `Array`, `String`, `String Matching` | [✓](1967-number-of-strings-that-appear-as-substrings-in-word/solution.py) | [✓](1967-number-of-strings-that-appear-as-substrings-in-word/solution.java) |
 | 2078 | [Two Furthest Houses with Different Colors](2078-two-furthest-houses-with-different-colors/problem.md) | `Array`, `Greedy` | [✓](2078-two-furthest-houses-with-different-colors/solution.py) | [✓](2078-two-furthest-houses-with-different-colors/solution.java) |
 | 2144 | [Minimum Cost of Buying Candies with Discount](2144-minimum-cost-of-buying-candies-with-discount/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.py) | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.java) |
 | 2287 | [Rearrange Characters to Make Target String](2287-rearrange-characters-to-make-target-string/problem.md) | `Hash Table`, `String`, `Counting` | [✓](2287-rearrange-characters-to-make-target-string/solution.py) | [✓](2287-rearrange-characters-to-make-target-string/solution.java) |
