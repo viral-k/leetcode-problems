@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 62 problems
+**Total:** 63 problems
 
 ## Problems
 
@@ -46,6 +46,7 @@
 | 2615 | [Sum of Distances](2615-sum-of-distances/problem.md) | `Array`, `Hash Table`, `Prefix Sum` | [✓](2615-sum-of-distances/solution.py) | [✓](2615-sum-of-distances/solution.java) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](2657-find-the-prefix-common-array-of-two-arrays/problem.md) | `Array`, `Hash Table`, `Counting` | [✓](2657-find-the-prefix-common-array-of-two-arrays/solution.py) | [✓](2657-find-the-prefix-common-array-of-two-arrays/solution.java) |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](2770-maximum-number-of-jumps-to-reach-the-last-index/problem.md) | `Array`, `Dynamic Programming` | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.py) | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) |
+| 2812 | [Find the Safest Path in a Grid](2812-find-the-safest-path-in-a-grid/problem.md) | `Array`, `BFS`, `Heap (Priority Queue)`, `Matrix`, `Binary Search` | [✓](2812-find-the-safest-path-in-a-grid/solution.py) | [✓](2812-find-the-safest-path-in-a-grid/solution.java) |
 | 2943 | [Maximize Area of Square Hole in Grid](2943-maximize-area-of-square-hole-in-grid/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](2943-maximize-area-of-square-hole-in-grid/solution.py) | [✓](2943-maximize-area-of-square-hole-in-grid/solution.java) |
 | 2975 | [Maximum Square Area by Removing Fences from a Field](2975-maximum-square-area-by-removing-fences-from-a-field/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.py) | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.java) |
 | 3020 | [Find the Maximum Number of Elements in Subset](3020-find-the-maximum-number-of-elements-in-subset/problem.md) | `Array`, `Hash Table`, `Enumeration` | [✓](3020-find-the-maximum-number-of-elements-in-subset/solution.py) | [✓](3020-find-the-maximum-number-of-elements-in-subset/solution.java) |
