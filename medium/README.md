@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 64 problems
+**Total:** 65 problems
 
 ## Problems
 
@@ -55,6 +55,7 @@
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](3047-find-the-largest-area-of-square-inside-two-rectangles/problem.md) | `Array`, `Math`, `Geometry` | [✓](3047-find-the-largest-area-of-square-inside-two-rectangles/solution.py) | [✓](3047-find-the-largest-area-of-square-inside-two-rectangles/solution.java) |
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/problem.md) | `Array`, `Tree`, `DFS` | [✓](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/solution.py) | [✓](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/solution.java) |
 | 3121 | [Count the Number of Special Characters II](3121-count-the-number-of-special-characters-ii/problem.md) | `Hash Table`, `String` | [✓](3121-count-the-number-of-special-characters-ii/solution.py) | [✓](3121-count-the-number-of-special-characters-ii/solution.java) |
+| 3286 | [Find a Safe Walk Through a Grid](3286-find-a-safe-walk-through-a-grid/problem.md) | `Array`, `BFS`, `Graph`, `Matrix`, `Shortest Path` | [✓](3286-find-a-safe-walk-through-a-grid/solution.py) | [✓](3286-find-a-safe-walk-through-a-grid/solution.java) |
 | 3418 | [Maximum Amount of Money Robot Can Earn](3418-maximum-amount-of-money-robot-can-earn/problem.md) | `Array`, `Matrix`, `Dynamic Programming` | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.py) | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.java) |
 | 3488 | [Closest Equal Element Queries](3488-closest-equal-element-queries/problem.md) | `Array`, `Hash Table` | [✓](3488-closest-equal-element-queries/solution.py) | [✓](3488-closest-equal-element-queries/solution.java) |
 | 3558 | [Number of Ways to Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i/problem.md) | `Tree`, `BFS`, `DFS`, `Math` | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.py) | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.java) |
