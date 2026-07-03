@@ -10,12 +10,12 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 |------------|--------|----------|
 | Easy       | 28      | [View](easy/README.md) |
 | Medium     | 65      | [View](medium/README.md) |
-| Hard       | 26      | [View](hard/README.md) |
-| **Total**  | **119**  | |
+| Hard       | 27      | [View](hard/README.md) |
+| **Total**  | **120**  | |
 
 ## Topics Covered
 
-`Array` `BFS` `Binary Indexed Tree` `Binary Lifting` `Binary Search` `Binary Tree` `Bit Manipulation` `Brute Force` `Bucket Sort` `Combinatorics` `Counting` `Counting Sort` `DFS` `Depth-First Search` `Design` `Digit DP` `Divide and Conquer` `Dynamic Programming` `Enumeration` `Geometry` `Graph` `Greedy` `Hash Set` `Hash Table` `Heap (Priority Queue)` `Linked List` `Math` `Matrix` `Matrix Exponentiation` `Memoization` `Number Theory` `Prefix Maximum` `Prefix Minimum` `Prefix Sum` `Recursion` `Segment Tree` `Shell` `Shortest Path` `Simulation` `Sliding Window` `Sorting` `Sparse Table` `Sqrt Decomposition` `Stack` `String` `String Matching` `Suffix Minimum` `Tree` `Trie` `Two Pointers` `Union Find`
+`Array` `BFS` `Binary Indexed Tree` `Binary Lifting` `Binary Search` `Binary Tree` `Bit Manipulation` `Brute Force` `Bucket Sort` `Combinatorics` `Counting` `Counting Sort` `DFS` `Depth-First Search` `Design` `Digit DP` `Divide and Conquer` `Dynamic Programming` `Enumeration` `Geometry` `Graph` `Greedy` `Hash Set` `Hash Table` `Heap (Priority Queue)` `Linked List` `Math` `Matrix` `Matrix Exponentiation` `Memoization` `Number Theory` `Prefix Maximum` `Prefix Minimum` `Prefix Sum` `Recursion` `Segment Tree` `Shell` `Shortest Path` `Simulation` `Sliding Window` `Sorting` `Sparse Table` `Sqrt Decomposition` `Stack` `String` `String Matching` `Suffix Minimum` `Topological Sort` `Tree` `Trie` `Two Pointers` `Union Find`
 
 ## Quick Start
 

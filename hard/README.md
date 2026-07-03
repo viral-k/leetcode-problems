@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 26 problems
+**Total:** 27 problems
 
 ## Problems
 
@@ -26,6 +26,7 @@
 | 3464 | [Maximize the Distance Between Points on a Square](3464-maximize-the-distance-between-points-on-a-square/problem.md) | `Array`, `Binary Search`, `Greedy` | [✓](3464-maximize-the-distance-between-points-on-a-square/solution.py) | [✓](3464-maximize-the-distance-between-points-on-a-square/solution.java) |
 | 3559 | [Number of Ways to Assign Edge Weights II](3559-number-of-ways-to-assign-edge-weights-ii/problem.md) | `Tree`, `Binary Lifting`, `Depth-First Search`, `Math` | [✓](3559-number-of-ways-to-assign-edge-weights-ii/solution.py) | [✓](3559-number-of-ways-to-assign-edge-weights-ii/solution.java) |
 | 3614 | [Process String with Special Operations II](3614-process-string-with-special-operations-ii/problem.md) | `String`, `Simulation` | [✓](3614-process-string-with-special-operations-ii/solution.py) | [✓](3614-process-string-with-special-operations-ii/solution.java) |
+| 3620 | [Network Recovery Pathways](3620-network-recovery-pathways/problem.md) | `Graph`, `Binary Search`, `Dynamic Programming`, `Topological Sort`, `Shortest Path` | [✓](3620-network-recovery-pathways/solution.py) | [✓](3620-network-recovery-pathways/solution.java) |
 | 3655 | [XOR After Range Multiplication Queries II](3655-xor-after-range-multiplication-queries-ii/problem.md) | `Array`, `Bit Manipulation`, `Math`, `Sqrt Decomposition` | [✓](3655-xor-after-range-multiplication-queries-ii/solution.py) | [✓](3655-xor-after-range-multiplication-queries-ii/solution.java) |
 | 3661 | [Maximum Walls Destroyed by Robots](3661-maximum-walls-destroyed-by-robots/problem.md) | `Array`, `Greedy`, `Sorting`, `Binary Search`, `Dynamic Programming` | [✓](3661-maximum-walls-destroyed-by-robots/solution.py) | [✓](3661-maximum-walls-destroyed-by-robots/solution.java) |
 | 3691 | [Maximum Total Subarray Value II](3691-maximum-total-subarray-value-ii/problem.md) | `Array`, `Heap (Priority Queue)`, `Sparse Table` | [✓](3691-maximum-total-subarray-value-ii/solution.py) | [✓](3691-maximum-total-subarray-value-ii/solution.java) |
