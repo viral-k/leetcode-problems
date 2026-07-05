@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 65 problems
+**Total:** 66 problems
 
 ## Problems
 
@@ -44,6 +44,7 @@
 | 2161 | [Partition Array According to Given Pivot](2161-partition-array-according-to-given-pivot/problem.md) | `Array`, `Two Pointers` | [✓](2161-partition-array-according-to-given-pivot/solution.py) | [✓](2161-partition-array-according-to-given-pivot/solution.java) |
 | 2196 | [Create Binary Tree from Descriptions](2196-create-binary-tree-from-descriptions/problem.md) | `Array`, `Hash Table`, `Tree`, `Binary Tree` | [✓](2196-create-binary-tree-from-descriptions/solution.py) | [✓](2196-create-binary-tree-from-descriptions/solution.java) |
 | 2452 | [Words Within Two Edits of Dictionary](2452-words-within-two-edits-of-dictionary/problem.md) | `Array`, `String` | [✓](2452-words-within-two-edits-of-dictionary/solution.py) | [✓](2452-words-within-two-edits-of-dictionary/solution.java) |
+| 2492 | [Minimum Score of a Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities/problem.md) | `BFS`, `DFS`, `Union Find`, `Graph` | [✓](2492-minimum-score-of-a-path-between-two-cities/solution.py) | [✓](2492-minimum-score-of-a-path-between-two-cities/solution.java) |
 | 2615 | [Sum of Distances](2615-sum-of-distances/problem.md) | `Array`, `Hash Table`, `Prefix Sum` | [✓](2615-sum-of-distances/solution.py) | [✓](2615-sum-of-distances/solution.java) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](2657-find-the-prefix-common-array-of-two-arrays/problem.md) | `Array`, `Hash Table`, `Counting` | [✓](2657-find-the-prefix-common-array-of-two-arrays/solution.py) | [✓](2657-find-the-prefix-common-array-of-two-arrays/solution.java) |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](2770-maximum-number-of-jumps-to-reach-the-last-index/problem.md) | `Array`, `Dynamic Programming` | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.py) | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) |
