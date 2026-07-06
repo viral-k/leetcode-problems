@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 27 problems
+**Total:** 28 problems
 
 ## Problems
 
@@ -12,6 +12,7 @@
 | 032 | [Longest Valid Parentheses](032-longest-valid-parentheses/problem.md) | `String`, `Dynamic Programming`, `Stack` | [✓](032-longest-valid-parentheses/solution.py) | [✓](032-longest-valid-parentheses/solution.java) |
 | 154 | [Find Minimum in Rotated Sorted Array II](154-find-minimum-in-rotated-sorted-array-ii/problem.md) | `Array`, `Binary Search` | [✓](154-find-minimum-in-rotated-sorted-array-ii/solution.py) | [✓](154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | 887 | [Super Egg Drop](887-super-egg-drop/problem.md) | `Math`, `Dynamic Programming`, `Binary Search` | [✓](887-super-egg-drop/solution.py) | [✓](887-super-egg-drop/solution.java) |
+| 1301 | [Number of Paths with Max Score](1301-number-of-paths-with-max-score/problem.md) | `Array`, `Dynamic Programming`, `Matrix` | [✓](1301-number-of-paths-with-max-score/solution.py) | [✓](1301-number-of-paths-with-max-score/solution.java) |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](1320-minimum-distance-to-type-a-word-using-two-fingers/problem.md) | `String`, `Dynamic Programming` | [✓](1320-minimum-distance-to-type-a-word-using-two-fingers/solution.py) | [✓](1320-minimum-distance-to-type-a-word-using-two-fingers/solution.java) |
 | 1340 | [Jump Game V](1340-jump-game-v/problem.md) | `Array`, `Dynamic Programming`, `DFS`, `Memoization` | [✓](1340-jump-game-v/solution.py) | [✓](1340-jump-game-v/solution.java) |
 | 1345 | [Jump Game IV](1345-jump-game-iv/problem.md) | `Array`, `Hash Table`, `BFS` | [✓](1345-jump-game-iv/solution.py) | [✓](1345-jump-game-iv/solution.java) |
