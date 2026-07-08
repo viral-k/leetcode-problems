@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 67 problems
+**Total:** 68 problems
 
 ## Problems
 
@@ -74,4 +74,5 @@
 | 3741 | [Minimum Distance Between Three Equal Elements II](3741-minimum-distance-between-three-equal-elements-ii/problem.md) | `Array`, `Hash Table` | [✓](3741-minimum-distance-between-three-equal-elements-ii/solution.py) | [✓](3741-minimum-distance-between-three-equal-elements-ii/solution.java) |
 | 3742 | [Maximum Path Score in a Grid](3742-maximum-path-score-in-a-grid/problem.md) | `Array`, `Matrix`, `Dynamic Programming` | [✓](3742-maximum-path-score-in-a-grid/solution.py) | [✓](3742-maximum-path-score-in-a-grid/solution.java) |
 | 3751 | [Total Waviness of Numbers in Range I](3751-total-waviness-of-numbers-in-range-i/problem.md) | `Math`, `Simulation` | [✓](3751-total-waviness-of-numbers-in-range-i/solution.py) | [✓](3751-total-waviness-of-numbers-in-range-i/solution.java) |
+| 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/problem.md) | `Array`, `String`, `Prefix Sum`, `Math`, `Number Theory` | [✓](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/solution.py) | [✓](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/solution.java) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](3761-minimum-absolute-distance-between-mirror-pairs/problem.md) | `Array`, `Hash Table` | [✓](3761-minimum-absolute-distance-between-mirror-pairs/solution.py) | [✓](3761-minimum-absolute-distance-between-mirror-pairs/solution.java) |
