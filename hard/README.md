@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 28 problems
+**Total:** 29 problems
 
 ## Problems
 
@@ -25,6 +25,7 @@
 | 3161 | [Block Placement Queries](3161-block-placement-queries/problem.md) | `Array`, `Binary Indexed Tree`, `Segment Tree` | [✓](3161-block-placement-queries/solution.py) | [✓](3161-block-placement-queries/solution.java) |
 | 3225 | [Maximum Score from Grid Operations](3225-maximum-score-from-grid-operations/problem.md) | `Array`, `Dynamic Programming`, `Matrix`, `Prefix Sum` | [✓](3225-maximum-score-from-grid-operations/solution.py) | [✓](3225-maximum-score-from-grid-operations/solution.java) |
 | 3464 | [Maximize the Distance Between Points on a Square](3464-maximize-the-distance-between-points-on-a-square/problem.md) | `Array`, `Binary Search`, `Greedy` | [✓](3464-maximize-the-distance-between-points-on-a-square/solution.py) | [✓](3464-maximize-the-distance-between-points-on-a-square/solution.java) |
+| 3534 | [Path Existence Queries in a Graph II](3534-path-existence-queries-in-a-graph-ii/problem.md) | `Array`, `Binary Lifting`, `Sorting`, `Two Pointers`, `Greedy` | [✓](3534-path-existence-queries-in-a-graph-ii/solution.py) | [✓](3534-path-existence-queries-in-a-graph-ii/solution.java) |
 | 3559 | [Number of Ways to Assign Edge Weights II](3559-number-of-ways-to-assign-edge-weights-ii/problem.md) | `Tree`, `Binary Lifting`, `Depth-First Search`, `Math` | [✓](3559-number-of-ways-to-assign-edge-weights-ii/solution.py) | [✓](3559-number-of-ways-to-assign-edge-weights-ii/solution.java) |
 | 3614 | [Process String with Special Operations II](3614-process-string-with-special-operations-ii/problem.md) | `String`, `Simulation` | [✓](3614-process-string-with-special-operations-ii/solution.py) | [✓](3614-process-string-with-special-operations-ii/solution.java) |
 | 3620 | [Network Recovery Pathways](3620-network-recovery-pathways/problem.md) | `Graph`, `Binary Search`, `Dynamic Programming`, `Topological Sort`, `Shortest Path` | [✓](3620-network-recovery-pathways/solution.py) | [✓](3620-network-recovery-pathways/solution.java) |
