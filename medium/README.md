@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 69 problems
+**Total:** 70 problems
 
 ## Problems
 
@@ -48,6 +48,7 @@
 | 2492 | [Minimum Score of a Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities/problem.md) | `BFS`, `DFS`, `Union Find`, `Graph` | [✓](2492-minimum-score-of-a-path-between-two-cities/solution.py) | [✓](2492-minimum-score-of-a-path-between-two-cities/solution.java) |
 | 2615 | [Sum of Distances](2615-sum-of-distances/problem.md) | `Array`, `Hash Table`, `Prefix Sum` | [✓](2615-sum-of-distances/solution.py) | [✓](2615-sum-of-distances/solution.java) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](2657-find-the-prefix-common-array-of-two-arrays/problem.md) | `Array`, `Hash Table`, `Counting` | [✓](2657-find-the-prefix-common-array-of-two-arrays/solution.py) | [✓](2657-find-the-prefix-common-array-of-two-arrays/solution.java) |
+| 2685 | [Count the Number of Complete Components](2685-count-the-number-of-complete-components/problem.md) | `DFS`, `BFS`, `Union Find`, `Graph` | [✓](2685-count-the-number-of-complete-components/solution.py) | [✓](2685-count-the-number-of-complete-components/solution.java) |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](2770-maximum-number-of-jumps-to-reach-the-last-index/problem.md) | `Array`, `Dynamic Programming` | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.py) | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) |
 | 2812 | [Find the Safest Path in a Grid](2812-find-the-safest-path-in-a-grid/problem.md) | `Array`, `BFS`, `Heap (Priority Queue)`, `Matrix`, `Binary Search` | [✓](2812-find-the-safest-path-in-a-grid/solution.py) | [✓](2812-find-the-safest-path-in-a-grid/solution.java) |
 | 2943 | [Maximize Area of Square Hole in Grid](2943-maximize-area-of-square-hole-in-grid/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](2943-maximize-area-of-square-hole-in-grid/solution.py) | [✓](2943-maximize-area-of-square-hole-in-grid/solution.java) |
