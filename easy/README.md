@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 29 problems
+**Total:** 30 problems
 
 ## Problems
 
@@ -13,6 +13,7 @@
 | 796 | [Rotate String](796-rotate-string/problem.md) | `String`, `String Matching` | [✓](796-rotate-string/solution.py) | [✓](796-rotate-string/solution.java) |
 | 1009 | [Complement of Base 10 Integer](1009-complement-of-base-10-integer/problem.md) | `Bit Manipulation` | [✓](1009-complement-of-base-10-integer/solution.py) | [✓](1009-complement-of-base-10-integer/solution.java) |
 | 1189 | [Maximum Number of Balloons](1189-maximum-number-of-balloons/problem.md) | `Hash Table`, `String`, `Counting` | [✓](1189-maximum-number-of-balloons/solution.py) | [✓](1189-maximum-number-of-balloons/solution.java) |
+| 1331 | [Rank Transform of an Array](1331-rank-transform-of-an-array/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](1331-rank-transform-of-an-array/solution.py) | [✓](1331-rank-transform-of-an-array/solution.java) |
 | 1582 | [Special Positions in a Binary Matrix](1582-special-positions-in-a-binary-matrix/problem.md) | `Array`, `Matrix` | [✓](1582-special-positions-in-a-binary-matrix/solution.py) | [✓](1582-special-positions-in-a-binary-matrix/solution.java) |
 | 1732 | [Find the Highest Altitude](1732-find-the-highest-altitude/problem.md) | `Array`, `Prefix Sum` | [✓](1732-find-the-highest-altitude/solution.py) | [✓](1732-find-the-highest-altitude/solution.java) |
 | 1752 | [Check if Array Is Sorted and Rotated](1752-check-if-array-is-sorted-and-rotated/problem.md) | `Array` | [✓](1752-check-if-array-is-sorted-and-rotated/solution.py) | [✓](1752-check-if-array-is-sorted-and-rotated/solution.java) |
