@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 71 problems
+**Total:** 72 problems
 
 ## Problems
 
@@ -28,6 +28,7 @@
 | 1391 | [Check if There is a Valid Path in a Grid](1391-check-if-there-is-a-valid-path-in-a-grid/problem.md) | `Array`, `BFS`, `DFS`, `Matrix`, `Union Find` | [✓](1391-check-if-there-is-a-valid-path-in-a-grid/solution.py) | [✓](1391-check-if-there-is-a-valid-path-in-a-grid/solution.java) |
 | 1545 | [Find Kth Bit in Nth Binary String](1545-find-kth-bit-in-nth-binary-string/problem.md) | `String`, `Recursion`, `Bit Manipulation` | [✓](1545-find-kth-bit-in-nth-binary-string/solution.py) | [✓](1545-find-kth-bit-in-nth-binary-string/solution.java) |
 | 1559 | [Detect Cycles in 2D Grid](1559-detect-cycles-in-2d-grid/problem.md) | `Array`, `DFS`, `BFS`, `Union Find`, `Matrix` | [✓](1559-detect-cycles-in-2d-grid/solution.py) | [✓](1559-detect-cycles-in-2d-grid/solution.java) |
+| 1664 | [Ways to Make a Fair Array](1664-ways-to-make-a-fair-array/problem.md) | `Array`, `Prefix Sum` | [✓](1664-ways-to-make-a-fair-array/solution.py) | [✓](1664-ways-to-make-a-fair-array/solution.java) |
 | 1674 | [Minimum Moves to Make Array Complementary](1674-minimum-moves-to-make-array-complementary/problem.md) | `Array`, `Prefix Sum` | [✓](1674-minimum-moves-to-make-array-complementary/solution.py) | [✓](1674-minimum-moves-to-make-array-complementary/solution.java) |
 | 1689 | [Partitioning Into Minimum Number of Deci-Binary Numbers](1689-partitioning-into-minimum-number-of-deci-binary-numbers/problem.md) | `String`, `Greedy` | [✓](1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.py) | [✓](1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.java) |
 | 1722 | [Minimize Hamming Distance After Swap Operations](1722-minimize-hamming-distance-after-swap-operations/problem.md) | `Array`, `Union Find`, `Hash Table` | [✓](1722-minimize-hamming-distance-after-swap-operations/solution.py) | [✓](1722-minimize-hamming-distance-after-swap-operations/solution.java) |
