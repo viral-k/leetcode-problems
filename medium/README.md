@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 72 problems
+**Total:** 73 problems
 
 ## Problems
 
@@ -80,3 +80,4 @@
 | 3751 | [Total Waviness of Numbers in Range I](3751-total-waviness-of-numbers-in-range-i/problem.md) | `Math`, `Simulation` | [✓](3751-total-waviness-of-numbers-in-range-i/solution.py) | [✓](3751-total-waviness-of-numbers-in-range-i/solution.java) |
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/problem.md) | `Array`, `String`, `Prefix Sum`, `Math`, `Number Theory` | [✓](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/solution.py) | [✓](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/solution.java) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](3761-minimum-absolute-distance-between-mirror-pairs/problem.md) | `Array`, `Hash Table` | [✓](3761-minimum-absolute-distance-between-mirror-pairs/solution.py) | [✓](3761-minimum-absolute-distance-between-mirror-pairs/solution.java) |
+| 3867 | [Sum of GCD of Formed Pairs](3867-sum-of-gcd-of-formed-pairs/problem.md) | `Array`, `Math`, `Number Theory`, `Sorting`, `Two Pointers`, `Simulation` | [✓](3867-sum-of-gcd-of-formed-pairs/solution.py) | [✓](3867-sum-of-gcd-of-formed-pairs/solution.java) |
