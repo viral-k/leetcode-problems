@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 74 problems
+**Total:** 75 problems
 
 ## Problems
 
@@ -64,6 +64,7 @@
 | 3286 | [Find a Safe Walk Through a Grid](3286-find-a-safe-walk-through-a-grid/problem.md) | `Array`, `BFS`, `Graph`, `Matrix`, `Shortest Path` | [✓](3286-find-a-safe-walk-through-a-grid/solution.py) | [✓](3286-find-a-safe-walk-through-a-grid/solution.java) |
 | 3418 | [Maximum Amount of Money Robot Can Earn](3418-maximum-amount-of-money-robot-can-earn/problem.md) | `Array`, `Matrix`, `Dynamic Programming` | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.py) | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.java) |
 | 3488 | [Closest Equal Element Queries](3488-closest-equal-element-queries/problem.md) | `Array`, `Hash Table` | [✓](3488-closest-equal-element-queries/solution.py) | [✓](3488-closest-equal-element-queries/solution.java) |
+| 3499 | [Maximize Active Section with Trade I](3499-maximize-active-section-with-trade-i/problem.md) | `String`, `Greedy`, `Enumeration`, `Two Pointers` | [✓](3499-maximize-active-section-with-trade-i/solution.py) | [✓](3499-maximize-active-section-with-trade-i/solution.java) |
 | 3532 | [Path Existence Queries in a Graph I](3532-path-existence-queries-in-a-graph-i/problem.md) | `Array`, `Union Find`, `Prefix Sum` | [✓](3532-path-existence-queries-in-a-graph-i/solution.py) | [✓](3532-path-existence-queries-in-a-graph-i/solution.java) |
 | 3558 | [Number of Ways to Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i/problem.md) | `Tree`, `BFS`, `DFS`, `Math` | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.py) | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.java) |
 | 3612 | [Process String with Special Operations I](3612-process-string-with-special-operations-i/problem.md) | `String`, `Simulation`, `Stack` | [✓](3612-process-string-with-special-operations-i/solution.py) | [✓](3612-process-string-with-special-operations-i/solution.java) |
