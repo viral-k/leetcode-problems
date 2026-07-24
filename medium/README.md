@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 76 problems
+**Total:** 77 problems
 
 ## Problems
 
@@ -66,6 +66,7 @@
 | 3488 | [Closest Equal Element Queries](3488-closest-equal-element-queries/problem.md) | `Array`, `Hash Table` | [✓](3488-closest-equal-element-queries/solution.py) | [✓](3488-closest-equal-element-queries/solution.java) |
 | 3499 | [Maximize Active Section with Trade I](3499-maximize-active-section-with-trade-i/problem.md) | `String`, `Greedy`, `Enumeration`, `Two Pointers` | [✓](3499-maximize-active-section-with-trade-i/solution.py) | [✓](3499-maximize-active-section-with-trade-i/solution.java) |
 | 3513 | [Number of Unique XOR Triplets I](3513-number-of-unique-xor-triplets-i/problem.md) | `Bit Manipulation`, `Math`, `Combinatorics` | [✓](3513-number-of-unique-xor-triplets-i/solution.py) | [✓](3513-number-of-unique-xor-triplets-i/solution.java) |
+| 3514 | [Number of Unique XOR Triplets II](3514-number-of-unique-xor-triplets-ii/problem.md) | `Array`, `Bit Manipulation`, `Hash Table`, `Enumeration` | [✓](3514-number-of-unique-xor-triplets-ii/solution.py) | [✓](3514-number-of-unique-xor-triplets-ii/solution.java) |
 | 3532 | [Path Existence Queries in a Graph I](3532-path-existence-queries-in-a-graph-i/problem.md) | `Array`, `Union Find`, `Prefix Sum` | [✓](3532-path-existence-queries-in-a-graph-i/solution.py) | [✓](3532-path-existence-queries-in-a-graph-i/solution.java) |
 | 3558 | [Number of Ways to Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i/problem.md) | `Tree`, `BFS`, `DFS`, `Math` | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.py) | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.java) |
 | 3612 | [Process String with Special Operations I](3612-process-string-with-special-operations-i/problem.md) | `String`, `Simulation`, `Stack` | [✓](3612-process-string-with-special-operations-i/solution.py) | [✓](3612-process-string-with-special-operations-i/solution.java) |
