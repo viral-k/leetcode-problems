@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 35 problems
+**Total:** 36 problems
 
 ## Problems
 
@@ -34,6 +34,7 @@
 | 2574 | [Left and Right Sum Differences](2574-left-and-right-sum-differences/problem.md) | `Array`, `Prefix Sum` | [✓](2574-left-and-right-sum-differences/solution.py) | [✓](2574-left-and-right-sum-differences/solution.java) |
 | 2784 | [Check if Array is Good](2784-check-if-array-is-good/problem.md) | `Array`, `Hash Table`, `Counting` | [✓](2784-check-if-array-is-good/solution.py) | [✓](2784-check-if-array-is-good/solution.java) |
 | 2833 | [Furthest Point from Origin](2833-furthest-point-from-origin/problem.md) | `String`, `Greedy` | [✓](2833-furthest-point-from-origin/solution.py) | [✓](2833-furthest-point-from-origin/solution.java) |
+| 3014 | [Minimum Number of Pushes to Type Word I](3014-minimum-number-of-pushes-to-type-word-i/problem.md) | `Math`, `Greedy` | [✓](3014-minimum-number-of-pushes-to-type-word-i/solution.py) | [✓](3014-minimum-number-of-pushes-to-type-word-i/solution.java) |
 | 3120 | [Count the Number of Special Characters I](3120-count-the-number-of-special-characters-i/problem.md) | `Hash Set`, `String` | [✓](3120-count-the-number-of-special-characters-i/solution.py) | [✓](3120-count-the-number-of-special-characters-i/solution.java) |
 | 3300 | [Minimum Element After Replacement with Digit Sum](3300-minimum-element-after-replacement-with-digit-sum/problem.md) | `Array`, `Math` | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.py) | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.java) |
 | 3507 | [Minimum Pair Removal to Sort Array I](3507-minimum-pair-removal-to-sort-array-i/problem.md) | `Array`, `Simulation`, `Greedy` | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.py) | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.java) |
