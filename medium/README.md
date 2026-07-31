@@ -2,12 +2,13 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 78 problems
+**Total:** 79 problems
 
 ## Problems
 
 | #   | Problem | Tags | Python | Java |
 |-----|---------|------|--------|------|
+| 017 | [Letter Combinations of a Phone Number](017-letter-combinations-of-a-phone-number/problem.md) | `Hash Table`, `String`, `Backtracking`, `Recursion` | [✓](017-letter-combinations-of-a-phone-number/solution.py) | [✓](017-letter-combinations-of-a-phone-number/solution.java) |
 | 033 | [Search in Rotated Sorted Array](033-search-in-rotated-sorted-array/problem.md) | `Array`, `Binary Search` | [✓](033-search-in-rotated-sorted-array/solution.py) | [✓](033-search-in-rotated-sorted-array/solution.java) |
 | 048 | [Rotate Image](048-rotate-image/problem.md) | `Array`, `Math`, `Matrix` | [✓](048-rotate-image/solution.py) | [✓](048-rotate-image/solution.java) |
 | 049 | [Group Anagrams](049-group-anagrams/problem.md) | `Array`, `Hash Table`, `String`, `Sorting` | [✓](049-group-anagrams/solution.py) | [✓](049-group-anagrams/solution.java) |

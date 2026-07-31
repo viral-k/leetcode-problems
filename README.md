@@ -9,13 +9,13 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 | Difficulty | Solved | Problems |
 |------------|--------|----------|
 | Easy       | 36      | [View](easy/README.md) |
-| Medium     | 78      | [View](medium/README.md) |
+| Medium     | 79      | [View](medium/README.md) |
 | Hard       | 33      | [View](hard/README.md) |
-| **Total**  | **147**  | |
+| **Total**  | **148**  | |
 
 ## Topics Covered
 
-`Array` `BFS` `Binary Indexed Tree` `Binary Lifting` `Binary Search` `Binary Tree` `Bit Manipulation` `Brute Force` `Bucket Sort` `Combinatorics` `Counting` `Counting Sort` `DFS` `Depth-First Search` `Design` `Digit DP` `Divide and Conquer` `Dynamic Programming` `Enumeration` `Geometry` `Graph` `Greedy` `Hash Set` `Hash Table` `Heap (Priority Queue)` `Linked List` `Math` `Matrix` `Matrix Exponentiation` `Memoization` `Monotonic Stack` `Number Theory` `Prefix Maximum` `Prefix Minimum` `Prefix Sum` `Recursion` `Segment Tree` `Shell` `Shortest Path` `Simulation` `Sliding Window` `Sorting` `Sparse Table` `Sqrt Decomposition` `Stack` `String` `String Matching` `Suffix Minimum` `Topological Sort` `Tree` `Trie` `Two Pointers` `Union Find`
+`Array` `BFS` `Backtracking` `Binary Indexed Tree` `Binary Lifting` `Binary Search` `Binary Tree` `Bit Manipulation` `Brute Force` `Bucket Sort` `Combinatorics` `Counting` `Counting Sort` `DFS` `Depth-First Search` `Design` `Digit DP` `Divide and Conquer` `Dynamic Programming` `Enumeration` `Geometry` `Graph` `Greedy` `Hash Set` `Hash Table` `Heap (Priority Queue)` `Linked List` `Math` `Matrix` `Matrix Exponentiation` `Memoization` `Monotonic Stack` `Number Theory` `Prefix Maximum` `Prefix Minimum` `Prefix Sum` `Recursion` `Segment Tree` `Shell` `Shortest Path` `Simulation` `Sliding Window` `Sorting` `Sparse Table` `Sqrt Decomposition` `Stack` `String` `String Matching` `Suffix Minimum` `Topological Sort` `Tree` `Trie` `Two Pointers` `Union Find`
 
 ## Quick Start
 
