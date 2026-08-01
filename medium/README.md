@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 80 problems
+**Total:** 81 problems
 
 ## Problems
 
@@ -18,6 +18,7 @@
 | 223 | [Rectangle Area](223-rectangle-area/problem.md) | `Math`, `Geometry` | [✓](223-rectangle-area/solution.py) | [✓](223-rectangle-area/solution.java) |
 | 347 | [Top K Frequent Elements](347-top-k-frequent-elements/problem.md) | `Array`, `Hash Table`, `Bucket Sort` | [✓](347-top-k-frequent-elements/solution.py) | [✓](347-top-k-frequent-elements/solution.java) |
 | 396 | [Rotate Function](396-rotate-function/problem.md) | `Array`, `Math`, `Dynamic Programming` | [✓](396-rotate-function/solution.py) | [✓](396-rotate-function/solution.java) |
+| 486 | [Predict the Winner](486-predict-the-winner/problem.md) | `Array`, `Dynamic Programming`, `Recursion`, `Game Theory`, `Interval DP` | [✓](486-predict-the-winner/solution.py) | [✓](486-predict-the-winner/solution.java) |
 | 788 | [Rotated Digits](788-rotated-digits/problem.md) | `Math`, `Dynamic Programming` | [✓](788-rotated-digits/solution.py) | [✓](788-rotated-digits/solution.java) |
 | 874 | [Walking Robot Simulation](874-walking-robot-simulation/problem.md) | `Array`, `Hash Table`, `Simulation` | [✓](874-walking-robot-simulation/solution.py) | [✓](874-walking-robot-simulation/solution.java) |
 | 1081 | [Smallest Subsequence of Distinct Characters](1081-smallest-subsequence-of-distinct-characters/problem.md) | `String`, `Stack`, `Greedy`, `Monotonic Stack`, `Hash Table` | [✓](1081-smallest-subsequence-of-distinct-characters/solution.py) | [✓](1081-smallest-subsequence-of-distinct-characters/solution.java) |
