@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 79 problems
+**Total:** 80 problems
 
 ## Problems
 
@@ -48,6 +48,7 @@
 | 2130 | [Maximum Twin Sum of a Linked List](2130-maximum-twin-sum-of-a-linked-list/problem.md) | `Linked List`, `Two Pointers`, `Stack` | [✓](2130-maximum-twin-sum-of-a-linked-list/solution.py) | [✓](2130-maximum-twin-sum-of-a-linked-list/solution.java) |
 | 2161 | [Partition Array According to Given Pivot](2161-partition-array-according-to-given-pivot/problem.md) | `Array`, `Two Pointers` | [✓](2161-partition-array-according-to-given-pivot/solution.py) | [✓](2161-partition-array-according-to-given-pivot/solution.java) |
 | 2196 | [Create Binary Tree from Descriptions](2196-create-binary-tree-from-descriptions/problem.md) | `Array`, `Hash Table`, `Tree`, `Binary Tree` | [✓](2196-create-binary-tree-from-descriptions/solution.py) | [✓](2196-create-binary-tree-from-descriptions/solution.java) |
+| 2266 | [Count Number of Texts](2266-count-number-of-texts/problem.md) | `Hash Table`, `Math`, `String`, `Dynamic Programming` | [✓](2266-count-number-of-texts/solution.py) | [✓](2266-count-number-of-texts/solution.java) |
 | 2452 | [Words Within Two Edits of Dictionary](2452-words-within-two-edits-of-dictionary/problem.md) | `Array`, `String` | [✓](2452-words-within-two-edits-of-dictionary/solution.py) | [✓](2452-words-within-two-edits-of-dictionary/solution.java) |
 | 2492 | [Minimum Score of a Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities/problem.md) | `BFS`, `DFS`, `Union Find`, `Graph` | [✓](2492-minimum-score-of-a-path-between-two-cities/solution.py) | [✓](2492-minimum-score-of-a-path-between-two-cities/solution.java) |
 | 2615 | [Sum of Distances](2615-sum-of-distances/problem.md) | `Array`, `Hash Table`, `Prefix Sum` | [✓](2615-sum-of-distances/solution.py) | [✓](2615-sum-of-distances/solution.java) |
