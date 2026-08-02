@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 81 problems
+**Total:** 82 problems
 
 ## Problems
 
@@ -21,6 +21,7 @@
 | 486 | [Predict the Winner](486-predict-the-winner/problem.md) | `Array`, `Dynamic Programming`, `Recursion`, `Game Theory`, `Interval DP` | [✓](486-predict-the-winner/solution.py) | [✓](486-predict-the-winner/solution.java) |
 | 788 | [Rotated Digits](788-rotated-digits/problem.md) | `Math`, `Dynamic Programming` | [✓](788-rotated-digits/solution.py) | [✓](788-rotated-digits/solution.java) |
 | 874 | [Walking Robot Simulation](874-walking-robot-simulation/problem.md) | `Array`, `Hash Table`, `Simulation` | [✓](874-walking-robot-simulation/solution.py) | [✓](874-walking-robot-simulation/solution.java) |
+| 877 | [Stone Game](877-stone-game/problem.md) | `Array`, `Math`, `Dynamic Programming`, `Game Theory` | [✓](877-stone-game/solution.py) | [✓](877-stone-game/solution.java) |
 | 1081 | [Smallest Subsequence of Distinct Characters](1081-smallest-subsequence-of-distinct-characters/problem.md) | `String`, `Stack`, `Greedy`, `Monotonic Stack`, `Hash Table` | [✓](1081-smallest-subsequence-of-distinct-characters/solution.py) | [✓](1081-smallest-subsequence-of-distinct-characters/solution.java) |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](1288-remove-covered-intervals/solution.py) | [✓](1288-remove-covered-intervals/solution.java) |
 | 1291 | [Sequential Digits](1291-sequential-digits/problem.md) | `Enumeration`, `String`, `Math` | [✓](1291-sequential-digits/solution.py) | [✓](1291-sequential-digits/solution.java) |
