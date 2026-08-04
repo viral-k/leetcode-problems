@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 36 problems
+**Total:** 37 problems
 
 ## Problems
 
@@ -40,6 +40,7 @@
 | 3507 | [Minimum Pair Removal to Sort Array I](3507-minimum-pair-removal-to-sort-array-i/problem.md) | `Array`, `Simulation`, `Greedy` | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.py) | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.java) |
 | 3536 | [Maximum Product of Two Digits](3536-maximum-product-of-two-digits/problem.md) | `Math`, `Greedy` | [✓](3536-maximum-product-of-two-digits/solution.py) | [✓](3536-maximum-product-of-two-digits/solution.java) |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i/problem.md) | `Array`, `Brute Force`, `Simulation` | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.py) | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.java) |
+| 3731 | [Find Missing Elements](3731-find-missing-elements/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](3731-find-missing-elements/solution.py) | [✓](3731-find-missing-elements/solution.java) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](3740-minimum-distance-between-three-equal-elements-i/problem.md) | `Array`, `Hash Table` | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.py) | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.java) |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/problem.md) | `Math`, `String`, `Simulation` | [✓](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/solution.py) | [✓](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/solution.java) |
 | 3783 | [Mirror Distance of an Integer](3783-mirror-distance-of-an-integer/problem.md) | `Math` | [✓](3783-mirror-distance-of-an-integer/solution.py) | [✓](3783-mirror-distance-of-an-integer/solution.java) |
