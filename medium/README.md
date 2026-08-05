@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 82 problems
+**Total:** 83 problems
 
 ## Problems
 
@@ -66,6 +66,7 @@
 | 3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/problem.md) | `Array`, `Tree`, `DFS` | [✓](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/solution.py) | [✓](3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network/solution.java) |
 | 3121 | [Count the Number of Special Characters II](3121-count-the-number-of-special-characters-ii/problem.md) | `Hash Table`, `String` | [✓](3121-count-the-number-of-special-characters-ii/solution.py) | [✓](3121-count-the-number-of-special-characters-ii/solution.java) |
 | 3286 | [Find a Safe Walk Through a Grid](3286-find-a-safe-walk-through-a-grid/problem.md) | `Array`, `BFS`, `Graph`, `Matrix`, `Shortest Path` | [✓](3286-find-a-safe-walk-through-a-grid/solution.py) | [✓](3286-find-a-safe-walk-through-a-grid/solution.java) |
+| 3310 | [Remove Methods from Project](3310-remove-methods-from-project/problem.md) | `Array`, `DFS`, `BFS`, `Graph` | [✓](3310-remove-methods-from-project/solution.py) | [✓](3310-remove-methods-from-project/solution.java) |
 | 3418 | [Maximum Amount of Money Robot Can Earn](3418-maximum-amount-of-money-robot-can-earn/problem.md) | `Array`, `Matrix`, `Dynamic Programming` | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.py) | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.java) |
 | 3488 | [Closest Equal Element Queries](3488-closest-equal-element-queries/problem.md) | `Array`, `Hash Table` | [✓](3488-closest-equal-element-queries/solution.py) | [✓](3488-closest-equal-element-queries/solution.java) |
 | 3499 | [Maximize Active Section with Trade I](3499-maximize-active-section-with-trade-i/problem.md) | `String`, `Greedy`, `Enumeration`, `Two Pointers` | [✓](3499-maximize-active-section-with-trade-i/solution.py) | [✓](3499-maximize-active-section-with-trade-i/solution.java) |
