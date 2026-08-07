@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 34 problems
+**Total:** 35 problems
 
 ## Problems
 
@@ -27,6 +27,7 @@
 | 3225 | [Maximum Score from Grid Operations](3225-maximum-score-from-grid-operations/problem.md) | `Array`, `Dynamic Programming`, `Matrix`, `Prefix Sum` | [✓](3225-maximum-score-from-grid-operations/solution.py) | [✓](3225-maximum-score-from-grid-operations/solution.java) |
 | 3312 | [Sorted GCD Pair Queries](3312-sorted-gcd-pair-queries/problem.md) | `Array`, `Hash Table`, `Math`, `Number Theory`, `Binary Search`, `Counting`, `Prefix Sum` | [✓](3312-sorted-gcd-pair-queries/solution.py) | [✓](3312-sorted-gcd-pair-queries/solution.java) |
 | 3336 | [Find the Number of Subsequences with Equal GCD](3336-find-the-number-of-subsequences-with-equal-gcd/problem.md) | `Array`, `Dynamic Programming`, `Number Theory`, `Math` | [✓](3336-find-the-number-of-subsequences-with-equal-gcd/solution.py) | [✓](3336-find-the-number-of-subsequences-with-equal-gcd/solution.java) |
+| 3348 | [Smallest Divisible Digit Product II](3348-smallest-divisible-digit-product-ii/problem.md) | `String`, `Greedy`, `Math`, `Number Theory`, `Enumeration` | [✓](3348-smallest-divisible-digit-product-ii/solution.py) | [✓](3348-smallest-divisible-digit-product-ii/solution.java) |
 | 3464 | [Maximize the Distance Between Points on a Square](3464-maximize-the-distance-between-points-on-a-square/problem.md) | `Array`, `Binary Search`, `Greedy` | [✓](3464-maximize-the-distance-between-points-on-a-square/solution.py) | [✓](3464-maximize-the-distance-between-points-on-a-square/solution.java) |
 | 3501 | [Maximize Active Section with Trade II](3501-maximize-active-section-with-trade-ii/problem.md) | `String`, `Binary Search`, `Sparse Table`, `Prefix Sum`, `Greedy` | [✓](3501-maximize-active-section-with-trade-ii/solution.py) | [✓](3501-maximize-active-section-with-trade-ii/solution.java) |
 | 3518 | [Smallest Palindromic Rearrangement II](3518-smallest-palindromic-rearrangement-ii/problem.md) | `String`, `Combinatorics`, `Greedy`, `Counting`, `Math` | [✓](3518-smallest-palindromic-rearrangement-ii/solution.py) | [✓](3518-smallest-palindromic-rearrangement-ii/solution.java) |
