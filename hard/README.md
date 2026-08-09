@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 35 problems
+**Total:** 36 problems
 
 ## Problems
 
@@ -17,6 +17,7 @@
 | 1340 | [Jump Game V](1340-jump-game-v/problem.md) | `Array`, `Dynamic Programming`, `DFS`, `Memoization` | [✓](1340-jump-game-v/solution.py) | [✓](1340-jump-game-v/solution.java) |
 | 1345 | [Jump Game IV](1345-jump-game-iv/problem.md) | `Array`, `Hash Table`, `BFS` | [✓](1345-jump-game-iv/solution.py) | [✓](1345-jump-game-iv/solution.java) |
 | 1406 | [Stone Game III](1406-stone-game-iii/problem.md) | `Array`, `Math`, `Dynamic Programming`, `Game Theory`, `Suffix Sum` | [✓](1406-stone-game-iii/solution.py) | [✓](1406-stone-game-iii/solution.java) |
+| 1563 | [Stone Game V](1563-stone-game-v/problem.md) | `Array`, `Dynamic Programming`, `Prefix Sum`, `Two Pointers`, `Game Theory`, `Interval DP` | [✓](1563-stone-game-v/solution.py) | [✓](1563-stone-game-v/solution.java) |
 | 1665 | [Minimum Initial Energy to Finish Tasks](1665-minimum-initial-energy-to-finish-tasks/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.py) | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.java) |
 | 1840 | [Maximum Building Height](1840-maximum-building-height/problem.md) | `Array`, `Math`, `Greedy` | [✓](1840-maximum-building-height/solution.py) | [✓](1840-maximum-building-height/solution.java) |
 | 2463 | [Minimum Total Distance Traveled](2463-minimum-total-distance-traveled/problem.md) | `Array`, `Dynamic Programming`, `Sorting` | [✓](2463-minimum-total-distance-traveled/solution.py) | [✓](2463-minimum-total-distance-traveled/solution.java) |
