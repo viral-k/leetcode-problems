@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 84 problems
+**Total:** 85 problems
 
 ## Problems
 
@@ -23,6 +23,7 @@
 | 874 | [Walking Robot Simulation](874-walking-robot-simulation/problem.md) | `Array`, `Hash Table`, `Simulation` | [✓](874-walking-robot-simulation/solution.py) | [✓](874-walking-robot-simulation/solution.java) |
 | 877 | [Stone Game](877-stone-game/problem.md) | `Array`, `Math`, `Dynamic Programming`, `Game Theory` | [✓](877-stone-game/solution.py) | [✓](877-stone-game/solution.java) |
 | 1081 | [Smallest Subsequence of Distinct Characters](1081-smallest-subsequence-of-distinct-characters/problem.md) | `String`, `Stack`, `Greedy`, `Monotonic Stack`, `Hash Table` | [✓](1081-smallest-subsequence-of-distinct-characters/solution.py) | [✓](1081-smallest-subsequence-of-distinct-characters/solution.java) |
+| 1140 | [Stone Game II](1140-stone-game-ii/problem.md) | `Array`, `Dynamic Programming`, `Prefix Sum`, `Game Theory`, `Memoization` | [✓](1140-stone-game-ii/solution.py) | [✓](1140-stone-game-ii/solution.java) |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](1288-remove-covered-intervals/solution.py) | [✓](1288-remove-covered-intervals/solution.java) |
 | 1291 | [Sequential Digits](1291-sequential-digits/problem.md) | `Enumeration`, `String`, `Math` | [✓](1291-sequential-digits/solution.py) | [✓](1291-sequential-digits/solution.java) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/problem.md) | `Array`, `Binary Search`, `Matrix`, `Prefix Sum` | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.py) | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.java) |
