@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 85 problems
+**Total:** 86 problems
 
 ## Problems
 
@@ -60,6 +60,7 @@
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](2770-maximum-number-of-jumps-to-reach-the-last-index/problem.md) | `Array`, `Dynamic Programming` | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.py) | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) |
 | 2812 | [Find the Safest Path in a Grid](2812-find-the-safest-path-in-a-grid/problem.md) | `Array`, `BFS`, `Heap (Priority Queue)`, `Matrix`, `Binary Search` | [✓](2812-find-the-safest-path-in-a-grid/solution.py) | [✓](2812-find-the-safest-path-in-a-grid/solution.java) |
 | 2943 | [Maximize Area of Square Hole in Grid](2943-maximize-area-of-square-hole-in-grid/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](2943-maximize-area-of-square-hole-in-grid/solution.py) | [✓](2943-maximize-area-of-square-hole-in-grid/solution.java) |
+| 2958 | [Length of Longest Subarray with at Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency/problem.md) | `Array`, `Hash Table`, `Sliding Window` | [✓](2958-length-of-longest-subarray-with-at-most-k-frequency/solution.py) | [✓](2958-length-of-longest-subarray-with-at-most-k-frequency/solution.java) |
 | 2975 | [Maximum Square Area by Removing Fences from a Field](2975-maximum-square-area-by-removing-fences-from-a-field/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.py) | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.java) |
 | 3020 | [Find the Maximum Number of Elements in Subset](3020-find-the-maximum-number-of-elements-in-subset/problem.md) | `Array`, `Hash Table`, `Enumeration` | [✓](3020-find-the-maximum-number-of-elements-in-subset/solution.py) | [✓](3020-find-the-maximum-number-of-elements-in-subset/solution.java) |
 | 3043 | [Find the Length of the Longest Common Prefix](3043-find-the-length-of-the-longest-common-prefix/problem.md) | `Array`, `Hash Table` | [✓](3043-find-the-length-of-the-longest-common-prefix/solution.py) | [✓](3043-find-the-length-of-the-longest-common-prefix/solution.java) |
