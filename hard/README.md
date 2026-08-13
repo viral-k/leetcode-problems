@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 37 problems
+**Total:** 38 problems
 
 ## Problems
 
@@ -21,6 +21,7 @@
 | 1563 | [Stone Game V](1563-stone-game-v/problem.md) | `Array`, `Dynamic Programming`, `Prefix Sum`, `Two Pointers`, `Game Theory`, `Interval DP` | [✓](1563-stone-game-v/solution.py) | [✓](1563-stone-game-v/solution.java) |
 | 1665 | [Minimum Initial Energy to Finish Tasks](1665-minimum-initial-energy-to-finish-tasks/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.py) | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.java) |
 | 1840 | [Maximum Building Height](1840-maximum-building-height/problem.md) | `Array`, `Math`, `Greedy` | [✓](1840-maximum-building-height/solution.py) | [✓](1840-maximum-building-height/solution.java) |
+| 2213 | [Longest Substring of One Repeating Character](2213-longest-substring-of-one-repeating-character/problem.md) | `String`, `Segment Tree`, `Divide and Conquer`, `Array` | [✓](2213-longest-substring-of-one-repeating-character/solution.py) | [✓](2213-longest-substring-of-one-repeating-character/solution.java) |
 | 2463 | [Minimum Total Distance Traveled](2463-minimum-total-distance-traveled/problem.md) | `Array`, `Dynamic Programming`, `Sorting` | [✓](2463-minimum-total-distance-traveled/solution.py) | [✓](2463-minimum-total-distance-traveled/solution.java) |
 | 2751 | [Robot Collisions](2751-robot-collisions/problem.md) | `Array`, `Stack`, `Sorting`, `Simulation` | [✓](2751-robot-collisions/solution.py) | [✓](2751-robot-collisions/solution.java) |
 | 2790 | [Maximum Number of Groups with Increasing Length](2790-maximum-number-of-groups-with-increasing-length/problem.md) | `Array`, `Greedy`, `Sorting`, `Binary Search` | [✓](2790-maximum-number-of-groups-with-increasing-length/solution.py) | [✓](2790-maximum-number-of-groups-with-increasing-length/solution.java) |
