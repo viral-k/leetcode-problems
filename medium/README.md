@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 86 problems
+**Total:** 87 problems
 
 ## Problems
 
@@ -85,6 +85,7 @@
 | 3653 | [XOR After Range Multiplication Queries I](3653-xor-after-range-multiplication-queries-i/problem.md) | `Array`, `Bit Manipulation`, `Simulation` | [✓](3653-xor-after-range-multiplication-queries-i/solution.py) | [✓](3653-xor-after-range-multiplication-queries-i/solution.java) |
 | 3660 | [Jump Game IX](3660-jump-game-ix/problem.md) | `Array`, `Graph`, `Prefix Maximum`, `Suffix Minimum` | [✓](3660-jump-game-ix/solution.py) | [✓](3660-jump-game-ix/solution.java) |
 | 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i/problem.md) | `Array`, `Greedy`, `Math` | [✓](3689-maximum-total-subarray-value-i/solution.py) | [✓](3689-maximum-total-subarray-value-i/solution.java) |
+| 3702 | [Longest Subsequence with Non-Zero Bitwise XOR](3702-longest-subsequence-with-non-zero-bitwise-xor/problem.md) | `Array`, `Bit Manipulation`, `Greedy`, `Math` | [✓](3702-longest-subsequence-with-non-zero-bitwise-xor/solution.py) | [✓](3702-longest-subsequence-with-non-zero-bitwise-xor/solution.java) |
 | 3713 | [Longest Balanced Substring I](3713-longest-balanced-substring-i/problem.md) | `String`, `Hash Table`, `Brute Force` | [✓](3713-longest-balanced-substring-i/solution.py) | [✓](3713-longest-balanced-substring-i/solution.java) |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i/problem.md) | `Array`, `Hash Table`, `Brute Force` | [✓](3719-longest-balanced-subarray-i/solution.py) | [✓](3719-longest-balanced-subarray-i/solution.java) |
 | 3737 | [Count Subarrays with Majority Element I](3737-count-subarrays-with-majority-element-i/problem.md) | `Array`, `Counting` | [✓](3737-count-subarrays-with-majority-element-i/solution.py) | [✓](3737-count-subarrays-with-majority-element-i/solution.java) |
