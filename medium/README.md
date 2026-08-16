@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 87 problems
+**Total:** 88 problems
 
 ## Problems
 
@@ -43,6 +43,7 @@
 | 1861 | [Rotating the Box](1861-rotating-the-box/problem.md) | `Array`, `Two Pointers`, `Matrix`, `Simulation` | [✓](1861-rotating-the-box/solution.py) | [✓](1861-rotating-the-box/solution.java) |
 | 1871 | [Jump Game VII](1871-jump-game-vii/problem.md) | `String`, `Dynamic Programming`, `Prefix Sum`, `Sliding Window` | [✓](1871-jump-game-vii/solution.py) | [✓](1871-jump-game-vii/solution.java) |
 | 1914 | [Cyclically Rotating a Grid](1914-cyclically-rotating-a-grid/problem.md) | `Array`, `Matrix`, `Simulation` | [✓](1914-cyclically-rotating-a-grid/solution.py) | [✓](1914-cyclically-rotating-a-grid/solution.java) |
+| 2029 | [Stone Game IX](2029-stone-game-ix/problem.md) | `Array`, `Math`, `Greedy`, `Counting`, `Game Theory` | [✓](2029-stone-game-ix/solution.py) | [✓](2029-stone-game-ix/solution.java) |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](2033-minimum-operations-to-make-a-uni-value-grid/problem.md) | `Array`, `Math`, `Sorting`, `Matrix` | [✓](2033-minimum-operations-to-make-a-uni-value-grid/solution.py) | [✓](2033-minimum-operations-to-make-a-uni-value-grid/solution.java) |
 | 2069 | [Walking Robot Simulation II](2069-walking-robot-simulation-ii/problem.md) | `Design`, `Simulation` | [✓](2069-walking-robot-simulation-ii/solution.py) | [✓](2069-walking-robot-simulation-ii/solution.java) |
 | 2075 | [Decode the Slanted Ciphertext](2075-decode-the-slanted-ciphertext/problem.md) | `String`, `Matrix`, `Simulation` | [✓](2075-decode-the-slanted-ciphertext/solution.py) | [✓](2075-decode-the-slanted-ciphertext/solution.java) |
