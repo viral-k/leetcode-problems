@@ -1,0 +1,20 @@
+from typing import List
+
+
+class Solution:
+    def resultArray(self, nums: List[int]) -> List[int]:
+        """
+        3069. Distribute Elements Into Two Arrays I
+        Time: O(n)
+        Space: O(n)
+        """
+        arr1 = [nums[0]]
+        arr2 = [nums[1]]
+
+        for x in nums[2:]:
+            if arr1[-1] > arr2[-1]:
+                arr1.append(x)
+            else:
+                arr2.append(x)
+
+        return arr1 + arr2

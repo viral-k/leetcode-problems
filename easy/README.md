@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 41 problems
+**Total:** 42 problems
 
 ## Problems
 
@@ -36,6 +36,7 @@
 | 2833 | [Furthest Point from Origin](2833-furthest-point-from-origin/problem.md) | `String`, `Greedy` | [✓](2833-furthest-point-from-origin/solution.py) | [✓](2833-furthest-point-from-origin/solution.java) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/problem.md) | `Array`, `Hash Table`, `Simulation` | [✓](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/solution.py) | [✓](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/solution.java) |
 | 3014 | [Minimum Number of Pushes to Type Word I](3014-minimum-number-of-pushes-to-type-word-i/problem.md) | `Math`, `Greedy` | [✓](3014-minimum-number-of-pushes-to-type-word-i/solution.py) | [✓](3014-minimum-number-of-pushes-to-type-word-i/solution.java) |
+| 3069 | [Distribute Elements Into Two Arrays I](3069-distribute-elements-into-two-arrays-i/problem.md) | `Array`, `Simulation` | [✓](3069-distribute-elements-into-two-arrays-i/solution.py) | [✓](3069-distribute-elements-into-two-arrays-i/solution.java) |
 | 3090 | [Maximum Length Substring with Two Occurrences](3090-maximum-length-substring-with-two-occurrences/problem.md) | `Hash Table`, `String`, `Sliding Window` | [✓](3090-maximum-length-substring-with-two-occurrences/solution.py) | [✓](3090-maximum-length-substring-with-two-occurrences/solution.java) |
 | 3120 | [Count the Number of Special Characters I](3120-count-the-number-of-special-characters-i/problem.md) | `Hash Set`, `String` | [✓](3120-count-the-number-of-special-characters-i/solution.py) | [✓](3120-count-the-number-of-special-characters-i/solution.java) |
 | 3300 | [Minimum Element After Replacement with Digit Sum](3300-minimum-element-after-replacement-with-digit-sum/problem.md) | `Array`, `Math` | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.py) | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.java) |
