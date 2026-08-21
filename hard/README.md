@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 40 problems
+**Total:** 41 problems
 
 ## Problems
 
@@ -28,6 +28,7 @@
 | 2751 | [Robot Collisions](2751-robot-collisions/problem.md) | `Array`, `Stack`, `Sorting`, `Simulation` | [✓](2751-robot-collisions/solution.py) | [✓](2751-robot-collisions/solution.java) |
 | 2790 | [Maximum Number of Groups with Increasing Length](2790-maximum-number-of-groups-with-increasing-length/problem.md) | `Array`, `Greedy`, `Sorting`, `Binary Search` | [✓](2790-maximum-number-of-groups-with-increasing-length/solution.py) | [✓](2790-maximum-number-of-groups-with-increasing-length/solution.java) |
 | 3093 | [Longest Common Suffix Queries](3093-longest-common-suffix-queries/problem.md) | `Array`, `String`, `Trie` | [✓](3093-longest-common-suffix-queries/solution.py) | [✓](3093-longest-common-suffix-queries/solution.java) |
+| 3116 | [Kth Smallest Amount with Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination/problem.md) | `Array`, `Binary Search`, `Bit Manipulation`, `Math`, `Number Theory`, `Combinatorics` | [✓](3116-kth-smallest-amount-with-single-denomination-combination/solution.py) | [✓](3116-kth-smallest-amount-with-single-denomination-combination/solution.java) |
 | 3161 | [Block Placement Queries](3161-block-placement-queries/problem.md) | `Array`, `Binary Indexed Tree`, `Segment Tree` | [✓](3161-block-placement-queries/solution.py) | [✓](3161-block-placement-queries/solution.java) |
 | 3225 | [Maximum Score from Grid Operations](3225-maximum-score-from-grid-operations/problem.md) | `Array`, `Dynamic Programming`, `Matrix`, `Prefix Sum` | [✓](3225-maximum-score-from-grid-operations/solution.py) | [✓](3225-maximum-score-from-grid-operations/solution.java) |
 | 3312 | [Sorted GCD Pair Queries](3312-sorted-gcd-pair-queries/problem.md) | `Array`, `Hash Table`, `Math`, `Number Theory`, `Binary Search`, `Counting`, `Prefix Sum` | [✓](3312-sorted-gcd-pair-queries/solution.py) | [✓](3312-sorted-gcd-pair-queries/solution.java) |
