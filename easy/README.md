@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 42 problems
+**Total:** 43 problems
 
 ## Problems
 
@@ -44,6 +44,7 @@
 | 3471 | [Find the Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer/problem.md) | `Array`, `Hash Table`, `Enumeration`, `Counting` | [✓](3471-find-the-largest-almost-missing-integer/solution.py) | [✓](3471-find-the-largest-almost-missing-integer/solution.java) |
 | 3507 | [Minimum Pair Removal to Sort Array I](3507-minimum-pair-removal-to-sort-array-i/problem.md) | `Array`, `Simulation`, `Greedy` | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.py) | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.java) |
 | 3536 | [Maximum Product of Two Digits](3536-maximum-product-of-two-digits/problem.md) | `Math`, `Greedy` | [✓](3536-maximum-product-of-two-digits/solution.py) | [✓](3536-maximum-product-of-two-digits/solution.java) |
+| 3622 | [Check Divisibility by Digit Sum and Product](3622-check-divisibility-by-digit-sum-and-product/problem.md) | `Math`, `Simulation` | [✓](3622-check-divisibility-by-digit-sum-and-product/solution.py) | [✓](3622-check-divisibility-by-digit-sum-and-product/solution.java) |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i/problem.md) | `Array`, `Brute Force`, `Simulation` | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.py) | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.java) |
 | 3731 | [Find Missing Elements](3731-find-missing-elements/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](3731-find-missing-elements/solution.py) | [✓](3731-find-missing-elements/solution.java) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](3740-minimum-distance-between-three-equal-elements-i/problem.md) | `Array`, `Hash Table` | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.py) | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.java) |
