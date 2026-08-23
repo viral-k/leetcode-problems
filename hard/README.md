@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 41 problems
+**Total:** 42 problems
 
 ## Problems
 
@@ -11,6 +11,7 @@
 | 004 | [Median of Two Sorted Arrays](004-median-of-two-sorted-arrays/problem.md) | `Array`, `Binary Search`, `Divide and Conquer` | [✓](004-median-of-two-sorted-arrays/solution.py) | [✓](004-median-of-two-sorted-arrays/solution.java) |
 | 010 | [Regular Expression Matching](010-regular-expression-matching/problem.md) | `String`, `Dynamic Programming`, `Recursion`, `Memoization` | [✓](010-regular-expression-matching/solution.py) | [✓](010-regular-expression-matching/solution.java) |
 | 025 | [Reverse Nodes in k-Group](025-reverse-nodes-in-k-group/problem.md) | `Linked List`, `Recursion`, `Two Pointers` | [✓](025-reverse-nodes-in-k-group/solution.py) | [✓](025-reverse-nodes-in-k-group/solution.java) |
+| 030 | [Substring with Concatenation of All Words](030-substring-with-concatenation-of-all-words/problem.md) | `Hash Table`, `String`, `Sliding Window` | [✓](030-substring-with-concatenation-of-all-words/solution.py) | [✓](030-substring-with-concatenation-of-all-words/solution.java) |
 | 032 | [Longest Valid Parentheses](032-longest-valid-parentheses/problem.md) | `String`, `Dynamic Programming`, `Stack` | [✓](032-longest-valid-parentheses/solution.py) | [✓](032-longest-valid-parentheses/solution.java) |
 | 154 | [Find Minimum in Rotated Sorted Array II](154-find-minimum-in-rotated-sorted-array-ii/problem.md) | `Array`, `Binary Search` | [✓](154-find-minimum-in-rotated-sorted-array-ii/solution.py) | [✓](154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | 887 | [Super Egg Drop](887-super-egg-drop/problem.md) | `Math`, `Dynamic Programming`, `Binary Search` | [✓](887-super-egg-drop/solution.py) | [✓](887-super-egg-drop/solution.java) |
