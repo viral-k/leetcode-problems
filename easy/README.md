@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 43 problems
+**Total:** 44 problems
 
 ## Problems
 
@@ -46,6 +46,7 @@
 | 3536 | [Maximum Product of Two Digits](3536-maximum-product-of-two-digits/problem.md) | `Math`, `Greedy` | [✓](3536-maximum-product-of-two-digits/solution.py) | [✓](3536-maximum-product-of-two-digits/solution.java) |
 | 3622 | [Check Divisibility by Digit Sum and Product](3622-check-divisibility-by-digit-sum-and-product/problem.md) | `Math`, `Simulation` | [✓](3622-check-divisibility-by-digit-sum-and-product/solution.py) | [✓](3622-check-divisibility-by-digit-sum-and-product/solution.java) |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i/problem.md) | `Array`, `Brute Force`, `Simulation` | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.py) | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.java) |
+| 3718 | [Smallest Missing Multiple of K](3718-smallest-missing-multiple-of-k/problem.md) | `Array`, `Hash Table`, `Math`, `Simulation` | [✓](3718-smallest-missing-multiple-of-k/solution.py) | [✓](3718-smallest-missing-multiple-of-k/solution.java) |
 | 3731 | [Find Missing Elements](3731-find-missing-elements/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](3731-find-missing-elements/solution.py) | [✓](3731-find-missing-elements/solution.java) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](3740-minimum-distance-between-three-equal-elements-i/problem.md) | `Array`, `Hash Table` | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.py) | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.java) |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/problem.md) | `Math`, `String`, `Simulation` | [✓](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/solution.py) | [✓](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/solution.java) |
