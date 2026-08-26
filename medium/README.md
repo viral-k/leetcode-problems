@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 91 problems
+**Total:** 92 problems
 
 ## Problems
 
@@ -63,6 +63,7 @@
 | 2685 | [Count the Number of Complete Components](2685-count-the-number-of-complete-components/problem.md) | `DFS`, `BFS`, `Union Find`, `Graph` | [✓](2685-count-the-number-of-complete-components/solution.py) | [✓](2685-count-the-number-of-complete-components/solution.java) |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](2770-maximum-number-of-jumps-to-reach-the-last-index/problem.md) | `Array`, `Dynamic Programming` | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.py) | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) |
 | 2812 | [Find the Safest Path in a Grid](2812-find-the-safest-path-in-a-grid/problem.md) | `Array`, `BFS`, `Heap (Priority Queue)`, `Matrix`, `Binary Search` | [✓](2812-find-the-safest-path-in-a-grid/solution.py) | [✓](2812-find-the-safest-path-in-a-grid/solution.java) |
+| 2904 | [Shortest and Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string/problem.md) | `String`, `Sliding Window`, `Greedy`, `Two Pointers` | [✓](2904-shortest-and-lexicographically-smallest-beautiful-string/solution.py) | [✓](2904-shortest-and-lexicographically-smallest-beautiful-string/solution.java) |
 | 2943 | [Maximize Area of Square Hole in Grid](2943-maximize-area-of-square-hole-in-grid/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](2943-maximize-area-of-square-hole-in-grid/solution.py) | [✓](2943-maximize-area-of-square-hole-in-grid/solution.java) |
 | 2958 | [Length of Longest Subarray with at Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency/problem.md) | `Array`, `Hash Table`, `Sliding Window` | [✓](2958-length-of-longest-subarray-with-at-most-k-frequency/solution.py) | [✓](2958-length-of-longest-subarray-with-at-most-k-frequency/solution.java) |
 | 2975 | [Maximum Square Area by Removing Fences from a Field](2975-maximum-square-area-by-removing-fences-from-a-field/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.py) | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.java) |
