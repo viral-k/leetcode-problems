@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 43 problems
+**Total:** 45 problems
 
 ## Problems
 
@@ -13,6 +13,7 @@
 | 025 | [Reverse Nodes in k-Group](025-reverse-nodes-in-k-group/problem.md) | `Linked List`, `Recursion`, `Two Pointers` | [✓](025-reverse-nodes-in-k-group/solution.py) | [✓](025-reverse-nodes-in-k-group/solution.java) |
 | 030 | [Substring with Concatenation of All Words](030-substring-with-concatenation-of-all-words/problem.md) | `Hash Table`, `String`, `Sliding Window` | [✓](030-substring-with-concatenation-of-all-words/solution.py) | [✓](030-substring-with-concatenation-of-all-words/solution.java) |
 | 032 | [Longest Valid Parentheses](032-longest-valid-parentheses/problem.md) | `String`, `Dynamic Programming`, `Stack` | [✓](032-longest-valid-parentheses/solution.py) | [✓](032-longest-valid-parentheses/solution.java) |
+| 044 | [Wildcard Matching](044-wildcard-matching/problem.md) | `String`, `Dynamic Programming`, `Greedy`, `Recursion` | [✓](044-wildcard-matching/solution.py) | [✓](044-wildcard-matching/solution.java) |
 | 154 | [Find Minimum in Rotated Sorted Array II](154-find-minimum-in-rotated-sorted-array-ii/problem.md) | `Array`, `Binary Search` | [✓](154-find-minimum-in-rotated-sorted-array-ii/solution.py) | [✓](154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | 887 | [Super Egg Drop](887-super-egg-drop/problem.md) | `Math`, `Dynamic Programming`, `Binary Search` | [✓](887-super-egg-drop/solution.py) | [✓](887-super-egg-drop/solution.java) |
 | 1301 | [Number of Paths with Max Score](1301-number-of-paths-with-max-score/problem.md) | `Array`, `Dynamic Programming`, `Matrix` | [✓](1301-number-of-paths-with-max-score/solution.py) | [✓](1301-number-of-paths-with-max-score/solution.java) |
@@ -49,5 +50,6 @@
 | 3699 | [Number of ZigZag Arrays I](3699-number-of-zigzag-arrays-i/problem.md) | `Dynamic Programming`, `Prefix Sum`, `Combinatorics` | [✓](3699-number-of-zigzag-arrays-i/solution.py) | [✓](3699-number-of-zigzag-arrays-i/solution.java) |
 | 3700 | [Number of ZigZag Arrays II](3700-number-of-zigzag-arrays-ii/problem.md) | `Dynamic Programming`, `Matrix Exponentiation`, `Combinatorics` | [✓](3700-number-of-zigzag-arrays-ii/solution.py) | [✓](3700-number-of-zigzag-arrays-ii/solution.java) |
 | 3721 | [Longest Balanced Subarray II](3721-longest-balanced-subarray-ii/problem.md) | `Array`, `Hash Table`, `Segment Tree` | [✓](3721-longest-balanced-subarray-ii/solution.py) | [✓](3721-longest-balanced-subarray-ii/solution.java) |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](3734-lexicographically-smallest-palindromic-permutation-greater-than-target/problem.md) | `String`, `Greedy`, `Counting`, `Sorting` | [✓](3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.py) | [✓](3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.java) |
 | 3739 | [Count Subarrays with Majority Element II](3739-count-subarrays-with-majority-element-ii/problem.md) | `Array`, `Prefix Sum`, `Counting` | [✓](3739-count-subarrays-with-majority-element-ii/solution.py) | [✓](3739-count-subarrays-with-majority-element-ii/solution.java) |
 | 3753 | [Total Waviness of Numbers in Range II](3753-total-waviness-of-numbers-in-range-ii/problem.md) | `Digit DP`, `Dynamic Programming`, `Math` | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.py) | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.java) |
