@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 93 problems
+**Total:** 94 problems
 
 ## Problems
 
@@ -65,6 +65,7 @@
 | 2812 | [Find the Safest Path in a Grid](2812-find-the-safest-path-in-a-grid/problem.md) | `Array`, `BFS`, `Heap (Priority Queue)`, `Matrix`, `Binary Search` | [✓](2812-find-the-safest-path-in-a-grid/solution.py) | [✓](2812-find-the-safest-path-in-a-grid/solution.java) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string/problem.md) | `String`, `Sliding Window`, `Greedy`, `Two Pointers` | [✓](2904-shortest-and-lexicographically-smallest-beautiful-string/solution.py) | [✓](2904-shortest-and-lexicographically-smallest-beautiful-string/solution.java) |
 | 2943 | [Maximize Area of Square Hole in Grid](2943-maximize-area-of-square-hole-in-grid/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](2943-maximize-area-of-square-hole-in-grid/solution.py) | [✓](2943-maximize-area-of-square-hole-in-grid/solution.java) |
+| 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/problem.md) | `Array`, `Union Find`, `Sorting`, `Greedy` | [✓](2948-make-lexicographically-smallest-array-by-swapping-elements/solution.py) | [✓](2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) |
 | 2958 | [Length of Longest Subarray with at Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency/problem.md) | `Array`, `Hash Table`, `Sliding Window` | [✓](2958-length-of-longest-subarray-with-at-most-k-frequency/solution.py) | [✓](2958-length-of-longest-subarray-with-at-most-k-frequency/solution.java) |
 | 2975 | [Maximum Square Area by Removing Fences from a Field](2975-maximum-square-area-by-removing-fences-from-a-field/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.py) | [✓](2975-maximum-square-area-by-removing-fences-from-a-field/solution.java) |
 | 3020 | [Find the Maximum Number of Elements in Subset](3020-find-the-maximum-number-of-elements-in-subset/problem.md) | `Array`, `Hash Table`, `Enumeration` | [✓](3020-find-the-maximum-number-of-elements-in-subset/solution.py) | [✓](3020-find-the-maximum-number-of-elements-in-subset/solution.java) |
