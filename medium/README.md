@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 94 problems
+**Total:** 95 problems
 
 ## Problems
 
@@ -50,6 +50,7 @@
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](2033-minimum-operations-to-make-a-uni-value-grid/problem.md) | `Array`, `Math`, `Sorting`, `Matrix` | [✓](2033-minimum-operations-to-make-a-uni-value-grid/solution.py) | [✓](2033-minimum-operations-to-make-a-uni-value-grid/solution.java) |
 | 2069 | [Walking Robot Simulation II](2069-walking-robot-simulation-ii/problem.md) | `Design`, `Simulation` | [✓](2069-walking-robot-simulation-ii/solution.py) | [✓](2069-walking-robot-simulation-ii/solution.java) |
 | 2075 | [Decode the Slanted Ciphertext](2075-decode-the-slanted-ciphertext/problem.md) | `String`, `Matrix`, `Simulation` | [✓](2075-decode-the-slanted-ciphertext/solution.py) | [✓](2075-decode-the-slanted-ciphertext/solution.java) |
+| 2091 | [Removing Minimum and Maximum from Array](2091-removing-minimum-and-maximum-from-array/problem.md) | `Array`, `Greedy` | [✓](2091-removing-minimum-and-maximum-from-array/solution.py) | [✓](2091-removing-minimum-and-maximum-from-array/solution.java) |
 | 2095 | [Delete the Middle Node of a Linked List](2095-delete-the-middle-node-of-a-linked-list/problem.md) | `Linked List`, `Two Pointers` | [✓](2095-delete-the-middle-node-of-a-linked-list/solution.py) | [✓](2095-delete-the-middle-node-of-a-linked-list/solution.java) |
 | 2126 | [Destroying Asteroids](2126-destroying-asteroids/problem.md) | `Array`, `Greedy`, `Counting Sort` | [✓](2126-destroying-asteroids/solution.py) | [✓](2126-destroying-asteroids/solution.java) |
 | 2130 | [Maximum Twin Sum of a Linked List](2130-maximum-twin-sum-of-a-linked-list/problem.md) | `Linked List`, `Two Pointers`, `Stack` | [✓](2130-maximum-twin-sum-of-a-linked-list/solution.py) | [✓](2130-maximum-twin-sum-of-a-linked-list/solution.java) |
