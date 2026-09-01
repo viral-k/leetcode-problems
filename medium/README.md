@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 95 problems
+**Total:** 96 problems
 
 ## Problems
 
@@ -85,6 +85,7 @@
 | 3517 | [Smallest Palindromic Rearrangement I](3517-smallest-palindromic-rearrangement-i/problem.md) | `String`, `Greedy`, `Counting`, `Sorting` | [✓](3517-smallest-palindromic-rearrangement-i/solution.py) | [✓](3517-smallest-palindromic-rearrangement-i/solution.java) |
 | 3532 | [Path Existence Queries in a Graph I](3532-path-existence-queries-in-a-graph-i/problem.md) | `Array`, `Union Find`, `Prefix Sum` | [✓](3532-path-existence-queries-in-a-graph-i/solution.py) | [✓](3532-path-existence-queries-in-a-graph-i/solution.java) |
 | 3558 | [Number of Ways to Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i/problem.md) | `Tree`, `BFS`, `DFS`, `Math` | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.py) | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.java) |
+| 3568 | [Minimum Moves to Clean the Classroom](3568-minimum-moves-to-clean-the-classroom/problem.md) | `Array`, `BFS`, `Bit Manipulation`, `Matrix`, `Graph` | [✓](3568-minimum-moves-to-clean-the-classroom/solution.py) | [✓](3568-minimum-moves-to-clean-the-classroom/solution.java) |
 | 3612 | [Process String with Special Operations I](3612-process-string-with-special-operations-i/problem.md) | `String`, `Simulation`, `Stack` | [✓](3612-process-string-with-special-operations-i/solution.py) | [✓](3612-process-string-with-special-operations-i/solution.java) |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation/problem.md) | `Array`, `BFS`, `Number Theory`, `Hash Table` | [✓](3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.py) | [✓](3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.java) |
 | 3634 | [Minimum Removals to Balance Array](3634-minimum-removals-to-balance-array/problem.md) | `Array`, `Sorting`, `Two Pointers`, `Sliding Window` | [✓](3634-minimum-removals-to-balance-array/solution.py) | [✓](3634-minimum-removals-to-balance-array/solution.java) |
