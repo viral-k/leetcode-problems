@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 45 problems
+**Total:** 46 problems
 
 ## Problems
 
@@ -14,6 +14,7 @@
 | 030 | [Substring with Concatenation of All Words](030-substring-with-concatenation-of-all-words/problem.md) | `Hash Table`, `String`, `Sliding Window` | [✓](030-substring-with-concatenation-of-all-words/solution.py) | [✓](030-substring-with-concatenation-of-all-words/solution.java) |
 | 032 | [Longest Valid Parentheses](032-longest-valid-parentheses/problem.md) | `String`, `Dynamic Programming`, `Stack` | [✓](032-longest-valid-parentheses/solution.py) | [✓](032-longest-valid-parentheses/solution.java) |
 | 044 | [Wildcard Matching](044-wildcard-matching/problem.md) | `String`, `Dynamic Programming`, `Greedy`, `Recursion` | [✓](044-wildcard-matching/solution.py) | [✓](044-wildcard-matching/solution.java) |
+| 051 | [N-Queens](051-n-queens/problem.md) | `Array`, `Backtracking`, `Recursion` | [✓](051-n-queens/solution.py) | [✓](051-n-queens/solution.java) |
 | 154 | [Find Minimum in Rotated Sorted Array II](154-find-minimum-in-rotated-sorted-array-ii/problem.md) | `Array`, `Binary Search` | [✓](154-find-minimum-in-rotated-sorted-array-ii/solution.py) | [✓](154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | 887 | [Super Egg Drop](887-super-egg-drop/problem.md) | `Math`, `Dynamic Programming`, `Binary Search` | [✓](887-super-egg-drop/solution.py) | [✓](887-super-egg-drop/solution.java) |
 | 1301 | [Number of Paths with Max Score](1301-number-of-paths-with-max-score/problem.md) | `Array`, `Dynamic Programming`, `Matrix` | [✓](1301-number-of-paths-with-max-score/solution.py) | [✓](1301-number-of-paths-with-max-score/solution.java) |
