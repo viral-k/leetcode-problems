@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 45 problems
+**Total:** 46 problems
 
 ## Problems
 
@@ -53,3 +53,4 @@
 | 3783 | [Mirror Distance of an Integer](3783-mirror-distance-of-an-integer/problem.md) | `Math` | [✓](3783-mirror-distance-of-an-integer/solution.py) | [✓](3783-mirror-distance-of-an-integer/solution.java) |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping/problem.md) | `Array`, `String`, `Hash Table` | [✓](3838-weighted-word-mapping/solution.py) | [✓](3838-weighted-word-mapping/solution.java) |
 | 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i/problem.md) | `Array`, `Math`, `Counting`, `Greedy` | [✓](3875-construct-uniform-parity-array-i/solution.py) | [✓](3875-construct-uniform-parity-array-i/solution.java) |
+| 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/problem.md) | `Array`, `Prefix Sum`, `Prefix Maximum`, `Suffix Minimum` | [✓](3903-smallest-stable-index-i/solution.py) | [✓](3903-smallest-stable-index-i/solution.java) |
