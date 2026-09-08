@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 49 problems
+**Total:** 50 problems
 
 ## Problems
 
@@ -16,6 +16,7 @@
 | 044 | [Wildcard Matching](044-wildcard-matching/problem.md) | `String`, `Dynamic Programming`, `Greedy`, `Recursion` | [✓](044-wildcard-matching/solution.py) | [✓](044-wildcard-matching/solution.java) |
 | 051 | [N-Queens](051-n-queens/problem.md) | `Array`, `Backtracking`, `Recursion` | [✓](051-n-queens/solution.py) | [✓](051-n-queens/solution.java) |
 | 052 | [N-Queens II](052-n-queens-ii/problem.md) | `Backtracking`, `Bit Manipulation`, `Recursion` | [✓](052-n-queens-ii/solution.py) | [✓](052-n-queens-ii/solution.java) |
+| 065 | [Valid Number](065-valid-number/problem.md) | `String`, `Simulation` | [✓](065-valid-number/solution.py) | [✓](065-valid-number/solution.java) |
 | 115 | [Distinct Subsequences](115-distinct-subsequences/problem.md) | `String`, `Dynamic Programming` | [✓](115-distinct-subsequences/solution.py) | [✓](115-distinct-subsequences/solution.java) |
 | 154 | [Find Minimum in Rotated Sorted Array II](154-find-minimum-in-rotated-sorted-array-ii/problem.md) | `Array`, `Binary Search` | [✓](154-find-minimum-in-rotated-sorted-array-ii/solution.py) | [✓](154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | 887 | [Super Egg Drop](887-super-egg-drop/problem.md) | `Math`, `Dynamic Programming`, `Binary Search` | [✓](887-super-egg-drop/solution.py) | [✓](887-super-egg-drop/solution.java) |

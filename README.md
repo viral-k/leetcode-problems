@@ -8,10 +8,10 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 
 | Difficulty | Solved | Problems |
 |------------|--------|----------|
-| Easy       | 46      | [View](easy/README.md) |
+| Easy       | 47      | [View](easy/README.md) |
 | Medium     | 98      | [View](medium/README.md) |
-| Hard       | 49      | [View](hard/README.md) |
-| **Total**  | **193**  | |
+| Hard       | 50      | [View](hard/README.md) |
+| **Total**  | **195**  | |
 
 ## Topics Covered
 
@@ -91,4 +91,3 @@ Each problem folder contains:
 ```
 
 Tags are auto-parsed and displayed in the problem tables.
- 

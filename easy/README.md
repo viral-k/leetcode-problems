@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 46 problems
+**Total:** 47 problems
 
 ## Problems
 
@@ -52,5 +52,6 @@
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/problem.md) | `Math`, `String`, `Simulation` | [✓](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/solution.py) | [✓](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/solution.java) |
 | 3783 | [Mirror Distance of an Integer](3783-mirror-distance-of-an-integer/problem.md) | `Math` | [✓](3783-mirror-distance-of-an-integer/solution.py) | [✓](3783-mirror-distance-of-an-integer/solution.java) |
 | 3838 | [Weighted Word Mapping](3838-weighted-word-mapping/problem.md) | `Array`, `String`, `Hash Table` | [✓](3838-weighted-word-mapping/solution.py) | [✓](3838-weighted-word-mapping/solution.java) |
+| 3870 | [Count Commas in Range](3870-count-commas-in-range/problem.md) | `Math`, `Counting` | [✓](3870-count-commas-in-range/solution.py) | [✓](3870-count-commas-in-range/solution.java) |
 | 3875 | [Construct Uniform Parity Array I](3875-construct-uniform-parity-array-i/problem.md) | `Array`, `Math`, `Counting`, `Greedy` | [✓](3875-construct-uniform-parity-array-i/solution.py) | [✓](3875-construct-uniform-parity-array-i/solution.java) |
 | 3903 | [Smallest Stable Index I](3903-smallest-stable-index-i/problem.md) | `Array`, `Prefix Sum`, `Prefix Maximum`, `Suffix Minimum` | [✓](3903-smallest-stable-index-i/solution.py) | [✓](3903-smallest-stable-index-i/solution.java) |
