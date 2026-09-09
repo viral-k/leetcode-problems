@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 98 problems
+**Total:** 99 problems
 
 ## Problems
 
@@ -104,5 +104,6 @@
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/problem.md) | `Array`, `String`, `Prefix Sum`, `Math`, `Number Theory` | [✓](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/solution.py) | [✓](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/solution.java) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](3761-minimum-absolute-distance-between-mirror-pairs/problem.md) | `Array`, `Hash Table` | [✓](3761-minimum-absolute-distance-between-mirror-pairs/solution.py) | [✓](3761-minimum-absolute-distance-between-mirror-pairs/solution.java) |
 | 3867 | [Sum of GCD of Formed Pairs](3867-sum-of-gcd-of-formed-pairs/problem.md) | `Array`, `Math`, `Number Theory`, `Sorting`, `Two Pointers`, `Simulation` | [✓](3867-sum-of-gcd-of-formed-pairs/solution.py) | [✓](3867-sum-of-gcd-of-formed-pairs/solution.java) |
+| 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/problem.md) | `Math`, `Counting` | [✓](3871-count-commas-in-range-ii/solution.py) | [✓](3871-count-commas-in-range-ii/solution.java) |
 | 3876 | [Construct Uniform Parity Array II](3876-construct-uniform-parity-array-ii/problem.md) | `Array`, `Math`, `Counting`, `Greedy` | [✓](3876-construct-uniform-parity-array-ii/solution.py) | [✓](3876-construct-uniform-parity-array-ii/solution.java) |
 | 3904 | [Smallest Stable Index II](3904-smallest-stable-index-ii/problem.md) | `Array`, `Prefix Sum`, `Prefix Maximum`, `Suffix Minimum` | [✓](3904-smallest-stable-index-ii/solution.py) | [✓](3904-smallest-stable-index-ii/solution.java) |
