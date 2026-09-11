@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 47 problems
+**Total:** 48 problems
 
 ## Problems
 
@@ -42,6 +42,7 @@
 | 3300 | [Minimum Element After Replacement with Digit Sum](3300-minimum-element-after-replacement-with-digit-sum/problem.md) | `Array`, `Math` | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.py) | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.java) |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i/problem.md) | `Math`, `Enumeration`, `Simulation` | [✓](3345-smallest-divisible-digit-product-i/solution.py) | [✓](3345-smallest-divisible-digit-product-i/solution.java) |
 | 3471 | [Find the Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer/problem.md) | `Array`, `Hash Table`, `Enumeration`, `Counting` | [✓](3471-find-the-largest-almost-missing-integer/solution.py) | [✓](3471-find-the-largest-almost-missing-integer/solution.java) |
+| 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/problem.md) | `Array`, `Hash Table`, `Enumeration`, `Counting` | [✓](3483-unique-3-digit-even-numbers/solution.py) | [✓](3483-unique-3-digit-even-numbers/solution.java) |
 | 3507 | [Minimum Pair Removal to Sort Array I](3507-minimum-pair-removal-to-sort-array-i/problem.md) | `Array`, `Simulation`, `Greedy` | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.py) | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.java) |
 | 3536 | [Maximum Product of Two Digits](3536-maximum-product-of-two-digits/problem.md) | `Math`, `Greedy` | [✓](3536-maximum-product-of-two-digits/solution.py) | [✓](3536-maximum-product-of-two-digits/solution.java) |
 | 3622 | [Check Divisibility by Digit Sum and Product](3622-check-divisibility-by-digit-sum-and-product/problem.md) | `Math`, `Simulation` | [✓](3622-check-divisibility-by-digit-sum-and-product/solution.py) | [✓](3622-check-divisibility-by-digit-sum-and-product/solution.java) |
