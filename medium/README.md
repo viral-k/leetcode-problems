@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 100 problems
+**Total:** 101 problems
 
 ## Problems
 
@@ -20,6 +20,7 @@
 | 396 | [Rotate Function](396-rotate-function/problem.md) | `Array`, `Math`, `Dynamic Programming` | [✓](396-rotate-function/solution.py) | [✓](396-rotate-function/solution.java) |
 | 486 | [Predict the Winner](486-predict-the-winner/problem.md) | `Array`, `Dynamic Programming`, `Recursion`, `Game Theory`, `Interval DP` | [✓](486-predict-the-winner/solution.py) | [✓](486-predict-the-winner/solution.java) |
 | 788 | [Rotated Digits](788-rotated-digits/problem.md) | `Math`, `Dynamic Programming` | [✓](788-rotated-digits/solution.py) | [✓](788-rotated-digits/solution.java) |
+| 835 | [Image Overlap](835-image-overlap/problem.md) | `Array`, `Hash Table`, `Matrix` | [✓](835-image-overlap/solution.py) | [✓](835-image-overlap/solution.java) |
 | 874 | [Walking Robot Simulation](874-walking-robot-simulation/problem.md) | `Array`, `Hash Table`, `Simulation` | [✓](874-walking-robot-simulation/solution.py) | [✓](874-walking-robot-simulation/solution.java) |
 | 877 | [Stone Game](877-stone-game/problem.md) | `Array`, `Math`, `Dynamic Programming`, `Game Theory` | [✓](877-stone-game/solution.py) | [✓](877-stone-game/solution.java) |
 | 1081 | [Smallest Subsequence of Distinct Characters](1081-smallest-subsequence-of-distinct-characters/problem.md) | `String`, `Stack`, `Greedy`, `Monotonic Stack`, `Hash Table` | [✓](1081-smallest-subsequence-of-distinct-characters/solution.py) | [✓](1081-smallest-subsequence-of-distinct-characters/solution.java) |
