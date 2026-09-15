@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 53 problems
+**Total:** 54 problems
 
 ## Problems
 
@@ -35,6 +35,7 @@
 | 1872 | [Stone Game VIII](1872-stone-game-viii/problem.md) | `Array`, `Math`, `Dynamic Programming`, `Prefix Sum`, `Game Theory`, `Suffix Maximum` | [✓](1872-stone-game-viii/solution.py) | [✓](1872-stone-game-viii/solution.java) |
 | 2213 | [Longest Substring of One Repeating Character](2213-longest-substring-of-one-repeating-character/problem.md) | `String`, `Segment Tree`, `Divide and Conquer`, `Array` | [✓](2213-longest-substring-of-one-repeating-character/solution.py) | [✓](2213-longest-substring-of-one-repeating-character/solution.java) |
 | 2463 | [Minimum Total Distance Traveled](2463-minimum-total-distance-traveled/problem.md) | `Array`, `Dynamic Programming`, `Sorting` | [✓](2463-minimum-total-distance-traveled/solution.py) | [✓](2463-minimum-total-distance-traveled/solution.java) |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings/problem.md) | `String`, `Greedy`, `Dynamic Programming`, `Two Pointers` | [✓](2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.py) | [✓](2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | 2751 | [Robot Collisions](2751-robot-collisions/problem.md) | `Array`, `Stack`, `Sorting`, `Simulation` | [✓](2751-robot-collisions/solution.py) | [✓](2751-robot-collisions/solution.java) |
 | 2790 | [Maximum Number of Groups with Increasing Length](2790-maximum-number-of-groups-with-increasing-length/problem.md) | `Array`, `Greedy`, `Sorting`, `Binary Search` | [✓](2790-maximum-number-of-groups-with-increasing-length/solution.py) | [✓](2790-maximum-number-of-groups-with-increasing-length/solution.java) |
 | 3093 | [Longest Common Suffix Queries](3093-longest-common-suffix-queries/problem.md) | `Array`, `String`, `Trie` | [✓](3093-longest-common-suffix-queries/solution.py) | [✓](3093-longest-common-suffix-queries/solution.java) |
