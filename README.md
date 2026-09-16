@@ -9,9 +9,9 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 | Difficulty | Solved | Problems |
 |------------|--------|----------|
 | Easy       | 49      | [View](easy/README.md) |
-| Medium     | 101      | [View](medium/README.md) |
+| Medium     | 102      | [View](medium/README.md) |
 | Hard       | 54      | [View](hard/README.md) |
-| **Total**  | **204**  | |
+| **Total**  | **205**  | |
 
 ## Topics Covered
 
