@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 102 problems
+**Total:** 103 problems
 
 ## Problems
 
@@ -33,6 +33,7 @@
 | 1358 | [Number of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters/problem.md) | `Hash Table`, `String`, `Sliding Window` | [✓](1358-number-of-substrings-containing-all-three-characters/solution.py) | [✓](1358-number-of-substrings-containing-all-three-characters/solution.java) |
 | 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation/problem.md) | `Array`, `Hash Table`, `Greedy`, `Bit Manipulation`, `Counting` | [✓](1386-cinema-seat-allocation/solution.py) | [✓](1386-cinema-seat-allocation/solution.java) |
 | 1391 | [Check if There is a Valid Path in a Grid](1391-check-if-there-is-a-valid-path-in-a-grid/problem.md) | `Array`, `BFS`, `DFS`, `Matrix`, `Union Find` | [✓](1391-check-if-there-is-a-valid-path-in-a-grid/solution.py) | [✓](1391-check-if-there-is-a-valid-path-in-a-grid/solution.java) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each with Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/problem.md) | `Array`, `Hash Table`, `Binary Search`, `Dynamic Programming`, `Sliding Window` | [✓](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.py) | [✓](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) |
 | 1545 | [Find Kth Bit in Nth Binary String](1545-find-kth-bit-in-nth-binary-string/problem.md) | `String`, `Recursion`, `Bit Manipulation` | [✓](1545-find-kth-bit-in-nth-binary-string/solution.py) | [✓](1545-find-kth-bit-in-nth-binary-string/solution.java) |
 | 1559 | [Detect Cycles in 2D Grid](1559-detect-cycles-in-2d-grid/problem.md) | `Array`, `DFS`, `BFS`, `Union Find`, `Matrix` | [✓](1559-detect-cycles-in-2d-grid/solution.py) | [✓](1559-detect-cycles-in-2d-grid/solution.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/problem.md) | `Math`, `Dynamic Programming`, `Combinatorics`, `Number Theory` | [✓](1621-number-of-sets-of-k-non-overlapping-line-segments/solution.py) | [✓](1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
