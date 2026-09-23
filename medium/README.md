@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 105 problems
+**Total:** 106 problems
 
 ## Problems
 
@@ -38,6 +38,7 @@
 | 1545 | [Find Kth Bit in Nth Binary String](1545-find-kth-bit-in-nth-binary-string/problem.md) | `String`, `Recursion`, `Bit Manipulation` | [✓](1545-find-kth-bit-in-nth-binary-string/solution.py) | [✓](1545-find-kth-bit-in-nth-binary-string/solution.java) |
 | 1559 | [Detect Cycles in 2D Grid](1559-detect-cycles-in-2d-grid/problem.md) | `Array`, `DFS`, `BFS`, `Union Find`, `Matrix` | [✓](1559-detect-cycles-in-2d-grid/solution.py) | [✓](1559-detect-cycles-in-2d-grid/solution.java) |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](1621-number-of-sets-of-k-non-overlapping-line-segments/problem.md) | `Math`, `Dynamic Programming`, `Combinatorics`, `Number Theory` | [✓](1621-number-of-sets-of-k-non-overlapping-line-segments/solution.py) | [✓](1621-number-of-sets-of-k-non-overlapping-line-segments/solution.java) |
+| 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/problem.md) | `Array`, `Hash Table`, `Binary Search`, `Sliding Window`, `Prefix Sum` | [✓](1658-minimum-operations-to-reduce-x-to-zero/solution.py) | [✓](1658-minimum-operations-to-reduce-x-to-zero/solution.java) |
 | 1664 | [Ways to Make a Fair Array](1664-ways-to-make-a-fair-array/problem.md) | `Array`, `Prefix Sum` | [✓](1664-ways-to-make-a-fair-array/solution.py) | [✓](1664-ways-to-make-a-fair-array/solution.java) |
 | 1674 | [Minimum Moves to Make Array Complementary](1674-minimum-moves-to-make-array-complementary/problem.md) | `Array`, `Prefix Sum` | [✓](1674-minimum-moves-to-make-array-complementary/solution.py) | [✓](1674-minimum-moves-to-make-array-complementary/solution.java) |
 | 1686 | [Stone Game VI](1686-stone-game-vi/problem.md) | `Array`, `Math`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Game Theory` | [✓](1686-stone-game-vi/solution.py) | [✓](1686-stone-game-vi/solution.java) |
