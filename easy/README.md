@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 50 problems
+**Total:** 51 problems
 
 ## Problems
 
@@ -47,6 +47,7 @@
 | 3498 | [Reverse Degree of a String](3498-reverse-degree-of-a-string/problem.md) | `String`, `Simulation` | [✓](3498-reverse-degree-of-a-string/solution.py) | [✓](3498-reverse-degree-of-a-string/solution.java) |
 | 3507 | [Minimum Pair Removal to Sort Array I](3507-minimum-pair-removal-to-sort-array-i/problem.md) | `Array`, `Simulation`, `Greedy` | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.py) | [✓](3507-minimum-pair-removal-to-sort-array-i/solution.java) |
 | 3536 | [Maximum Product of Two Digits](3536-maximum-product-of-two-digits/problem.md) | `Math`, `Greedy` | [✓](3536-maximum-product-of-two-digits/solution.py) | [✓](3536-maximum-product-of-two-digits/solution.java) |
+| 3550 | [Smallest Index with Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/problem.md) | `Array`, `Math` | [✓](3550-smallest-index-with-digit-sum-equal-to-index/solution.py) | [✓](3550-smallest-index-with-digit-sum-equal-to-index/solution.java) |
 | 3622 | [Check Divisibility by Digit Sum and Product](3622-check-divisibility-by-digit-sum-and-product/problem.md) | `Math`, `Simulation` | [✓](3622-check-divisibility-by-digit-sum-and-product/solution.py) | [✓](3622-check-divisibility-by-digit-sum-and-product/solution.java) |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i/problem.md) | `Array`, `Brute Force`, `Simulation` | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.py) | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.java) |
 | 3718 | [Smallest Missing Multiple of K](3718-smallest-missing-multiple-of-k/problem.md) | `Array`, `Hash Table`, `Math`, `Simulation` | [✓](3718-smallest-missing-multiple-of-k/solution.py) | [✓](3718-smallest-missing-multiple-of-k/solution.java) |

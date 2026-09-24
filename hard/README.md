@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 57 problems
+**Total:** 58 problems
 
 ## Problems
 
@@ -21,6 +21,7 @@
 | 087 | [Scramble String](087-scramble-string/problem.md) | `String`, `Dynamic Programming`, `Recursion`, `Memoization` | [✓](087-scramble-string/solution.py) | [✓](087-scramble-string/solution.java) |
 | 115 | [Distinct Subsequences](115-distinct-subsequences/problem.md) | `String`, `Dynamic Programming` | [✓](115-distinct-subsequences/solution.py) | [✓](115-distinct-subsequences/solution.java) |
 | 123 | [Best Time to Buy and Sell Stock III](123-best-time-to-buy-and-sell-stock-iii/problem.md) | `Array`, `Dynamic Programming` | [✓](123-best-time-to-buy-and-sell-stock-iii/solution.py) | [✓](123-best-time-to-buy-and-sell-stock-iii/solution.java) |
+| 126 | [Word Ladder II](126-word-ladder-ii/problem.md) | `Hash Table`, `String`, `Backtracking`, `Breadth-First Search` | [✓](126-word-ladder-ii/solution.py) | [✓](126-word-ladder-ii/solution.java) |
 | 154 | [Find Minimum in Rotated Sorted Array II](154-find-minimum-in-rotated-sorted-array-ii/problem.md) | `Array`, `Binary Search` | [✓](154-find-minimum-in-rotated-sorted-array-ii/solution.py) | [✓](154-find-minimum-in-rotated-sorted-array-ii/solution.java) |
 | 887 | [Super Egg Drop](887-super-egg-drop/problem.md) | `Math`, `Dynamic Programming`, `Binary Search` | [✓](887-super-egg-drop/solution.py) | [✓](887-super-egg-drop/solution.java) |
 | 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/problem.md) | `String`, `Dynamic Programming`, `Counting` | [✓](940-distinct-subsequences-ii/solution.py) | [✓](940-distinct-subsequences-ii/solution.java) |

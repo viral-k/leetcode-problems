@@ -8,14 +8,14 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 
 | Difficulty | Solved | Problems |
 |------------|--------|----------|
-| Easy       | 50      | [View](easy/README.md) |
+| Easy       | 51      | [View](easy/README.md) |
 | Medium     | 106      | [View](medium/README.md) |
-| Hard       | 57      | [View](hard/README.md) |
-| **Total**  | **213**  | |
+| Hard       | 58      | [View](hard/README.md) |
+| **Total**  | **215**  | |
 
 ## Topics Covered
 
-`Array` `BFS` `Backtracking` `Binary Indexed Tree` `Binary Lifting` `Binary Search` `Binary Tree` `Bit Manipulation` `Brute Force` `Bucket Sort` `Combinatorics` `Counting` `Counting Sort` `DFS` `Depth-First Search` `Design` `Digit DP` `Divide and Conquer` `Dynamic Programming` `Enumeration` `Game Theory` `Geometry` `Graph` `Greedy` `Hash Set` `Hash Table` `Heap (Priority Queue)` `Interval DP` `Linked List` `Math` `Matrix` `Matrix Exponentiation` `Memoization` `Monotonic Stack` `Number Theory` `Prefix Maximum` `Prefix Minimum` `Prefix Sum` `Recursion` `Segment Tree` `Shell` `Shortest Path` `Simulation` `Sliding Window` `Sorting` `Sparse Table` `Sqrt Decomposition` `Stack` `String` `String Matching` `Suffix` `Suffix Maximum` `Suffix Minimum` `Suffix Sum` `Topological Sort` `Tree` `Trie` `Two Pointers` `Union Find`
+`Array` `BFS` `Backtracking` `Binary Indexed Tree` `Binary Lifting` `Binary Search` `Binary Tree` `Bit Manipulation` `Breadth-First Search` `Brute Force` `Bucket Sort` `Combinatorics` `Counting` `Counting Sort` `DFS` `Depth-First Search` `Design` `Digit DP` `Divide and Conquer` `Dynamic Programming` `Enumeration` `Game Theory` `Geometry` `Graph` `Greedy` `Hash Set` `Hash Table` `Heap (Priority Queue)` `Interval DP` `Linked List` `Math` `Matrix` `Matrix Exponentiation` `Memoization` `Monotonic Stack` `Number Theory` `Prefix Maximum` `Prefix Minimum` `Prefix Sum` `Recursion` `Segment Tree` `Shell` `Shortest Path` `Simulation` `Sliding Window` `Sorting` `Sparse Table` `Sqrt Decomposition` `Stack` `String` `String Matching` `Suffix` `Suffix Maximum` `Suffix Minimum` `Suffix Sum` `Topological Sort` `Tree` `Trie` `Two Pointers` `Union Find`
 
 ## Quick Start
 
