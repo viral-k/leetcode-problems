@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 106 problems
+**Total:** 108 problems
 
 ## Problems
 
@@ -25,6 +25,7 @@
 | 877 | [Stone Game](877-stone-game/problem.md) | `Array`, `Math`, `Dynamic Programming`, `Game Theory` | [✓](877-stone-game/solution.py) | [✓](877-stone-game/solution.java) |
 | 1081 | [Smallest Subsequence of Distinct Characters](1081-smallest-subsequence-of-distinct-characters/problem.md) | `String`, `Stack`, `Greedy`, `Monotonic Stack`, `Hash Table` | [✓](1081-smallest-subsequence-of-distinct-characters/solution.py) | [✓](1081-smallest-subsequence-of-distinct-characters/solution.java) |
 | 1140 | [Stone Game II](1140-stone-game-ii/problem.md) | `Array`, `Dynamic Programming`, `Prefix Sum`, `Game Theory`, `Memoization` | [✓](1140-stone-game-ii/solution.py) | [✓](1140-stone-game-ii/solution.java) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses/problem.md) | `String`, `Stack` | [✓](1190-reverse-substrings-between-each-pair-of-parentheses/solution.py) | [✓](1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](1288-remove-covered-intervals/solution.py) | [✓](1288-remove-covered-intervals/solution.java) |
 | 1291 | [Sequential Digits](1291-sequential-digits/problem.md) | `Enumeration`, `String`, `Math` | [✓](1291-sequential-digits/solution.py) | [✓](1291-sequential-digits/solution.java) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/problem.md) | `Array`, `Binary Search`, `Matrix`, `Prefix Sum` | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.py) | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.java) |
@@ -44,6 +45,7 @@
 | 1686 | [Stone Game VI](1686-stone-game-vi/problem.md) | `Array`, `Math`, `Greedy`, `Sorting`, `Heap (Priority Queue)`, `Game Theory` | [✓](1686-stone-game-vi/solution.py) | [✓](1686-stone-game-vi/solution.java) |
 | 1689 | [Partitioning Into Minimum Number of Deci-Binary Numbers](1689-partitioning-into-minimum-number-of-deci-binary-numbers/problem.md) | `String`, `Greedy` | [✓](1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.py) | [✓](1689-partitioning-into-minimum-number-of-deci-binary-numbers/solution.java) |
 | 1722 | [Minimize Hamming Distance After Swap Operations](1722-minimize-hamming-distance-after-swap-operations/problem.md) | `Array`, `Union Find`, `Hash Table` | [✓](1722-minimize-hamming-distance-after-swap-operations/solution.py) | [✓](1722-minimize-hamming-distance-after-swap-operations/solution.java) |
+| 1807 | [Evaluate the Bracket Pairs of a String](1807-evaluate-the-bracket-pairs-of-a-string/problem.md) | `Array`, `Hash Table`, `String` | [✓](1807-evaluate-the-bracket-pairs-of-a-string/solution.py) | [✓](1807-evaluate-the-bracket-pairs-of-a-string/solution.java) |
 | 1833 | [Maximum Ice Cream Bars](1833-maximum-ice-cream-bars/problem.md) | `Array`, `Greedy`, `Sorting`, `Counting Sort` | [✓](1833-maximum-ice-cream-bars/solution.py) | [✓](1833-maximum-ice-cream-bars/solution.java) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](1846-maximum-element-after-decreasing-and-rearranging/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](1846-maximum-element-after-decreasing-and-rearranging/solution.py) | [✓](1846-maximum-element-after-decreasing-and-rearranging/solution.java) |
 | 1855 | [Maximum Distance Between a Pair of Values](1855-maximum-distance-between-a-pair-of-values/problem.md) | `Array`, `Two Pointers`, `Binary Search` | [✓](1855-maximum-distance-between-a-pair-of-values/solution.py) | [✓](1855-maximum-distance-between-a-pair-of-values/solution.java) |
