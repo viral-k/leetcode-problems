@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 60 problems
+**Total:** 61 problems
 
 ## Problems
 
@@ -39,6 +39,7 @@
 | 1840 | [Maximum Building Height](1840-maximum-building-height/problem.md) | `Array`, `Math`, `Greedy` | [✓](1840-maximum-building-height/solution.py) | [✓](1840-maximum-building-height/solution.java) |
 | 1872 | [Stone Game VIII](1872-stone-game-viii/problem.md) | `Array`, `Math`, `Dynamic Programming`, `Prefix Sum`, `Game Theory`, `Suffix Maximum` | [✓](1872-stone-game-viii/solution.py) | [✓](1872-stone-game-viii/solution.java) |
 | 2213 | [Longest Substring of One Repeating Character](2213-longest-substring-of-one-repeating-character/problem.md) | `String`, `Segment Tree`, `Divide and Conquer`, `Array` | [✓](2213-longest-substring-of-one-repeating-character/solution.py) | [✓](2213-longest-substring-of-one-repeating-character/solution.java) |
+| 2267 | [Check if There Is a Valid Parentheses String Path](2267-check-if-there-is-a-valid-parentheses-string-path/problem.md) | `Array`, `Dynamic Programming`, `Matrix`, `Bit Manipulation` | [✓](2267-check-if-there-is-a-valid-parentheses-string-path/solution.py) | [✓](2267-check-if-there-is-a-valid-parentheses-string-path/solution.java) |
 | 2463 | [Minimum Total Distance Traveled](2463-minimum-total-distance-traveled/problem.md) | `Array`, `Dynamic Programming`, `Sorting` | [✓](2463-minimum-total-distance-traveled/solution.py) | [✓](2463-minimum-total-distance-traveled/solution.java) |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings/problem.md) | `String`, `Greedy`, `Dynamic Programming`, `Two Pointers` | [✓](2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.py) | [✓](2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | 2751 | [Robot Collisions](2751-robot-collisions/problem.md) | `Array`, `Stack`, `Sorting`, `Simulation` | [✓](2751-robot-collisions/solution.py) | [✓](2751-robot-collisions/solution.java) |
