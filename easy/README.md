@@ -2,12 +2,13 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 52 problems
+**Total:** 53 problems
 
 ## Problems
 
 | #   | Problem | Tags | Python | Java |
 |-----|---------|------|--------|------|
+| 020 | [Valid Parentheses](020-valid-parentheses/problem.md) | `String`, `Stack` | [✓](020-valid-parentheses/solution.py) | [✓](020-valid-parentheses/solution.java) |
 | 0628 | [Maximum Product of Three Numbers](0628-maximum-product-of-three-numbers/problem.md) | `Array`, `Math`, `Sorting` | [✓](0628-maximum-product-of-three-numbers/solution.py) | [✓](0628-maximum-product-of-three-numbers/solution.java) |
 | 657 | [Robot Return to Origin](657-robot-return-to-origin/problem.md) | `String`, `Simulation` | [✓](657-robot-return-to-origin/solution.py) | [✓](657-robot-return-to-origin/solution.java) |
 | 696 | [Count Binary Substrings](696-count-binary-substrings/problem.md) | `String`, `Two Pointers` | [✓](696-count-binary-substrings/solution.py) | [✓](696-count-binary-substrings/solution.java) |

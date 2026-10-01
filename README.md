@@ -8,10 +8,10 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 
 | Difficulty | Solved | Problems |
 |------------|--------|----------|
-| Easy       | 52      | [View](easy/README.md) |
+| Easy       | 53      | [View](easy/README.md) |
 | Medium     | 109      | [View](medium/README.md) |
-| Hard       | 61      | [View](hard/README.md) |
-| **Total**  | **222**  | |
+| Hard       | 62      | [View](hard/README.md) |
+| **Total**  | **224**  | |
 
 ## Topics Covered
 
