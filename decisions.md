@@ -31,3 +31,19 @@ information. This log is for repo-level choices; algorithm choices stay in
 - **Wait for LeetCode acceptance before committing.** Solutions occasionally
   fail hidden tests; committing only after acceptance keeps "fix" commits out
   of the history.
+
+## 2026-10-03 — Replaced an accepted solution (032) with a lower-space one
+
+Problem 32 was already solved and committed (`18aafe6`, Jun 21) using the
+stack-of-indices method: O(n) time, O(n) space. Swapped it for the two-pass
+counter method at O(n) time, O(1) space, on the user's instruction to use the
+optimal solution.
+
+Rewriting an already-accepted solution is normally not worth the churn, but the
+repo convention is to prefer the genuinely better complexity, and this is a
+strict improvement with no cost to readability. The old version was kept as one
+of the cross-check references during validation rather than discarded, which is
+how the new one was confirmed on all 524,287 strings up to length 18.
+
+Rule going forward: when a pasted problem already exists in the repo, say so and
+check the committed solution rather than overwriting it silently.

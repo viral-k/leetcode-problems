@@ -3,19 +3,33 @@ class Solution:
         """
         32. Longest Valid Parentheses
         Time: O(n)
-        Space: O(n)
+        Space: O(1)
         """
         best = 0
-        stack = [-1]  # sentinel boundary before any valid run
 
-        for i, ch in enumerate(s):
+        # left to right: a prefix with more ')' than '(' can never recover,
+        # so reset there; equality means the scanned stretch is balanced
+        open_count = close_count = 0
+        for ch in s:
             if ch == "(":
-                stack.append(i)
+                open_count += 1
             else:
-                stack.pop()
-                if not stack:
-                    stack.append(i)  # unmatched ')', new boundary
-                else:
-                    best = max(best, i - stack[-1])
+                close_count += 1
+            if open_count == close_count:
+                best = max(best, 2 * close_count)
+            elif close_count > open_count:
+                open_count = close_count = 0
+
+        # right to left catches runs with leftover unmatched '(' like "(()"
+        open_count = close_count = 0
+        for ch in reversed(s):
+            if ch == "(":
+                open_count += 1
+            else:
+                close_count += 1
+            if open_count == close_count:
+                best = max(best, 2 * open_count)
+            elif open_count > close_count:
+                open_count = close_count = 0
 
         return best
