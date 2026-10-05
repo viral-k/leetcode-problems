@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 111 problems
+**Total:** 112 problems
 
 ## Problems
 
@@ -23,6 +23,7 @@
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/problem.md) | `String`, `Dynamic Programming`, `Stack`, `Greedy` | [✓](678-valid-parenthesis-string/solution.py) | [✓](678-valid-parenthesis-string/solution.java) |
 | 788 | [Rotated Digits](788-rotated-digits/problem.md) | `Math`, `Dynamic Programming` | [✓](788-rotated-digits/solution.py) | [✓](788-rotated-digits/solution.java) |
 | 835 | [Image Overlap](835-image-overlap/problem.md) | `Array`, `Hash Table`, `Matrix` | [✓](835-image-overlap/solution.py) | [✓](835-image-overlap/solution.java) |
+| 856 | [Score of Parentheses](856-score-of-parentheses/problem.md) | `String`, `Stack` | [✓](856-score-of-parentheses/solution.py) | [✓](856-score-of-parentheses/solution.java) |
 | 874 | [Walking Robot Simulation](874-walking-robot-simulation/problem.md) | `Array`, `Hash Table`, `Simulation` | [✓](874-walking-robot-simulation/solution.py) | [✓](874-walking-robot-simulation/solution.java) |
 | 877 | [Stone Game](877-stone-game/problem.md) | `Array`, `Math`, `Dynamic Programming`, `Game Theory` | [✓](877-stone-game/solution.py) | [✓](877-stone-game/solution.java) |
 | 1081 | [Smallest Subsequence of Distinct Characters](1081-smallest-subsequence-of-distinct-characters/problem.md) | `String`, `Stack`, `Greedy`, `Monotonic Stack`, `Hash Table` | [✓](1081-smallest-subsequence-of-distinct-characters/solution.py) | [✓](1081-smallest-subsequence-of-distinct-characters/solution.java) |
