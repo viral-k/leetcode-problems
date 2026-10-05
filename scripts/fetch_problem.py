@@ -99,8 +99,12 @@ def inline(fragment: str) -> str:
     fragment = re.sub(r"<br\s*/?>", "\n", fragment)
     fragment = re.sub(r"<[^>]+>", "", fragment)
     fragment = html.unescape(fragment).replace("\xa0", " ")
-    # collapse runs of spaces but keep newlines
+    # LeetCode sprinkles zero-width characters through some statements
+    fragment = re.sub(r"[\u200b\u200e\u200f\u2060\ufeff]", "", fragment)
+    # collapse runs of spaces but keep newlines; <br /><br /> would
+    # otherwise leave a run of three
     fragment = re.sub(r"[ \t]+", " ", fragment)
+    fragment = re.sub(r"\n{3,}", "\n\n", fragment)
     return fragment.strip()
 
 
@@ -109,7 +113,9 @@ def pre_text(fragment: str) -> str:
     fragment = re.sub(r"<sup>(.*?)</sup>", r"^\1", fragment, flags=re.S)
     fragment = re.sub(r"<br\s*/?>", "\n", fragment)
     fragment = re.sub(r"<[^>]+>", "", fragment)
-    return html.unescape(fragment).strip("\n")
+    fragment = html.unescape(fragment).replace("\xa0", " ")
+    fragment = re.sub(r"[\u200b\u200e\u200f\u2060\ufeff]", "", fragment)
+    return fragment.strip("\n")
 
 
 def split_blocks(content: str):
@@ -122,23 +128,33 @@ def split_blocks(content: str):
     pattern = re.compile(
         r"<(p|ul|ol|pre|blockquote)\b[^>]*>(.*?)</\1>", re.S | re.I
     )
+    def meaningful(fragment: str) -> bool:
+        # an <img>-only gap carries content even though it has no text
+        if re.search(r"<img\b", fragment, re.I):
+            return True
+        return bool(re.sub(r"<[^>]+>|&nbsp;|\s", "", fragment))
+
     cursor = 0
     for match in pattern.finditer(content):
         gap = content[cursor:match.start()]
-        if re.sub(r"<[^>]+>|&nbsp;|\s", "", gap):
+        if meaningful(gap):
             yield "p", gap
         tag = match.group(1).lower()
-        yield ("ul" if tag in ("ul", "ol") else tag), match.group(2)
+        yield ("ul" if tag == "blockquote" else tag), match.group(2)
         cursor = match.end()
 
     tail = content[cursor:]
-    if re.sub(r"<[^>]+>|&nbsp;|\s", "", tail):
+    if meaningful(tail):
         yield "p", tail
 
 
-def bullets(inner_html: str) -> list[str]:
-    items = re.findall(r"<li\b[^>]*>(.*?)</li>", inner_html, re.S | re.I)
-    return [text for text in (inline(item) for item in items) if text]
+def list_items(inner_html: str, ordered: bool) -> list[str]:
+    """Rendered list items, numbered for <ol> and bulleted for <ul>."""
+    raw = re.findall(r"<li\b[^>]*>(.*?)</li>", inner_html, re.S | re.I)
+    texts = [text for text in (inline(item) for item in raw) if text]
+    if ordered:
+        return [f"{i}. {text}" for i, text in enumerate(texts, start=1)]
+    return [f"- {text}" for text in texts]
 
 
 def build_problem_md(question: dict) -> tuple[str, list[str]]:
@@ -149,7 +165,9 @@ def build_problem_md(question: dict) -> tuple[str, list[str]]:
     warnings = []
 
     description: list[str] = []
-    examples: list[list[str]] = []   # each entry is a list of lines
+    # each example: {"images": [markdown], "lines": [text]} so that an
+    # illustration renders above the fenced block instead of inside it
+    examples: list[dict] = []
     constraints: list[str] = []
     follow_ups: list[str] = []
 
@@ -161,24 +179,24 @@ def build_problem_md(question: dict) -> tuple[str, list[str]]:
             if not block:
                 continue
             if section == "example" and examples:
-                examples[-1].append(block)
+                examples[-1]["lines"].append(block)
             else:
                 # a <pre> before any "Example N:" heading still belongs
                 # with the examples
-                examples.append([block])
+                examples.append({"images": [], "lines": [block]})
                 section = "example"
             continue
 
-        if kind == "ul":
-            items = bullets(inner)
+        if kind in ("ul", "ol"):
+            items = list_items(inner, ordered=(kind == "ol"))
             if not items:
                 continue
             # a list is one block: its items must stay on consecutive lines
-            block = "\n".join(f"- {item}" for item in items)
+            block = "\n".join(items)
             if section == "constraints":
-                constraints.extend(f"- {item}" for item in items)
+                constraints.extend(items)
             elif section == "example" and examples:
-                examples[-1].append(block)
+                examples[-1]["lines"].append(block)
             else:
                 description.append(block)
             continue
@@ -188,7 +206,7 @@ def build_problem_md(question: dict) -> tuple[str, list[str]]:
             continue
 
         if re.fullmatch(r"Example\s*\d*\s*:?", text, re.I):
-            examples.append([])
+            examples.append({"images": [], "lines": []})
             section = "example"
             continue
         if re.fullmatch(r"Constraints\s*:?", text, re.I):
@@ -199,10 +217,18 @@ def build_problem_md(question: dict) -> tuple[str, list[str]]:
             section = "followup"
             continue
 
+        images = re.findall(r"!\[image\]\([^)]+\)", text)
+        if images and section == "example" and examples:
+            examples[-1]["images"].extend(images)
+            remainder = re.sub(r"!\[image\]\([^)]+\)", "", text).strip()
+            if remainder:
+                examples[-1]["lines"].append(remainder)
+            continue
+
         if section == "description":
             description.append(text)
         elif section == "example" and examples:
-            examples[-1].append(text)
+            examples[-1]["lines"].append(text)
         elif section == "constraints":
             constraints.append(f"- {text}")
         else:
@@ -229,18 +255,23 @@ def build_problem_md(question: dict) -> tuple[str, list[str]]:
     parts.append("\n\n".join(description) if description else "<!-- see LeetCode -->")
     parts.append("")
 
-    if follow_ups:
-        parts.extend(["\n\n".join(follow_ups), ""])
-
     parts.extend(["## Examples", ""])
-    for index, lines in enumerate(examples, start=1):
-        parts.extend([f"### Example {index}", "```"])
-        parts.append("\n".join(lines))
+    for index, example in enumerate(examples, start=1):
+        parts.append(f"### Example {index}")
+        for image in example["images"]:
+            parts.extend(["", image])
+        parts.append("```")
+        parts.append("\n".join(example["lines"]))
         parts.extend(["```", ""])
 
     parts.extend(["## Constraints", ""])
     parts.extend(constraints if constraints else ["- "])
     parts.append("")
+
+    for note in follow_ups:
+        # match the hand-written style: bold the label, keep it after constraints
+        note = re.sub(r"^(Follow[- ]?up\s*:)", r"**\1**", note, flags=re.I)
+        parts.extend([note, ""])
 
     return "\n".join(parts), warnings
 
@@ -290,14 +321,28 @@ def build_solution_py(question: dict, number: str) -> tuple[str, list[str]]:
 def build_solution_java(question: dict, number: str) -> tuple[str, list[str]]:
     code = snippet(question, "Java")
     warnings = []
-    javadoc = f"/**\n * {number}. {question['title']}\n * Time: O()\n * Space: O()\n */\n"
+    javadoc = f"/**\n * {number}. {question['title']}\n * Time: O()\n * Space: O()\n */"
 
     if not code:
         warnings.append("no Java stub from LeetCode; write the signature by hand")
-        return javadoc + "class Solution {\n    \n}\n", warnings
+        return javadoc + "\nclass Solution {\n    \n}\n", warnings
 
-    # LeetCode indents stub bodies with 8 spaces and an empty line
-    return javadoc + code + "\n", warnings
+    # the javadoc goes directly above `class Solution`, below any
+    # "Definition for ..." block LeetCode put in the stub
+    lines = code.split("\n")
+    class_index = next(
+        (i for i, line in enumerate(lines) if line.startswith("class ")
+         or line.startswith("public class ")),
+        None,
+    )
+    if class_index is None:
+        warnings.append("could not locate the class in the Java stub")
+        return javadoc + "\n" + code + "\n", warnings
+
+    before = lines[:class_index]
+    if before and before[-1].strip():
+        before.append("")  # blank line after a definition block
+    return "\n".join(before + [javadoc] + lines[class_index:]) + "\n", warnings
 
 
 # --- tags -------------------------------------------------------------------
@@ -355,6 +400,25 @@ def build_approach_md(question: dict) -> tuple[str, list[str]]:
     )
 
 
+def has_own_work(path: Path, generated: str) -> bool:
+    """True when the file on disk has been filled in, rather than being the
+    skeleton this script writes (or a close variant of it)."""
+    try:
+        current = path.read_text()
+    except OSError:
+        return False
+    if not current.strip() or current.strip() == generated.strip():
+        return False
+
+    # markers that only survive in an untouched skeleton
+    untouched = {
+        "approach.md": "<!-- What's the first thought",
+        "solution.py": "Time: O()",
+        "solution.java": "Time: O()",
+    }.get(path.name)
+    return untouched is None or untouched not in current
+
+
 # --- main -------------------------------------------------------------------
 
 def main() -> None:
@@ -387,37 +451,59 @@ def main() -> None:
         )
 
     number_raw = int(question["questionFrontendId"])
-    number = str(number_raw).zfill(3) if number_raw < 1000 else str(number_raw)
+    # folders pad below 1000 so they sort; docstrings use the plain number
+    folder_number = str(number_raw).zfill(3) if number_raw < 1000 else str(number_raw)
+    display_number = str(number_raw)
     difficulty_dir = DIFFICULTY_DIRS[question["difficulty"]]
-    folder = REPO_ROOT / difficulty_dir / f"{number}-{question['titleSlug']}"
+    folder = REPO_ROOT / difficulty_dir / f"{folder_number}-{question['titleSlug']}"
 
-    if folder.exists() and not args.force:
+    folder_existed = folder.exists()
+    if folder_existed and not args.force:
         sys.exit(f"Error: {folder.relative_to(REPO_ROOT)} already exists "
-                 "(pass --force to overwrite)")
+                 "(pass --force to refresh problem.md)")
 
     problem_md, warnings = build_problem_md(question)
     approach_md, approach_warnings = build_approach_md(question)
-    solution_py, py_warnings = build_solution_py(question, number)
-    solution_java, java_warnings = build_solution_java(question, number)
+    solution_py, py_warnings = build_solution_py(question, display_number)
+    solution_java, java_warnings = build_solution_java(question, display_number)
     warnings += approach_warnings + py_warnings + java_warnings
 
     folder.mkdir(parents=True, exist_ok=True)
-    (folder / "problem.md").write_text(problem_md)
-    (folder / "approach.md").write_text(approach_md)
-    (folder / "solution.py").write_text(solution_py)
-    (folder / "solution.java").write_text(solution_java)
+    existed = folder_existed
 
-    print(f"Created: {folder.relative_to(REPO_ROOT)}")
-    print(f"  {number}. {question['title']} ({question['difficulty']})")
-    for name in ("problem.md", "approach.md", "solution.py", "solution.java"):
+    written, kept = [], []
+    for name, text in (
+        ("problem.md", problem_md),
+        ("approach.md", approach_md),
+        ("solution.py", solution_py),
+        ("solution.java", solution_java),
+    ):
+        path = folder / name
+        # problem.md is generated wholesale, so refreshing it is safe. The
+        # other three may hold real work; never overwrite that, even with
+        # --force, which is meant for re-pulling a statement.
+        if name != "problem.md" and path.exists() and has_own_work(path, text):
+            kept.append(name)
+            continue
+        path.write_text(text)
+        written.append(name)
+
+    print(f"{'Updated' if existed else 'Created'}: {folder.relative_to(REPO_ROOT)}")
+    print(f"  {display_number}. {question['title']} ({question['difficulty']})")
+    for name in written:
         print(f"  - {name}")
+    for name in kept:
+        print(f"  - {name} (kept, already written)")
 
     if warnings:
         print("\nCheck these:")
         for warning in warnings:
             print(f"  ! {warning}")
 
-    print("\nStill to write: approach.md body, and both solutions.")
+    todo = [name for name in ("approach.md", "solution.py", "solution.java")
+            if name in written]
+    if todo:
+        print(f"\nStill to write: {', '.join(todo)}.")
 
 
 if __name__ == "__main__":

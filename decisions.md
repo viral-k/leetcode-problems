@@ -47,3 +47,30 @@ how the new one was confirmed on all 524,287 strings up to length 18.
 
 Rule going forward: when a pasted problem already exists in the repo, say so and
 check the committed solution rather than overwriting it silently.
+
+## 2026-10-04 — Added scripts/fetch_problem.py (scaffold from a LeetCode link)
+
+Problems were being added by pasting the statement text by hand. Added a script
+that takes a URL or slug and pulls everything from LeetCode's public GraphQL
+endpoint (`leetcode.com/graphql`, no auth for non-premium problems).
+
+Chose GraphQL over scraping the HTML page because the page is JS-rendered, so
+an HTTP fetch of it returns no description. The endpoint also returns the
+official number, difficulty and the per-language method stubs, which removes
+two recurring sources of error: guessing the folder number, and guessing the
+method name on problems where the signature is not in the pasted text.
+
+Written with only the standard library (`urllib`, `html`, `re`) so there is
+nothing to install. HTML-to-markdown uses regex rather than a parser; the
+input is machine-generated and consistent, and the conversion was checked
+against 43 existing hand-written `problem.md` files.
+
+Tradeoffs accepted: regex conversion will need a tweak if LeetCode changes its
+markup; premium problems still have to be pasted by hand; and tables need
+reformatting (the script warns in both cases). It deliberately does not touch
+git or the READMEs, matching the existing split where only `push.py` does that.
+
+Also noted, not fixed: `medium/0192-word-frequency` and
+`easy/0628-maximum-product-of-three-numbers` use 4-digit padding, while
+`CLAUDE.md` specifies 3. The script follows the documented convention, so it
+would generate `192-` and `628-` for those two.
