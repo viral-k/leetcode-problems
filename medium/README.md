@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 112 problems
+**Total:** 113 problems
 
 ## Problems
 
@@ -26,6 +26,7 @@
 | 856 | [Score of Parentheses](856-score-of-parentheses/problem.md) | `String`, `Stack` | [✓](856-score-of-parentheses/solution.py) | [✓](856-score-of-parentheses/solution.java) |
 | 874 | [Walking Robot Simulation](874-walking-robot-simulation/problem.md) | `Array`, `Hash Table`, `Simulation` | [✓](874-walking-robot-simulation/solution.py) | [✓](874-walking-robot-simulation/solution.java) |
 | 877 | [Stone Game](877-stone-game/problem.md) | `Array`, `Math`, `Dynamic Programming`, `Game Theory` | [✓](877-stone-game/solution.py) | [✓](877-stone-game/solution.java) |
+| 921 | [Minimum Add to Make Parentheses Valid](921-minimum-add-to-make-parentheses-valid/problem.md) | `String`, `Stack`, `Greedy` | [✓](921-minimum-add-to-make-parentheses-valid/solution.py) | [✓](921-minimum-add-to-make-parentheses-valid/solution.java) |
 | 1081 | [Smallest Subsequence of Distinct Characters](1081-smallest-subsequence-of-distinct-characters/problem.md) | `String`, `Stack`, `Greedy`, `Monotonic Stack`, `Hash Table` | [✓](1081-smallest-subsequence-of-distinct-characters/solution.py) | [✓](1081-smallest-subsequence-of-distinct-characters/solution.java) |
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/problem.md) | `String`, `Stack`, `Greedy` | [✓](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.py) | [✓](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.java) |
 | 1140 | [Stone Game II](1140-stone-game-ii/problem.md) | `Array`, `Dynamic Programming`, `Prefix Sum`, `Game Theory`, `Memoization` | [✓](1140-stone-game-ii/solution.py) | [✓](1140-stone-game-ii/solution.java) |
