@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 53 problems
+**Total:** 54 problems
 
 ## Problems
 
@@ -15,6 +15,7 @@
 | 796 | [Rotate String](796-rotate-string/problem.md) | `String`, `String Matching` | [✓](796-rotate-string/solution.py) | [✓](796-rotate-string/solution.java) |
 | 836 | [Rectangle Overlap](836-rectangle-overlap/problem.md) | `Math`, `Geometry` | [✓](836-rectangle-overlap/solution.py) | [✓](836-rectangle-overlap/solution.java) |
 | 1009 | [Complement of Base 10 Integer](1009-complement-of-base-10-integer/problem.md) | `Bit Manipulation` | [✓](1009-complement-of-base-10-integer/solution.py) | [✓](1009-complement-of-base-10-integer/solution.java) |
+| 1021 | [Remove Outermost Parentheses](1021-remove-outermost-parentheses/problem.md) | `String`, `Stack` | [✓](1021-remove-outermost-parentheses/solution.py) | [✓](1021-remove-outermost-parentheses/solution.java) |
 | 1189 | [Maximum Number of Balloons](1189-maximum-number-of-balloons/problem.md) | `Hash Table`, `String`, `Counting` | [✓](1189-maximum-number-of-balloons/solution.py) | [✓](1189-maximum-number-of-balloons/solution.java) |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid/problem.md) | `Array`, `Matrix`, `Simulation` | [✓](1260-shift-2d-grid/solution.py) | [✓](1260-shift-2d-grid/solution.java) |
 | 1331 | [Rank Transform of an Array](1331-rank-transform-of-an-array/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](1331-rank-transform-of-an-array/solution.py) | [✓](1331-rank-transform-of-an-array/solution.java) |
