@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 114 problems
+**Total:** 115 problems
 
 ## Problems
 
@@ -71,6 +71,7 @@
 | 2196 | [Create Binary Tree from Descriptions](2196-create-binary-tree-from-descriptions/problem.md) | `Array`, `Hash Table`, `Tree`, `Binary Tree` | [✓](2196-create-binary-tree-from-descriptions/solution.py) | [✓](2196-create-binary-tree-from-descriptions/solution.java) |
 | 2265 | [Count Nodes Equal to Average of Subtree](2265-count-nodes-equal-to-average-of-subtree/problem.md) | `Tree`, `DFS`, `Binary Tree`, `Recursion` | [✓](2265-count-nodes-equal-to-average-of-subtree/solution.py) | [✓](2265-count-nodes-equal-to-average-of-subtree/solution.java) |
 | 2266 | [Count Number of Texts](2266-count-number-of-texts/problem.md) | `Hash Table`, `Math`, `String`, `Dynamic Programming` | [✓](2266-count-number-of-texts/solution.py) | [✓](2266-count-number-of-texts/solution.java) |
+| 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/problem.md) | `Array`, `Math`, `Binary Search`, `Sorting`, `Heap (Priority Queue)`, `Greedy`, `Counting` | [✓](2333-minimum-sum-of-squared-difference/solution.py) | [✓](2333-minimum-sum-of-squared-difference/solution.java) |
 | 2452 | [Words Within Two Edits of Dictionary](2452-words-within-two-edits-of-dictionary/problem.md) | `Array`, `String` | [✓](2452-words-within-two-edits-of-dictionary/solution.py) | [✓](2452-words-within-two-edits-of-dictionary/solution.java) |
 | 2492 | [Minimum Score of a Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities/problem.md) | `BFS`, `DFS`, `Union Find`, `Graph` | [✓](2492-minimum-score-of-a-path-between-two-cities/solution.py) | [✓](2492-minimum-score-of-a-path-between-two-cities/solution.java) |
 | 2615 | [Sum of Distances](2615-sum-of-distances/problem.md) | `Array`, `Hash Table`, `Prefix Sum` | [✓](2615-sum-of-distances/solution.py) | [✓](2615-sum-of-distances/solution.java) |
