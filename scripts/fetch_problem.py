@@ -172,6 +172,10 @@ def build_problem_md(question: dict) -> tuple[str, list[str]]:
     follow_ups: list[str] = []
 
     section = "description"
+    has_example_heading = bool(
+        re.search(r">\s*Example\s*\d*\s*:?\s*<", question["content"], re.I)
+        or re.search(r"Example\s*\d+\s*:", question["content"], re.I)
+    )
 
     for kind, inner in split_blocks(question["content"]):
         if kind == "pre":
@@ -180,9 +184,18 @@ def build_problem_md(question: dict) -> tuple[str, list[str]]:
                 continue
             if section == "example" and examples:
                 examples[-1]["lines"].append(block)
+            elif section == "description" and has_example_heading:
+                # database problems put their schema tables in <pre> blocks
+                # ahead of the examples; those are description, not examples
+                description.append("```\n" + block + "\n```")
+            elif section == "constraints":
+                constraints.append("")
+                constraints.append("```")
+                constraints.append(block)
+                constraints.append("```")
             else:
-                # a <pre> before any "Example N:" heading still belongs
-                # with the examples
+                # no "Example N:" heading anywhere, so a bare <pre> is the
+                # example itself
                 examples.append({"images": [], "lines": [block]})
                 section = "example"
             continue
@@ -444,6 +457,9 @@ def main() -> None:
     question = graphql(QUESTION_QUERY, {"titleSlug": slug})["question"]
     if not question:
         sys.exit(f"Error: no problem found for slug '{slug}'")
+    # some titles carry stray whitespace (e.g. 2778 ends with a space), which
+    # would otherwise leak into the heading, the link text and both docstrings
+    question["title"] = re.sub(r"\s+", " ", question["title"]).strip()
     if question["isPaidOnly"]:
         sys.exit(
             f"Error: '{question['title']}' is premium-locked, so the description "

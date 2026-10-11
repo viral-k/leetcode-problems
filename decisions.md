@@ -74,3 +74,22 @@ Also noted, not fixed: `medium/0192-word-frequency` and
 `easy/0628-maximum-product-of-three-numbers` use 4-digit padding, while
 `CLAUDE.md` specifies 3. The script follows the documented convention, so it
 would generate `192-` and `628-` for those two.
+
+## 2026-10-11 — SQL problems get solution.sql only, and a `Database` tag
+
+Problem 185 is a database problem, so there is no Python or Java solution to
+write. Followed the existing precedent from `medium/0192-word-frequency`, which
+is a shell problem and carries only `solution.sh`: the folder holds
+`problem.md`, `approach.md` and `solution.sql`, and `update_readme.py` renders
+the solution columns as `-` without complaint.
+
+Tagged it `Database`, which LeetCode uses and this repo had not used before.
+Introducing it mirrors how `Shell` entered the vocabulary. `fetch_problem.py`
+filters LeetCode tags against tags already present in the repo, so it dropped
+`Database` and warned; the tag is added by hand here and future database
+problems will keep it automatically.
+
+Validated the query by running it in sqlite3 against a Python reference rather
+than reasoning about it: 7000 randomized cases, plus a check that swapping
+`DENSE_RANK` for `RANK` or `ROW_NUMBER` actually breaks the given example. It
+does, which is the point of the problem.

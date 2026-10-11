@@ -5,6 +5,21 @@ all executable logic lives in `scripts/`.
 
 ## Recent AI Changes
 
+**2026-10-11**
+
+- `scripts/fetch_problem.py`: titles are now whitespace-normalised. LeetCode
+  serves 2778's title with a trailing space, which leaked into the heading,
+  the link text and both docstrings.
+- `scripts/fetch_problem.py`: a `<pre>` block seen before any "Example N:"
+  heading now goes into the Description when the statement has example
+  headings later. Database problems (185) put their schema tables there, and
+  the old fallback swept them into Example 1, leaving the description empty.
+  A statement with no example heading at all still treats a bare `<pre>` as
+  the example.
+- Added `hard/185-department-top-three-salaries/` with `solution.sql` and no
+  Python/Java, following the `medium/0192-word-frequency` precedent for
+  non-Python problems. First use of the `Database` tag.
+
 **2026-10-04**
 
 - Added `scripts/fetch_problem.py`. Scaffolds a problem folder from a LeetCode
