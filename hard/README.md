@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 66 problems
+**Total:** 67 problems
 
 ## Problems
 
@@ -49,6 +49,7 @@
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](2472-maximum-number-of-non-overlapping-palindrome-substrings/problem.md) | `String`, `Greedy`, `Dynamic Programming`, `Two Pointers` | [✓](2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.py) | [✓](2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | 2751 | [Robot Collisions](2751-robot-collisions/problem.md) | `Array`, `Stack`, `Sorting`, `Simulation` | [✓](2751-robot-collisions/solution.py) | [✓](2751-robot-collisions/solution.java) |
 | 2790 | [Maximum Number of Groups with Increasing Length](2790-maximum-number-of-groups-with-increasing-length/problem.md) | `Array`, `Greedy`, `Sorting`, `Binary Search` | [✓](2790-maximum-number-of-groups-with-increasing-length/solution.py) | [✓](2790-maximum-number-of-groups-with-increasing-length/solution.java) |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares/problem.md) | `Array`, `Hash Table`, `Greedy`, `Bit Manipulation` | [✓](2897-apply-operations-on-array-to-maximize-sum-of-squares/solution.py) | [✓](2897-apply-operations-on-array-to-maximize-sum-of-squares/solution.java) |
 | 3093 | [Longest Common Suffix Queries](3093-longest-common-suffix-queries/problem.md) | `Array`, `String`, `Trie` | [✓](3093-longest-common-suffix-queries/solution.py) | [✓](3093-longest-common-suffix-queries/solution.java) |
 | 3116 | [Kth Smallest Amount with Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination/problem.md) | `Array`, `Binary Search`, `Bit Manipulation`, `Math`, `Number Theory`, `Combinatorics` | [✓](3116-kth-smallest-amount-with-single-denomination-combination/solution.py) | [✓](3116-kth-smallest-amount-with-single-denomination-combination/solution.java) |
 | 3161 | [Block Placement Queries](3161-block-placement-queries/problem.md) | `Array`, `Binary Indexed Tree`, `Segment Tree` | [✓](3161-block-placement-queries/solution.py) | [✓](3161-block-placement-queries/solution.java) |
