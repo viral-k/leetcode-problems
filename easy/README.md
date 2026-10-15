@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 55 problems
+**Total:** 56 problems
 
 ## Problems
 
@@ -39,6 +39,7 @@
 | 2778 | [Sum of Squares of Special Elements](2778-sum-of-squares-of-special-elements/problem.md) | `Array`, `Math`, `Enumeration` | [✓](2778-sum-of-squares-of-special-elements/solution.py) | [✓](2778-sum-of-squares-of-special-elements/solution.java) |
 | 2784 | [Check if Array is Good](2784-check-if-array-is-good/problem.md) | `Array`, `Hash Table`, `Counting` | [✓](2784-check-if-array-is-good/solution.py) | [✓](2784-check-if-array-is-good/solution.java) |
 | 2833 | [Furthest Point from Origin](2833-furthest-point-from-origin/problem.md) | `String`, `Greedy` | [✓](2833-furthest-point-from-origin/solution.py) | [✓](2833-furthest-point-from-origin/solution.java) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](2913-subarrays-distinct-element-sum-of-squares-i/problem.md) | `Array`, `Hash Table` | [✓](2913-subarrays-distinct-element-sum-of-squares-i/solution.py) | [✓](2913-subarrays-distinct-element-sum-of-squares-i/solution.java) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/problem.md) | `Array`, `Hash Table`, `Simulation` | [✓](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/solution.py) | [✓](2996-smallest-missing-integer-greater-than-sequential-prefix-sum/solution.java) |
 | 3014 | [Minimum Number of Pushes to Type Word I](3014-minimum-number-of-pushes-to-type-word-i/problem.md) | `Math`, `Greedy` | [✓](3014-minimum-number-of-pushes-to-type-word-i/solution.py) | [✓](3014-minimum-number-of-pushes-to-type-word-i/solution.java) |
 | 3069 | [Distribute Elements Into Two Arrays I](3069-distribute-elements-into-two-arrays-i/problem.md) | `Array`, `Simulation` | [✓](3069-distribute-elements-into-two-arrays-i/solution.py) | [✓](3069-distribute-elements-into-two-arrays-i/solution.java) |
