@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 117 problems
+**Total:** 118 problems
 
 ## Problems
 
@@ -100,6 +100,7 @@
 | 3517 | [Smallest Palindromic Rearrangement I](3517-smallest-palindromic-rearrangement-i/problem.md) | `String`, `Greedy`, `Counting`, `Sorting` | [✓](3517-smallest-palindromic-rearrangement-i/solution.py) | [✓](3517-smallest-palindromic-rearrangement-i/solution.java) |
 | 3524 | [Find X Value of Array I](3524-find-x-value-of-array-i/problem.md) | `Array`, `Math`, `Dynamic Programming` | [✓](3524-find-x-value-of-array-i/solution.py) | [✓](3524-find-x-value-of-array-i/solution.java) |
 | 3532 | [Path Existence Queries in a Graph I](3532-path-existence-queries-in-a-graph-i/problem.md) | `Array`, `Union Find`, `Prefix Sum` | [✓](3532-path-existence-queries-in-a-graph-i/solution.py) | [✓](3532-path-existence-queries-in-a-graph-i/solution.java) |
+| 3551 | [Minimum Swaps to Sort by Digit Sum](3551-minimum-swaps-to-sort-by-digit-sum/problem.md) | `Array`, `Hash Table`, `Sorting` | [✓](3551-minimum-swaps-to-sort-by-digit-sum/solution.py) | [✓](3551-minimum-swaps-to-sort-by-digit-sum/solution.java) |
 | 3558 | [Number of Ways to Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i/problem.md) | `Tree`, `BFS`, `DFS`, `Math` | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.py) | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](3568-minimum-moves-to-clean-the-classroom/problem.md) | `Array`, `BFS`, `Bit Manipulation`, `Matrix`, `Graph` | [✓](3568-minimum-moves-to-clean-the-classroom/solution.py) | [✓](3568-minimum-moves-to-clean-the-classroom/solution.java) |
 | 3612 | [Process String with Special Operations I](3612-process-string-with-special-operations-i/problem.md) | `String`, `Simulation`, `Stack` | [✓](3612-process-string-with-special-operations-i/solution.py) | [✓](3612-process-string-with-special-operations-i/solution.java) |
