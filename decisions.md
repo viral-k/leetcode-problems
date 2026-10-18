@@ -93,3 +93,23 @@ Validated the query by running it in sqlite3 against a Python reference rather
 than reasoning about it: 7000 randomized cases, plus a check that swapping
 `DENSE_RANK` for `RANK` or `ROW_NUMBER` actually breaks the given example. It
 does, which is the point of the problem.
+
+## 2026-10-18 — 1569 built the BST as a treap instead of recursive partitioning
+
+The usual solution for 1569 recurses on the array, partitioning by the root at
+each step: O(n^2) worst case (a sorted input is a chain), and in Python it
+recurses n deep, which at the n = 1000 limit sits on the default recursion
+limit and would need `setrecursionlimit` to be safe.
+
+Used instead the fact that inserting a permutation into a BST produces exactly
+the treap on (value, insertion index). That builds in O(n) with the right-spine
+stack sweep over values 1..n, and subtree sizes come from a top-down interval
+sweep because every subtree of a BST over 1..n spans a contiguous value range.
+No recursion anywhere, and the answer reduces to one product of binomials.
+
+Tradeoff: more reasoning to follow than the three-line recursion, and it relies
+on the values being a permutation of 1..n. Both are stated in the constraints.
+Validated the construction separately from the counting — the treap shape was
+compared against literal repeated insertion on all 46233 permutations of size
+<= 8 and on random and monotone inputs at n = 1000 — so the clever part is
+checked independently of the combinatorics.

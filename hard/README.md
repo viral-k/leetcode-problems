@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 69 problems
+**Total:** 70 problems
 
 ## Problems
 
@@ -41,6 +41,7 @@
 | 1510 | [Stone Game IV](1510-stone-game-iv/problem.md) | `Math`, `Dynamic Programming`, `Game Theory` | [✓](1510-stone-game-iv/solution.py) | [✓](1510-stone-game-iv/solution.java) |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](1520-maximum-number-of-non-overlapping-substrings/problem.md) | `String`, `Greedy` | [✓](1520-maximum-number-of-non-overlapping-substrings/solution.py) | [✓](1520-maximum-number-of-non-overlapping-substrings/solution.java) |
 | 1563 | [Stone Game V](1563-stone-game-v/problem.md) | `Array`, `Dynamic Programming`, `Prefix Sum`, `Two Pointers`, `Game Theory`, `Interval DP` | [✓](1563-stone-game-v/solution.py) | [✓](1563-stone-game-v/solution.java) |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](1569-number-of-ways-to-reorder-array-to-get-same-bst/problem.md) | `Array`, `Math`, `Divide and Conquer`, `Dynamic Programming`, `Tree`, `Memoization`, `Combinatorics`, `Binary Tree` | [✓](1569-number-of-ways-to-reorder-array-to-get-same-bst/solution.py) | [✓](1569-number-of-ways-to-reorder-array-to-get-same-bst/solution.java) |
 | 1665 | [Minimum Initial Energy to Finish Tasks](1665-minimum-initial-energy-to-finish-tasks/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.py) | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.java) |
 | 1840 | [Maximum Building Height](1840-maximum-building-height/problem.md) | `Array`, `Math`, `Greedy` | [✓](1840-maximum-building-height/solution.py) | [✓](1840-maximum-building-height/solution.java) |
 | 1872 | [Stone Game VIII](1872-stone-game-viii/problem.md) | `Array`, `Math`, `Dynamic Programming`, `Prefix Sum`, `Game Theory`, `Suffix Maximum` | [✓](1872-stone-game-viii/solution.py) | [✓](1872-stone-game-viii/solution.java) |
