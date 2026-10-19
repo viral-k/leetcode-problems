@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 70 problems
+**Total:** 71 problems
 
 ## Problems
 
@@ -29,6 +29,7 @@
 | 188 | [Best Time to Buy and Sell Stock IV](188-best-time-to-buy-and-sell-stock-iv/problem.md) | `Array`, `Dynamic Programming` | [✓](188-best-time-to-buy-and-sell-stock-iv/solution.py) | [✓](188-best-time-to-buy-and-sell-stock-iv/solution.java) |
 | 212 | [Word Search II](212-word-search-ii/problem.md) | `Array`, `String`, `Backtracking`, `Trie`, `Matrix` | [✓](212-word-search-ii/solution.py) | [✓](212-word-search-ii/solution.java) |
 | 214 | [Shortest Palindrome](214-shortest-palindrome/problem.md) | `String`, `String Matching` | [✓](214-shortest-palindrome/solution.py) | [✓](214-shortest-palindrome/solution.java) |
+| 218 | [The Skyline Problem](218-the-skyline-problem/problem.md) | `Array`, `Divide and Conquer`, `Heap (Priority Queue)`, `Segment Tree`, `Binary Indexed Tree` | [✓](218-the-skyline-problem/solution.py) | [✓](218-the-skyline-problem/solution.java) |
 | 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/problem.md) | `String`, `Backtracking`, `Breadth-First Search` | [✓](301-remove-invalid-parentheses/solution.py) | [✓](301-remove-invalid-parentheses/solution.java) |
 | 887 | [Super Egg Drop](887-super-egg-drop/problem.md) | `Math`, `Dynamic Programming`, `Binary Search` | [✓](887-super-egg-drop/solution.py) | [✓](887-super-egg-drop/solution.java) |
 | 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/problem.md) | `String`, `Dynamic Programming`, `Counting` | [✓](940-distinct-subsequences-ii/solution.py) | [✓](940-distinct-subsequences-ii/solution.java) |

@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 56 problems
+**Total:** 57 problems
 
 ## Problems
 
@@ -30,6 +30,7 @@
 | 1967 | [Number of Strings That Appear as Substrings in Word](1967-number-of-strings-that-appear-as-substrings-in-word/problem.md) | `Array`, `String`, `String Matching` | [✓](1967-number-of-strings-that-appear-as-substrings-in-word/solution.py) | [✓](1967-number-of-strings-that-appear-as-substrings-in-word/solution.java) |
 | 1979 | [Find Greatest Common Divisor of Array](1979-find-greatest-common-divisor-of-array/problem.md) | `Array`, `Math`, `Number Theory` | [✓](1979-find-greatest-common-divisor-of-array/solution.py) | [✓](1979-find-greatest-common-divisor-of-array/solution.java) |
 | 2078 | [Two Furthest Houses with Different Colors](2078-two-furthest-houses-with-different-colors/problem.md) | `Array`, `Greedy` | [✓](2078-two-furthest-houses-with-different-colors/solution.py) | [✓](2078-two-furthest-houses-with-different-colors/solution.java) |
+| 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/problem.md) | `Array`, `Binary Search`, `Sorting` | [✓](2089-find-target-indices-after-sorting-array/solution.py) | [✓](2089-find-target-indices-after-sorting-array/solution.java) |
 | 2144 | [Minimum Cost of Buying Candies with Discount](2144-minimum-cost-of-buying-candies-with-discount/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.py) | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.java) |
 | 2287 | [Rearrange Characters to Make Target String](2287-rearrange-characters-to-make-target-string/problem.md) | `Hash Table`, `String`, `Counting` | [✓](2287-rearrange-characters-to-make-target-string/solution.py) | [✓](2287-rearrange-characters-to-make-target-string/solution.java) |
 | 2515 | [Shortest Distance to Target String in a Circular Array](2515-shortest-distance-to-target-string-in-a-circular-array/problem.md) | `Array`, `String` | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.py) | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.java) |
