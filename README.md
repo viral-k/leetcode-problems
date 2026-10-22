@@ -1,6 +1,6 @@
 # LeetCode Problems
 
-Personal collection of LeetCode problem solutions with detailed approaches and explanations. 
+Personal collection of LeetCode problem solutions with detailed approaches and explanations.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-yral--k-orange?logo=leetcode)](https://leetcode.com/u/yral-k/)
 
@@ -9,9 +9,9 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 | Difficulty | Solved | Problems |
 |------------|--------|----------|
 | Easy       | 57      | [View](easy/README.md) |
-| Medium     | 119      | [View](medium/README.md) |
+| Medium     | 120      | [View](medium/README.md) |
 | Hard       | 72      | [View](hard/README.md) |
-| **Total**  | **248**  | |
+| **Total**  | **249**  | |
 
 ## Topics Covered
 
