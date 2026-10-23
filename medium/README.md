@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 120 problems
+**Total:** 121 problems
 
 ## Problems
 
@@ -107,6 +107,7 @@
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation/problem.md) | `Array`, `BFS`, `Number Theory`, `Hash Table` | [✓](3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.py) | [✓](3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.java) |
 | 3634 | [Minimum Removals to Balance Array](3634-minimum-removals-to-balance-array/problem.md) | `Array`, `Sorting`, `Two Pointers`, `Sliding Window` | [✓](3634-minimum-removals-to-balance-array/solution.py) | [✓](3634-minimum-removals-to-balance-array/solution.java) |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](3635-earliest-finish-time-for-land-and-water-rides-ii/problem.md) | `Array`, `Binary Search`, `Sorting`, `Prefix Minimum`, `Suffix Minimum` | [✓](3635-earliest-finish-time-for-land-and-water-rides-ii/solution.py) | [✓](3635-earliest-finish-time-for-land-and-water-rides-ii/solution.java) |
+| 3644 | [Maximum K to Sort a Permutation](3644-maximum-k-to-sort-a-permutation/problem.md) | `Array`, `Bit Manipulation` | [✓](3644-maximum-k-to-sort-a-permutation/solution.py) | [✓](3644-maximum-k-to-sort-a-permutation/solution.java) |
 | 3653 | [XOR After Range Multiplication Queries I](3653-xor-after-range-multiplication-queries-i/problem.md) | `Array`, `Bit Manipulation`, `Simulation` | [✓](3653-xor-after-range-multiplication-queries-i/solution.py) | [✓](3653-xor-after-range-multiplication-queries-i/solution.java) |
 | 3660 | [Jump Game IX](3660-jump-game-ix/problem.md) | `Array`, `Graph`, `Prefix Maximum`, `Suffix Minimum` | [✓](3660-jump-game-ix/solution.py) | [✓](3660-jump-game-ix/solution.java) |
 | 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i/problem.md) | `Array`, `Greedy`, `Math` | [✓](3689-maximum-total-subarray-value-i/solution.py) | [✓](3689-maximum-total-subarray-value-i/solution.java) |
