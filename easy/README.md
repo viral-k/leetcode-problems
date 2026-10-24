@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 57 problems
+**Total:** 58 problems
 
 ## Problems
 
@@ -33,6 +33,7 @@
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/problem.md) | `Array`, `Binary Search`, `Sorting` | [✓](2089-find-target-indices-after-sorting-array/solution.py) | [✓](2089-find-target-indices-after-sorting-array/solution.java) |
 | 2144 | [Minimum Cost of Buying Candies with Discount](2144-minimum-cost-of-buying-candies-with-discount/problem.md) | `Array`, `Greedy`, `Sorting` | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.py) | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.java) |
 | 2287 | [Rearrange Characters to Make Target String](2287-rearrange-characters-to-make-target-string/problem.md) | `Hash Table`, `String`, `Counting` | [✓](2287-rearrange-characters-to-make-target-string/solution.py) | [✓](2287-rearrange-characters-to-make-target-string/solution.java) |
+| 2409 | [Count Days Spent Together](2409-count-days-spent-together/problem.md) | `Math`, `String` | [✓](2409-count-days-spent-together/solution.py) | [✓](2409-count-days-spent-together/solution.java) |
 | 2515 | [Shortest Distance to Target String in a Circular Array](2515-shortest-distance-to-target-string-in-a-circular-array/problem.md) | `Array`, `String` | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.py) | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.java) |
 | 2540 | [Minimum Common Value](2540-minimum-common-value/problem.md) | `Array`, `Two Pointers` | [✓](2540-minimum-common-value/solution.py) | [✓](2540-minimum-common-value/solution.java) |
 | 2553 | [Separate the Digits in an Array](2553-separate-the-digits-in-an-array/problem.md) | `Array`, `Simulation` | [✓](2553-separate-the-digits-in-an-array/solution.py) | [✓](2553-separate-the-digits-in-an-array/solution.java) |
