@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 121 problems
+**Total:** 122 problems
 
 ## Problems
 
@@ -31,6 +31,7 @@
 | 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/problem.md) | `String`, `Stack`, `Greedy` | [✓](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.py) | [✓](1111-maximum-nesting-depth-of-two-valid-parentheses-strings/solution.java) |
 | 1140 | [Stone Game II](1140-stone-game-ii/problem.md) | `Array`, `Dynamic Programming`, `Prefix Sum`, `Game Theory`, `Memoization` | [✓](1140-stone-game-ii/solution.py) | [✓](1140-stone-game-ii/solution.java) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses/problem.md) | `String`, `Stack` | [✓](1190-reverse-substrings-between-each-pair-of-parentheses/solution.py) | [✓](1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) |
+| 1254 | [Number of Closed Islands](1254-number-of-closed-islands/problem.md) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` | [✓](1254-number-of-closed-islands/solution.py) | [✓](1254-number-of-closed-islands/solution.java) |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals/problem.md) | `Array`, `Sorting`, `Greedy` | [✓](1288-remove-covered-intervals/solution.py) | [✓](1288-remove-covered-intervals/solution.java) |
 | 1291 | [Sequential Digits](1291-sequential-digits/problem.md) | `Enumeration`, `String`, `Math` | [✓](1291-sequential-digits/solution.py) | [✓](1291-sequential-digits/solution.java) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/problem.md) | `Array`, `Binary Search`, `Matrix`, `Prefix Sum` | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.py) | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.java) |
