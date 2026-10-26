@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 122 problems
+**Total:** 123 problems
 
 ## Problems
 
@@ -105,6 +105,7 @@
 | 3558 | [Number of Ways to Assign Edge Weights I](3558-number-of-ways-to-assign-edge-weights-i/problem.md) | `Tree`, `BFS`, `DFS`, `Math` | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.py) | [✓](3558-number-of-ways-to-assign-edge-weights-i/solution.java) |
 | 3568 | [Minimum Moves to Clean the Classroom](3568-minimum-moves-to-clean-the-classroom/problem.md) | `Array`, `BFS`, `Bit Manipulation`, `Matrix`, `Graph` | [✓](3568-minimum-moves-to-clean-the-classroom/solution.py) | [✓](3568-minimum-moves-to-clean-the-classroom/solution.java) |
 | 3612 | [Process String with Special Operations I](3612-process-string-with-special-operations-i/problem.md) | `String`, `Simulation`, `Stack` | [✓](3612-process-string-with-special-operations-i/solution.py) | [✓](3612-process-string-with-special-operations-i/solution.java) |
+| 3619 | [Count Islands with Total Value Divisible by K](3619-count-islands-with-total-value-divisible-by-k/problem.md) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` | [✓](3619-count-islands-with-total-value-divisible-by-k/solution.py) | [✓](3619-count-islands-with-total-value-divisible-by-k/solution.java) |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](3629-minimum-jumps-to-reach-end-via-prime-teleportation/problem.md) | `Array`, `BFS`, `Number Theory`, `Hash Table` | [✓](3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.py) | [✓](3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.java) |
 | 3634 | [Minimum Removals to Balance Array](3634-minimum-removals-to-balance-array/problem.md) | `Array`, `Sorting`, `Two Pointers`, `Sliding Window` | [✓](3634-minimum-removals-to-balance-array/solution.py) | [✓](3634-minimum-removals-to-balance-array/solution.java) |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](3635-earliest-finish-time-for-land-and-water-rides-ii/problem.md) | `Array`, `Binary Search`, `Sorting`, `Prefix Minimum`, `Suffix Minimum` | [✓](3635-earliest-finish-time-for-land-and-water-rides-ii/solution.py) | [✓](3635-earliest-finish-time-for-land-and-water-rides-ii/solution.java) |
