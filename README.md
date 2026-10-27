@@ -66,7 +66,7 @@ leetcode-problems/
     └── ...
 ```
 
-## File Conventions
+## File Conventions 
 
 Each problem folder contains:
 
