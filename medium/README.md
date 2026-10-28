@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 123 problems
+**Total:** 124 problems
 
 ## Problems
 
@@ -129,5 +129,6 @@
 | 3867 | [Sum of GCD of Formed Pairs](3867-sum-of-gcd-of-formed-pairs/problem.md) | `Array`, `Math`, `Number Theory`, `Sorting`, `Two Pointers`, `Simulation` | [✓](3867-sum-of-gcd-of-formed-pairs/solution.py) | [✓](3867-sum-of-gcd-of-formed-pairs/solution.java) |
 | 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/problem.md) | `Math`, `Counting` | [✓](3871-count-commas-in-range-ii/solution.py) | [✓](3871-count-commas-in-range-ii/solution.java) |
 | 3876 | [Construct Uniform Parity Array II](3876-construct-uniform-parity-array-ii/problem.md) | `Array`, `Math`, `Counting`, `Greedy` | [✓](3876-construct-uniform-parity-array-ii/solution.py) | [✓](3876-construct-uniform-parity-array-ii/solution.java) |
+| 3882 | [Minimum XOR Path in a Grid](3882-minimum-xor-path-in-a-grid/problem.md) | `Array`, `Dynamic Programming`, `Bit Manipulation`, `Matrix` | [✓](3882-minimum-xor-path-in-a-grid/solution.py) | [✓](3882-minimum-xor-path-in-a-grid/solution.java) |
 | 3904 | [Smallest Stable Index II](3904-smallest-stable-index-ii/problem.md) | `Array`, `Prefix Sum`, `Prefix Maximum`, `Suffix Minimum` | [✓](3904-smallest-stable-index-ii/solution.py) | [✓](3904-smallest-stable-index-ii/solution.java) |
 | 3942 | [Minimum Operations to Sort a Permutation](3942-minimum-operations-to-sort-a-permutation/problem.md) | `Array` | [✓](3942-minimum-operations-to-sort-a-permutation/solution.py) | [✓](3942-minimum-operations-to-sort-a-permutation/solution.java) |
