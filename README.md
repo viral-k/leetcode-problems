@@ -10,8 +10,8 @@ Personal collection of LeetCode problem solutions with detailed approaches and e
 |------------|--------|----------|
 | Easy       | 58      | [View](easy/README.md) |
 | Medium     | 124      | [View](medium/README.md) |
-| Hard       | 73      | [View](hard/README.md) |
-| **Total**  | **255**  | |
+| Hard       | 74      | [View](hard/README.md) |
+| **Total**  | **256**  | |
 
 ## Topics Covered
 
@@ -66,7 +66,7 @@ leetcode-problems/
     └── ...
 ```
 
-## File Conventions 
+## File Conventions
 
 Each problem folder contains:
 

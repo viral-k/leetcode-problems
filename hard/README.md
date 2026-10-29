@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 73 problems
+**Total:** 74 problems
 
 ## Problems
 
@@ -80,4 +80,5 @@
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](3734-lexicographically-smallest-palindromic-permutation-greater-than-target/problem.md) | `String`, `Greedy`, `Counting`, `Sorting` | [✓](3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.py) | [✓](3734-lexicographically-smallest-palindromic-permutation-greater-than-target/solution.java) |
 | 3739 | [Count Subarrays with Majority Element II](3739-count-subarrays-with-majority-element-ii/problem.md) | `Array`, `Prefix Sum`, `Counting` | [✓](3739-count-subarrays-with-majority-element-ii/solution.py) | [✓](3739-count-subarrays-with-majority-element-ii/solution.java) |
 | 3753 | [Total Waviness of Numbers in Range II](3753-total-waviness-of-numbers-in-range-ii/problem.md) | `Digit DP`, `Dynamic Programming`, `Math` | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.py) | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.java) |
+| 3841 | [Palindromic Path Queries in a Tree](3841-palindromic-path-queries-in-a-tree/problem.md) | `Array`, `String`, `Divide and Conquer`, `Bit Manipulation`, `Tree`, `Depth-First Search`, `Binary Indexed Tree`, `Segment Tree` | [✓](3841-palindromic-path-queries-in-a-tree/solution.py) | [✓](3841-palindromic-path-queries-in-a-tree/solution.java) |
 | 3886 | [Sum of Sortable Integers](3886-sum-of-sortable-integers/problem.md) | `Array`, `Math`, `Sorting`, `Enumeration` | [✓](3886-sum-of-sortable-integers/solution.py) | [✓](3886-sum-of-sortable-integers/solution.java) |
