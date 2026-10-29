@@ -20,6 +20,8 @@ scripts/
     push.py                        regenerates READMEs, commits, pushes
     update_readme.py               regenerates README tables from approach.md tags
 README.md, <difficulty>/README.md  AUTO-GENERATED — do not edit by hand
+<difficulty>/<folder>/README.md     AUTO-GENERATED too (title, links to yral.dev + LeetCode, file list)
+.github/workflows/rebuild-site.yml asks Cloudflare to rebuild yral.dev after a push
 ```
 
 ### Folder naming
@@ -42,9 +44,10 @@ Match the style of recent problem folders exactly. `_templates/` holds the canon
 1. **Print the approach in chat** (always — in addition to writing `approach.md`).
 2. Create the 4 files, fully filled in.
 3. **Validate `solution.py` locally** with a throwaway harness (never committed): pasted examples + edge cases + random cross-checks against a brute force / independent reference. Report results (include a perf number at max constraints for tight problems).
-4. **STOP.** Do not update READMEs, commit, or push. Wait for the user to submit on LeetCode.
+4. **Print a ready-to-paste LeetCode Solutions post** (format in the workflow memory): title line, then a 4-backtick fence with Intuition / Approach / Complexity / Code (`python3 []`, `java []` tabs) and a closing link to `https://yral.dev/leetcode/<leetcode-slug>`.
+5. **STOP.** Do not update READMEs, commit, or push. Wait for the user to submit on LeetCode.
    - The user often pushes from their own terminal — you don't need to wait for an explicit "push".
-   - If the user says "push": `echo y | python scripts/push.py` (regenerates READMEs, auto-commits `Add <num>. <Title> (<Difficulty>)`, pushes).
+   - If the user says "push": `echo y | python3 scripts/push.py` (regenerates READMEs, auto-commits `Add <num>. <Title> (<Difficulty>)`, pushes).
    - If LeetCode rejects, the user pastes the failing case → fix both solutions, re-validate, push as an `Update` commit.
 
 **Why wait:** keeps git history clean (no "fix" commits) since solutions occasionally fail hidden tests.

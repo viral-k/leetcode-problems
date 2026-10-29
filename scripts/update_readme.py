@@ -14,6 +14,10 @@ REPO_ROOT = Path(__file__).parent.parent
 DIFFICULTIES = ["easy", "medium", "hard"]
 ROMAN_NUMERALS = {"i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"}
 LOWERCASE_TITLE_WORDS = {"a", "an", "and", "as", "at", "by", "for", "from", "in", "of", "on", "or", "the", "to", "with"}
+# Every problem also has a page on the personal site, built from this repo.
+SITE_URL = "https://yral.dev/leetcode"
+# solution file -> language label, in the order they are listed.
+SOLUTION_FILES = [("solution.py", "Python"), ("solution.java", "Java"), ("solution.sql", "SQL"), ("solution.sh", "Bash")]
 
 
 def parse_problem_folder(folder_name: str) -> tuple[str, str]:
@@ -77,6 +81,38 @@ def get_problem_title(problem_path: Path) -> str:
     return ""
 
 
+def get_leetcode_url(problem_path: Path, slug: str) -> str:
+    """LeetCode link from problem.md; the folder slug is the fallback."""
+    if problem_path.exists():
+        match = re.search(r"\((https://leetcode\.com/problems/[^)\s]+)\)", problem_path.read_text())
+        if match:
+            return match.group(1)
+    return f"https://leetcode.com/problems/{slug}/"
+
+
+def get_complexity(folder: Path) -> tuple[str, str]:
+    """Time/Space from the solution docstrings, falling back to approach.md."""
+    text = "\n".join(
+        (folder / name).read_text() for name, _ in SOLUTION_FILES + [("approach.md", "")] if (folder / name).exists()
+    )
+
+    def grab(label: str) -> str:
+        match = re.search(rf"(?:\*\*)?{label}:(?:\*\*)?\s*(.+?)\s*(?=[,;]?\s*(?:\*\*)?(?:Time|Space):|$)", text, re.M)
+        return match.group(1).strip("* ") if match else ""
+
+    return grab("Time"), grab("Space")
+
+
+def get_intuition(approach_path: Path) -> str:
+    """First paragraph of the Intuition section, kept as markdown."""
+    if not approach_path.exists():
+        return ""
+    match = re.search(r"^##\s+Intuition\s*\n(.*?)(?=^##\s|\Z)", approach_path.read_text(), re.M | re.S)
+    if not match:
+        return ""
+    return match.group(1).strip().split("\n\n")[0].strip()
+
+
 def scan_problems() -> dict:
     """Scan all problem folders and collect metadata."""
     problems_by_difficulty = {"easy": [], "medium": [], "hard": []}
@@ -105,6 +141,10 @@ def scan_problems() -> dict:
             tags = get_tags_from_approach(approach_md)
             all_tags.update(tags)
             
+            leetcode_url = get_leetcode_url(problem_md, slug)
+            site_slug = re.search(r"problems/([^/]+)", leetcode_url).group(1)
+            time, space = get_complexity(folder)
+
             problems_by_difficulty[difficulty].append({
                 "number": number,
                 "slug": slug,
@@ -113,6 +153,12 @@ def scan_problems() -> dict:
                 "tags": tags,
                 "has_python": solution_py.exists(),
                 "has_java": solution_java.exists(),
+                "folder": folder,
+                "leetcode_url": leetcode_url,
+                "site_url": f"{SITE_URL}/{site_slug}",
+                "time": time,
+                "space": space,
+                "intuition": get_intuition(approach_md),
             })
             
             counts[difficulty] += 1
@@ -150,6 +196,8 @@ def generate_main_readme(data: dict) -> str:
     readme = f"""# LeetCode Problems
 
 Personal collection of LeetCode problem solutions with detailed approaches and explanations.
+
+Every solution also has its own page at **[yral.dev/leetcode]({SITE_URL})**, with the approach and syntax-highlighted Python and Java code.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-yral--k-orange?logo=leetcode)](https://leetcode.com/u/yral-k/)
 
@@ -251,16 +299,16 @@ def generate_difficulty_readme(difficulty: str, problems: list, total_count: int
             py_link = f"[✓]({p['number']}-{p['slug']}/solution.py)" if p["has_python"] else "-"
             java_link = f"[✓]({p['number']}-{p['slug']}/solution.java)" if p["has_java"] else "-"
             
-            row = f"| {p['number']} | [{p['title']}]({p['number']}-{p['slug']}/problem.md) | {tags_str} | {py_link} | {java_link} |"
+            row = f"| {p['number']} | [{p['title']}]({p['number']}-{p['slug']}/) | {tags_str} | {py_link} | {java_link} | [read]({p['site_url']}) |"
             table_rows.append(row)
         
-        solutions_table = """| #   | Problem | Tags | Python | Java |
-|-----|---------|------|--------|------|
+        solutions_table = """| #   | Problem | Tags | Python | Java | Write-up |
+|-----|---------|------|--------|------|----------|
 """ + "\n".join(table_rows)
     else:
-        solutions_table = """| #   | Problem | Tags | Python | Java |
-|-----|---------|------|--------|------|
-| -   | No problems yet | - | - | - |"""
+        solutions_table = """| #   | Problem | Tags | Python | Java | Write-up |
+|-----|---------|------|--------|------|----------|
+| -   | No problems yet | - | - | - | - |"""
 
     readme = f"""# {diff_title} Problems
 
@@ -274,6 +322,34 @@ def generate_difficulty_readme(difficulty: str, problems: list, total_count: int
 """
     
     return readme
+
+
+def generate_problem_readme(p: dict) -> str:
+    """README for one problem folder, so GitHub shows a real page for it instead of a file list."""
+    number = int(p["number"])
+    lines = [
+        f"# {number}. {p['title']}",
+        "",
+        f"**Difficulty:** {p['difficulty']}  ",
+    ]
+    if p["tags"]:
+        lines.append(f"**Topics:** {', '.join(f'`{t}`' for t in p['tags'])}  ")
+    if p["time"] and p["space"]:
+        lines.append(f"**Complexity:** time {p['time']}, space {p['space']}")
+    lines += [
+        "",
+        f"- **Write-up:** [{p['site_url'].removeprefix('https://')}]({p['site_url']})",
+        f"- **Problem:** [{p['title']} on LeetCode]({p['leetcode_url']})",
+    ]
+    if p["intuition"]:
+        lines += ["", "## Idea", "", p["intuition"]]
+    lines += ["", "## Files", "", "| File | Contents |", "|------|----------|"]
+    lines.append("| [approach.md](approach.md) | Intuition, approach, complexity, edge cases |")
+    for name, label in SOLUTION_FILES:
+        if (p["folder"] / name).exists():
+            lines.append(f"| [{name}]({name}) | {label} solution |")
+    lines.append("| [problem.md](problem.md) | Problem statement |")
+    return "\n".join(lines) + "\n"
 
 
 def main():
@@ -292,6 +368,11 @@ def main():
         diff_readme = generate_difficulty_readme(difficulty, problems, data["counts"][difficulty])
         (diff_path / "README.md").write_text(diff_readme)
     
+    # Generate one README per problem folder
+    for difficulty in DIFFICULTIES:
+        for p in data["problems_by_difficulty"][difficulty]:
+            (p["folder"] / "README.md").write_text(generate_problem_readme(p))
+
     # Remove .gitkeep files if README exists
     for difficulty in DIFFICULTIES:
         gitkeep = REPO_ROOT / difficulty / ".gitkeep"

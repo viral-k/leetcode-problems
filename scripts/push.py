@@ -127,8 +127,10 @@ def generate_commit_message(changes: dict) -> str:
 
 
 def main():
-    # Check for uncommitted changes
-    status = run_cmd(["git", "status", "--porcelain"], check=False)
+    # Check for uncommitted changes. check=True: if git itself fails (e.g. the
+    # Xcode license prompt after a macOS update), stop instead of reporting
+    # an empty status as "Nothing to commit."
+    status = run_cmd(["git", "status", "--porcelain"])
     if not status:
         print("Nothing to commit.")
         return
@@ -160,7 +162,9 @@ def main():
     
     # Update README first
     print("Updating README...")
-    run_cmd(["python", "scripts/update_readme.py"])
+    # sys.executable, not "python": a bare `python` is not always on PATH
+    # (Homebrew only provides python3 unless libexec/bin is added).
+    run_cmd([sys.executable, "scripts/update_readme.py"])
     print()
     
     # Generate commit message

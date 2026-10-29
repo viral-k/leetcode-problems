@@ -113,3 +113,18 @@ Validated the construction separately from the counting — the treap shape was
 compared against literal repeated insertion on all 46233 permutations of size
 <= 8 and on random and monotone inputs at n = 1000 — so the clever part is
 checked independently of the combinatorics.
+
+## 2026-10-30: publish the write-ups on yral.dev, not GitHub Pages
+
+The repo was not indexed by Google at all, and github.com pages cannot be added
+to Search Console. The user already owns yral.dev (Next.js static export on
+Cloudflare Pages), so the site's build clones this repo and renders one page
+per problem at `/leetcode/<leetcode-slug>`, with a sitemap entry dated by the
+folder's last commit. That keeps this repo the single source and needs no copy
+of the content in the site repo.
+
+The LeetCode problem statements are not published on the site. They are
+LeetCode's text, a copy would not rank against the original, and LeetCode has
+sent takedowns over mirrored statements. `problem.md` stays in this repo
+untouched. Tradeoff: the site needs a rebuild per push, done with a Cloudflare
+deploy hook called from a GitHub Action.

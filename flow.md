@@ -5,6 +5,21 @@ all executable logic lives in `scripts/`.
 
 ## Recent AI Changes
 
+**2026-10-30**
+
+- `scripts/update_readme.py`: also writes a `README.md` into every problem
+  folder (title, difficulty, topics, complexity, the Intuition paragraph, links
+  to `yral.dev/leetcode/<slug>` and LeetCode, file list). GitHub renders it on
+  the folder page, which was a bare file list before. Difficulty tables now link
+  the folder instead of `problem.md` and gain a Write-up column.
+- `scripts/push.py`: `git status` failures now stop the script instead of
+  printing "Nothing to commit.", and the README step runs with
+  `sys.executable` instead of a bare `python`.
+- Added `.github/workflows/rebuild-site.yml`: on a push that touches a problem
+  folder, POSTs the Cloudflare Pages deploy hook so yral.dev rebuilds its
+  `/leetcode` pages from this repo. Skips when the `CF_DEPLOY_HOOK_URL` secret
+  is missing.
+
 **2026-10-11**
 
 - `scripts/fetch_problem.py`: titles are now whitespace-normalised. LeetCode
@@ -52,6 +67,11 @@ shared runtime state between them.
 | `scripts/push.py` | `python scripts/push.py` | Regenerate READMEs, commit, push |
 
 `push.py` is the one normally used; it calls the README generation itself.
+
+After a push, GitHub Actions runs `.github/workflows/rebuild-site.yml`, which
+triggers a Cloudflare Pages build of yral.dev. That build clones this repo and
+runs `scripts/gen-leetcode.ts` (in the yral.dev repo) to produce the
+`/leetcode/<slug>` pages.
 
 `fetch_problem.py` and `new_problem.py` do the same job from different inputs:
 `fetch_problem.py` needs network access and fills the content in, while

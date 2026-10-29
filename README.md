@@ -2,6 +2,8 @@
 
 Personal collection of LeetCode problem solutions with detailed approaches and explanations.
 
+Every solution also has its own page at **[yral.dev/leetcode](https://yral.dev/leetcode)**, with the approach and syntax-highlighted Python and Java code.
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-yral--k-orange?logo=leetcode)](https://leetcode.com/u/yral-k/)
 
 ## Progress
