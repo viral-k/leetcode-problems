@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 124 problems
+**Total:** 125 problems
 
 ## Problems
 
@@ -132,3 +132,4 @@
 | 3882 | [Minimum XOR Path in a Grid](3882-minimum-xor-path-in-a-grid/) | `Array`, `Dynamic Programming`, `Bit Manipulation`, `Matrix` | [✓](3882-minimum-xor-path-in-a-grid/solution.py) | [✓](3882-minimum-xor-path-in-a-grid/solution.java) | [read](https://yral.dev/leetcode/minimum-xor-path-in-a-grid) |
 | 3904 | [Smallest Stable Index II](3904-smallest-stable-index-ii/) | `Array`, `Prefix Sum`, `Prefix Maximum`, `Suffix Minimum` | [✓](3904-smallest-stable-index-ii/solution.py) | [✓](3904-smallest-stable-index-ii/solution.java) | [read](https://yral.dev/leetcode/smallest-stable-index-ii) |
 | 3942 | [Minimum Operations to Sort a Permutation](3942-minimum-operations-to-sort-a-permutation/) | `Array` | [✓](3942-minimum-operations-to-sort-a-permutation/solution.py) | [✓](3942-minimum-operations-to-sort-a-permutation/solution.java) | [read](https://yral.dev/leetcode/minimum-operations-to-sort-a-permutation) |
+| 3970 | [Shortest Path with at Most K Consecutive Identical Characters](3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | `Graph`, `String`, `Heap (Priority Queue)`, `Shortest Path` | [✓](3970-shortest-path-with-at-most-k-consecutive-identical-characters/solution.py) | [✓](3970-shortest-path-with-at-most-k-consecutive-identical-characters/solution.java) | [read](https://yral.dev/leetcode/shortest-path-with-at-most-k-consecutive-identical-characters) |
