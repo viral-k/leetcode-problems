@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 126 problems
+**Total:** 127 problems
 
 ## Problems
 
@@ -19,6 +19,7 @@
 | 223 | [Rectangle Area](223-rectangle-area/) | `Math`, `Geometry` | [✓](223-rectangle-area/solution.py) | [✓](223-rectangle-area/solution.java) | [read](https://yral.dev/leetcode/rectangle-area) |
 | 347 | [Top K Frequent Elements](347-top-k-frequent-elements/) | `Array`, `Hash Table`, `Bucket Sort` | [✓](347-top-k-frequent-elements/solution.py) | [✓](347-top-k-frequent-elements/solution.java) | [read](https://yral.dev/leetcode/top-k-frequent-elements) |
 | 396 | [Rotate Function](396-rotate-function/) | `Array`, `Math`, `Dynamic Programming` | [✓](396-rotate-function/solution.py) | [✓](396-rotate-function/solution.java) | [read](https://yral.dev/leetcode/rotate-function) |
+| 453 | [Minimum Moves to Equal Array Elements](453-minimum-moves-to-equal-array-elements/) | `Array`, `Math` | [✓](453-minimum-moves-to-equal-array-elements/solution.py) | [✓](453-minimum-moves-to-equal-array-elements/solution.java) | [read](https://yral.dev/leetcode/minimum-moves-to-equal-array-elements) |
 | 486 | [Predict the Winner](486-predict-the-winner/) | `Array`, `Dynamic Programming`, `Recursion`, `Game Theory`, `Interval DP` | [✓](486-predict-the-winner/solution.py) | [✓](486-predict-the-winner/solution.java) | [read](https://yral.dev/leetcode/predict-the-winner) |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | `String`, `Dynamic Programming`, `Stack`, `Greedy` | [✓](678-valid-parenthesis-string/solution.py) | [✓](678-valid-parenthesis-string/solution.java) | [read](https://yral.dev/leetcode/valid-parenthesis-string) |
 | 788 | [Rotated Digits](788-rotated-digits/) | `Math`, `Dynamic Programming` | [✓](788-rotated-digits/solution.py) | [✓](788-rotated-digits/solution.java) | [read](https://yral.dev/leetcode/rotated-digits) |

@@ -11,9 +11,9 @@ Every solution also has its own page at **[yral.dev/leetcode](https://yral.dev/l
 | Difficulty | Solved | Problems |
 |------------|--------|----------|
 | Easy       | 58      | [View](easy/README.md) |
-| Medium     | 126      | [View](medium/README.md) |
+| Medium     | 127      | [View](medium/README.md) |
 | Hard       | 74      | [View](hard/README.md) |
-| **Total**  | **258**  | |
+| **Total**  | **259**  | |
 
 ## Topics Covered
 
