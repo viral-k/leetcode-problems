@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 58 problems
+**Total:** 59 problems
 
 ## Problems
 
@@ -59,6 +59,7 @@
 | 3633 | [Earliest Finish Time for Land and Water Rides I](3633-earliest-finish-time-for-land-and-water-rides-i/) | `Array`, `Brute Force`, `Simulation` | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.py) | [✓](3633-earliest-finish-time-for-land-and-water-rides-i/solution.java) | [read](https://yral.dev/leetcode/earliest-finish-time-for-land-and-water-rides-i) |
 | 3718 | [Smallest Missing Multiple of K](3718-smallest-missing-multiple-of-k/) | `Array`, `Hash Table`, `Math`, `Simulation` | [✓](3718-smallest-missing-multiple-of-k/solution.py) | [✓](3718-smallest-missing-multiple-of-k/solution.java) | [read](https://yral.dev/leetcode/smallest-missing-multiple-of-k) |
 | 3731 | [Find Missing Elements](3731-find-missing-elements/) | `Array`, `Hash Table`, `Sorting` | [✓](3731-find-missing-elements/solution.py) | [✓](3731-find-missing-elements/solution.java) | [read](https://yral.dev/leetcode/find-missing-elements) |
+| 3736 | [Minimum Moves to Equal Array Elements III](3736-minimum-moves-to-equal-array-elements-iii/) | `Array`, `Math` | [✓](3736-minimum-moves-to-equal-array-elements-iii/solution.py) | [✓](3736-minimum-moves-to-equal-array-elements-iii/solution.java) | [read](https://yral.dev/leetcode/minimum-moves-to-equal-array-elements-iii) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](3740-minimum-distance-between-three-equal-elements-i/) | `Array`, `Hash Table` | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.py) | [✓](3740-minimum-distance-between-three-equal-elements-i/solution.java) | [read](https://yral.dev/leetcode/minimum-distance-between-three-equal-elements-i) |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | `Math`, `String`, `Simulation` | [✓](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/solution.py) | [✓](3754-concatenate-non-zero-digits-and-multiply-by-sum-i/solution.java) | [read](https://yral.dev/leetcode/concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | 3783 | [Mirror Distance of an Integer](3783-mirror-distance-of-an-integer/) | `Math` | [✓](3783-mirror-distance-of-an-integer/solution.py) | [✓](3783-mirror-distance-of-an-integer/solution.java) | [read](https://yral.dev/leetcode/mirror-distance-of-an-integer) |
