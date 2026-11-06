@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 59 problems
+**Total:** 60 problems
 
 ## Problems
 
@@ -19,6 +19,7 @@
 | 1189 | [Maximum Number of Balloons](1189-maximum-number-of-balloons/) | `Hash Table`, `String`, `Counting` | [✓](1189-maximum-number-of-balloons/solution.py) | [✓](1189-maximum-number-of-balloons/solution.java) | [read](https://yral.dev/leetcode/maximum-number-of-balloons) |
 | 1260 | [Shift 2D Grid](1260-shift-2d-grid/) | `Array`, `Matrix`, `Simulation` | [✓](1260-shift-2d-grid/solution.py) | [✓](1260-shift-2d-grid/solution.java) | [read](https://yral.dev/leetcode/shift-2d-grid) |
 | 1331 | [Rank Transform of an Array](1331-rank-transform-of-an-array/) | `Array`, `Hash Table`, `Sorting` | [✓](1331-rank-transform-of-an-array/solution.py) | [✓](1331-rank-transform-of-an-array/solution.java) | [read](https://yral.dev/leetcode/rank-transform-of-an-array) |
+| 1385 | [Find the Distance Value Between Two Arrays](1385-find-the-distance-value-between-two-arrays/) | `Array`, `Two Pointers`, `Binary Search`, `Sorting` | [✓](1385-find-the-distance-value-between-two-arrays/solution.py) | [✓](1385-find-the-distance-value-between-two-arrays/solution.java) | [read](https://yral.dev/leetcode/find-the-distance-value-between-two-arrays) |
 | 1464 | [Maximum Product of Two Elements in an Array](1464-maximum-product-of-two-elements-in-an-array/) | `Array`, `Math`, `Sorting` | [✓](1464-maximum-product-of-two-elements-in-an-array/solution.py) | [✓](1464-maximum-product-of-two-elements-in-an-array/solution.java) | [read](https://yral.dev/leetcode/maximum-product-of-two-elements-in-an-array) |
 | 1582 | [Special Positions in a Binary Matrix](1582-special-positions-in-a-binary-matrix/) | `Array`, `Matrix` | [✓](1582-special-positions-in-a-binary-matrix/solution.py) | [✓](1582-special-positions-in-a-binary-matrix/solution.java) | [read](https://yral.dev/leetcode/special-positions-in-a-binary-matrix) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/) | `String`, `Stack` | [✓](1614-maximum-nesting-depth-of-the-parentheses/solution.py) | [✓](1614-maximum-nesting-depth-of-the-parentheses/solution.java) | [read](https://yral.dev/leetcode/maximum-nesting-depth-of-the-parentheses) |
