@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 129 problems
+**Total:** 130 problems
 
 ## Problems
 
@@ -60,6 +60,7 @@
 | 1855 | [Maximum Distance Between a Pair of Values](1855-maximum-distance-between-a-pair-of-values/) | `Array`, `Two Pointers`, `Binary Search` | [✓](1855-maximum-distance-between-a-pair-of-values/solution.py) | [✓](1855-maximum-distance-between-a-pair-of-values/solution.java) | [read](https://yral.dev/leetcode/maximum-distance-between-a-pair-of-values) |
 | 1861 | [Rotating the Box](1861-rotating-the-box/) | `Array`, `Two Pointers`, `Matrix`, `Simulation` | [✓](1861-rotating-the-box/solution.py) | [✓](1861-rotating-the-box/solution.java) | [read](https://yral.dev/leetcode/rotating-the-box) |
 | 1871 | [Jump Game VII](1871-jump-game-vii/) | `String`, `Dynamic Programming`, `Prefix Sum`, `Sliding Window` | [✓](1871-jump-game-vii/solution.py) | [✓](1871-jump-game-vii/solution.java) | [read](https://yral.dev/leetcode/jump-game-vii) |
+| 1882 | [Process Tasks Using Servers](1882-process-tasks-using-servers/) | `Array`, `Heap (Priority Queue)` | [✓](1882-process-tasks-using-servers/solution.py) | [✓](1882-process-tasks-using-servers/solution.java) | [read](https://yral.dev/leetcode/process-tasks-using-servers) |
 | 1914 | [Cyclically Rotating a Grid](1914-cyclically-rotating-a-grid/) | `Array`, `Matrix`, `Simulation` | [✓](1914-cyclically-rotating-a-grid/solution.py) | [✓](1914-cyclically-rotating-a-grid/solution.java) | [read](https://yral.dev/leetcode/cyclically-rotating-a-grid) |
 | 1927 | [Sum Game](1927-sum-game/) | `Math`, `Greedy`, `String`, `Game Theory` | [✓](1927-sum-game/solution.py) | [✓](1927-sum-game/solution.java) | [read](https://yral.dev/leetcode/sum-game) |
 | 2029 | [Stone Game IX](2029-stone-game-ix/) | `Array`, `Math`, `Greedy`, `Counting`, `Game Theory` | [✓](2029-stone-game-ix/solution.py) | [✓](2029-stone-game-ix/solution.java) | [read](https://yral.dev/leetcode/stone-game-ix) |
