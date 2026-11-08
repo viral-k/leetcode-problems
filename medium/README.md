@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 130 problems
+**Total:** 131 problems
 
 ## Problems
 
@@ -34,6 +34,7 @@
 | 1140 | [Stone Game II](1140-stone-game-ii/) | `Array`, `Dynamic Programming`, `Prefix Sum`, `Game Theory`, `Memoization` | [✓](1140-stone-game-ii/solution.py) | [✓](1140-stone-game-ii/solution.java) | [read](https://yral.dev/leetcode/stone-game-ii) |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](1190-reverse-substrings-between-each-pair-of-parentheses/) | `String`, `Stack` | [✓](1190-reverse-substrings-between-each-pair-of-parentheses/solution.py) | [✓](1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) | [read](https://yral.dev/leetcode/reverse-substrings-between-each-pair-of-parentheses) |
 | 1254 | [Number of Closed Islands](1254-number-of-closed-islands/) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix` | [✓](1254-number-of-closed-islands/solution.py) | [✓](1254-number-of-closed-islands/solution.java) | [read](https://yral.dev/leetcode/number-of-closed-islands) |
+| 1267 | [Count Servers that Communicate](1267-count-servers-that-communicate/) | `Array`, `Depth-First Search`, `Breadth-First Search`, `Matrix`, `Counting` | [✓](1267-count-servers-that-communicate/solution.py) | [✓](1267-count-servers-that-communicate/solution.java) | [read](https://yral.dev/leetcode/count-servers-that-communicate) |
 | 1288 | [Remove Covered Intervals](1288-remove-covered-intervals/) | `Array`, `Sorting`, `Greedy` | [✓](1288-remove-covered-intervals/solution.py) | [✓](1288-remove-covered-intervals/solution.java) | [read](https://yral.dev/leetcode/remove-covered-intervals) |
 | 1291 | [Sequential Digits](1291-sequential-digits/) | `Enumeration`, `String`, `Math` | [✓](1291-sequential-digits/solution.py) | [✓](1291-sequential-digits/solution.java) | [read](https://yral.dev/leetcode/sequential-digits) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | `Array`, `Binary Search`, `Matrix`, `Prefix Sum` | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.py) | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.java) | [read](https://yral.dev/leetcode/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
