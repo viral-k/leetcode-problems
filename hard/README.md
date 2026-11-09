@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 77 problems
+**Total:** 78 problems
 
 ## Problems
 
@@ -46,6 +46,7 @@
 | 1520 | [Maximum Number of Non-Overlapping Substrings](1520-maximum-number-of-non-overlapping-substrings/) | `String`, `Greedy` | [✓](1520-maximum-number-of-non-overlapping-substrings/solution.py) | [✓](1520-maximum-number-of-non-overlapping-substrings/solution.java) | [read](https://yral.dev/leetcode/maximum-number-of-non-overlapping-substrings) |
 | 1563 | [Stone Game V](1563-stone-game-v/) | `Array`, `Dynamic Programming`, `Prefix Sum`, `Two Pointers`, `Game Theory`, `Interval DP` | [✓](1563-stone-game-v/solution.py) | [✓](1563-stone-game-v/solution.java) | [read](https://yral.dev/leetcode/stone-game-v) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](1569-number-of-ways-to-reorder-array-to-get-same-bst/) | `Array`, `Math`, `Divide and Conquer`, `Dynamic Programming`, `Tree`, `Memoization`, `Combinatorics`, `Binary Tree` | [✓](1569-number-of-ways-to-reorder-array-to-get-same-bst/solution.py) | [✓](1569-number-of-ways-to-reorder-array-to-get-same-bst/solution.java) | [read](https://yral.dev/leetcode/number-of-ways-to-reorder-array-to-get-same-bst) |
+| 1606 | [Find Servers That Handled Most Number of Requests](1606-find-servers-that-handled-most-number-of-requests/) | `Array`, `Heap (Priority Queue)`, `Simulation` | [✓](1606-find-servers-that-handled-most-number-of-requests/solution.py) | [✓](1606-find-servers-that-handled-most-number-of-requests/solution.java) | [read](https://yral.dev/leetcode/find-servers-that-handled-most-number-of-requests) |
 | 1665 | [Minimum Initial Energy to Finish Tasks](1665-minimum-initial-energy-to-finish-tasks/) | `Array`, `Greedy`, `Sorting` | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.py) | [✓](1665-minimum-initial-energy-to-finish-tasks/solution.java) | [read](https://yral.dev/leetcode/minimum-initial-energy-to-finish-tasks) |
 | 1840 | [Maximum Building Height](1840-maximum-building-height/) | `Array`, `Math`, `Greedy` | [✓](1840-maximum-building-height/solution.py) | [✓](1840-maximum-building-height/solution.java) | [read](https://yral.dev/leetcode/maximum-building-height) |
 | 1872 | [Stone Game VIII](1872-stone-game-viii/) | `Array`, `Math`, `Dynamic Programming`, `Prefix Sum`, `Game Theory`, `Suffix Maximum` | [✓](1872-stone-game-viii/solution.py) | [✓](1872-stone-game-viii/solution.java) | [read](https://yral.dev/leetcode/stone-game-viii) |
