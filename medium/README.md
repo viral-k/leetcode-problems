@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 131 problems
+**Total:** 132 problems
 
 ## Problems
 
@@ -119,6 +119,7 @@
 | 3660 | [Jump Game IX](3660-jump-game-ix/) | `Array`, `Graph`, `Prefix Maximum`, `Suffix Minimum` | [✓](3660-jump-game-ix/solution.py) | [✓](3660-jump-game-ix/solution.java) | [read](https://yral.dev/leetcode/jump-game-ix) |
 | 3665 | [Twisted Mirror Path Count](3665-twisted-mirror-path-count/) | `Array`, `Dynamic Programming`, `Matrix` | [✓](3665-twisted-mirror-path-count/solution.py) | [✓](3665-twisted-mirror-path-count/solution.java) | [read](https://yral.dev/leetcode/twisted-mirror-path-count) |
 | 3689 | [Maximum Total Subarray Value I](3689-maximum-total-subarray-value-i/) | `Array`, `Greedy`, `Math` | [✓](3689-maximum-total-subarray-value-i/solution.py) | [✓](3689-maximum-total-subarray-value-i/solution.java) | [read](https://yral.dev/leetcode/maximum-total-subarray-value-i) |
+| 3693 | [Climbing Stairs II](3693-climbing-stairs-ii/) | `Array`, `Dynamic Programming` | [✓](3693-climbing-stairs-ii/solution.py) | [✓](3693-climbing-stairs-ii/solution.java) | [read](https://yral.dev/leetcode/climbing-stairs-ii) |
 | 3702 | [Longest Subsequence with Non-Zero Bitwise XOR](3702-longest-subsequence-with-non-zero-bitwise-xor/) | `Array`, `Bit Manipulation`, `Greedy`, `Math` | [✓](3702-longest-subsequence-with-non-zero-bitwise-xor/solution.py) | [✓](3702-longest-subsequence-with-non-zero-bitwise-xor/solution.java) | [read](https://yral.dev/leetcode/longest-subsequence-with-non-zero-bitwise-xor) |
 | 3713 | [Longest Balanced Substring I](3713-longest-balanced-substring-i/) | `String`, `Hash Table`, `Brute Force` | [✓](3713-longest-balanced-substring-i/solution.py) | [✓](3713-longest-balanced-substring-i/solution.java) | [read](https://yral.dev/leetcode/longest-balanced-substring-i) |
 | 3719 | [Longest Balanced Subarray I](3719-longest-balanced-subarray-i/) | `Array`, `Hash Table`, `Brute Force` | [✓](3719-longest-balanced-subarray-i/solution.py) | [✓](3719-longest-balanced-subarray-i/solution.java) | [read](https://yral.dev/leetcode/longest-balanced-subarray-i) |
