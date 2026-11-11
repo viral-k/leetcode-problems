@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 132 problems
+**Total:** 133 problems
 
 ## Problems
 
@@ -132,6 +132,7 @@
 | 3751 | [Total Waviness of Numbers in Range I](3751-total-waviness-of-numbers-in-range-i/) | `Math`, `Simulation` | [✓](3751-total-waviness-of-numbers-in-range-i/solution.py) | [✓](3751-total-waviness-of-numbers-in-range-i/solution.java) | [read](https://yral.dev/leetcode/total-waviness-of-numbers-in-range-i) |
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | `Array`, `String`, `Prefix Sum`, `Math`, `Number Theory` | [✓](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/solution.py) | [✓](3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/solution.java) | [read](https://yral.dev/leetcode/concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](3761-minimum-absolute-distance-between-mirror-pairs/) | `Array`, `Hash Table` | [✓](3761-minimum-absolute-distance-between-mirror-pairs/solution.py) | [✓](3761-minimum-absolute-distance-between-mirror-pairs/solution.java) | [read](https://yral.dev/leetcode/minimum-absolute-distance-between-mirror-pairs) |
+| 3789 | [Minimum Cost to Acquire Required Items](3789-minimum-cost-to-acquire-required-items/) | `Math`, `Greedy` | [✓](3789-minimum-cost-to-acquire-required-items/solution.py) | [✓](3789-minimum-cost-to-acquire-required-items/solution.java) | [read](https://yral.dev/leetcode/minimum-cost-to-acquire-required-items) |
 | 3863 | [Minimum Operations to Sort a String](3863-minimum-operations-to-sort-a-string/) | `String` | [✓](3863-minimum-operations-to-sort-a-string/solution.py) | [✓](3863-minimum-operations-to-sort-a-string/solution.java) | [read](https://yral.dev/leetcode/minimum-operations-to-sort-a-string) |
 | 3867 | [Sum of GCD of Formed Pairs](3867-sum-of-gcd-of-formed-pairs/) | `Array`, `Math`, `Number Theory`, `Sorting`, `Two Pointers`, `Simulation` | [✓](3867-sum-of-gcd-of-formed-pairs/solution.py) | [✓](3867-sum-of-gcd-of-formed-pairs/solution.java) | [read](https://yral.dev/leetcode/sum-of-gcd-of-formed-pairs) |
 | 3871 | [Count Commas in Range II](3871-count-commas-in-range-ii/) | `Math`, `Counting` | [✓](3871-count-commas-in-range-ii/solution.py) | [✓](3871-count-commas-in-range-ii/solution.java) | [read](https://yral.dev/leetcode/count-commas-in-range-ii) |
