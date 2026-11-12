@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 60 problems
+**Total:** 61 problems
 
 ## Problems
 
@@ -47,6 +47,7 @@
 | 3014 | [Minimum Number of Pushes to Type Word I](3014-minimum-number-of-pushes-to-type-word-i/) | `Math`, `Greedy` | [✓](3014-minimum-number-of-pushes-to-type-word-i/solution.py) | [✓](3014-minimum-number-of-pushes-to-type-word-i/solution.java) | [read](https://yral.dev/leetcode/minimum-number-of-pushes-to-type-word-i) |
 | 3069 | [Distribute Elements Into Two Arrays I](3069-distribute-elements-into-two-arrays-i/) | `Array`, `Simulation` | [✓](3069-distribute-elements-into-two-arrays-i/solution.py) | [✓](3069-distribute-elements-into-two-arrays-i/solution.java) | [read](https://yral.dev/leetcode/distribute-elements-into-two-arrays-i) |
 | 3090 | [Maximum Length Substring with Two Occurrences](3090-maximum-length-substring-with-two-occurrences/) | `Hash Table`, `String`, `Sliding Window` | [✓](3090-maximum-length-substring-with-two-occurrences/solution.py) | [✓](3090-maximum-length-substring-with-two-occurrences/solution.java) | [read](https://yral.dev/leetcode/maximum-length-substring-with-two-occurrences) |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | `Array` | [✓](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/solution.py) | [✓](3105-longest-strictly-increasing-or-strictly-decreasing-subarray/solution.java) | [read](https://yral.dev/leetcode/longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | 3120 | [Count the Number of Special Characters I](3120-count-the-number-of-special-characters-i/) | `Hash Set`, `String` | [✓](3120-count-the-number-of-special-characters-i/solution.py) | [✓](3120-count-the-number-of-special-characters-i/solution.java) | [read](https://yral.dev/leetcode/count-the-number-of-special-characters-i) |
 | 3300 | [Minimum Element After Replacement with Digit Sum](3300-minimum-element-after-replacement-with-digit-sum/) | `Array`, `Math` | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.py) | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.java) | [read](https://yral.dev/leetcode/minimum-element-after-replacement-with-digit-sum) |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i/) | `Math`, `Enumeration`, `Simulation` | [✓](3345-smallest-divisible-digit-product-i/solution.py) | [✓](3345-smallest-divisible-digit-product-i/solution.java) | [read](https://yral.dev/leetcode/smallest-divisible-digit-product-i) |
