@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 79 problems
+**Total:** 80 problems
 
 ## Problems
 
@@ -67,6 +67,7 @@
 | 3336 | [Find the Number of Subsequences with Equal GCD](3336-find-the-number-of-subsequences-with-equal-gcd/) | `Array`, `Dynamic Programming`, `Number Theory`, `Math` | [✓](3336-find-the-number-of-subsequences-with-equal-gcd/solution.py) | [✓](3336-find-the-number-of-subsequences-with-equal-gcd/solution.java) | [read](https://yral.dev/leetcode/find-the-number-of-subsequences-with-equal-gcd) |
 | 3348 | [Smallest Divisible Digit Product II](3348-smallest-divisible-digit-product-ii/) | `String`, `Greedy`, `Math`, `Number Theory`, `Enumeration` | [✓](3348-smallest-divisible-digit-product-ii/solution.py) | [✓](3348-smallest-divisible-digit-product-ii/solution.java) | [read](https://yral.dev/leetcode/smallest-divisible-digit-product-ii) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](3414-maximum-score-of-non-overlapping-intervals/) | `Array`, `Binary Search`, `Dynamic Programming`, `Sorting` | [✓](3414-maximum-score-of-non-overlapping-intervals/solution.py) | [✓](3414-maximum-score-of-non-overlapping-intervals/solution.java) | [read](https://yral.dev/leetcode/maximum-score-of-non-overlapping-intervals) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](3420-count-non-decreasing-subarrays-after-k-operations/) | `Array`, `Stack`, `Segment Tree`, `Sliding Window`, `Monotonic Stack` | [✓](3420-count-non-decreasing-subarrays-after-k-operations/solution.py) | [✓](3420-count-non-decreasing-subarrays-after-k-operations/solution.java) | [read](https://yral.dev/leetcode/count-non-decreasing-subarrays-after-k-operations) |
 | 3464 | [Maximize the Distance Between Points on a Square](3464-maximize-the-distance-between-points-on-a-square/) | `Array`, `Binary Search`, `Greedy` | [✓](3464-maximize-the-distance-between-points-on-a-square/solution.py) | [✓](3464-maximize-the-distance-between-points-on-a-square/solution.java) | [read](https://yral.dev/leetcode/maximize-the-distance-between-points-on-a-square) |
 | 3501 | [Maximize Active Section with Trade II](3501-maximize-active-section-with-trade-ii/) | `String`, `Binary Search`, `Sparse Table`, `Prefix Sum`, `Greedy` | [✓](3501-maximize-active-section-with-trade-ii/solution.py) | [✓](3501-maximize-active-section-with-trade-ii/solution.java) | [read](https://yral.dev/leetcode/maximize-active-section-with-trade-ii) |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | `Array`, `Hash Table`, `Math`, `Dynamic Programming`, `Sliding Window`, `Heap (Priority Queue)` | [✓](3505-minimum-operations-to-make-elements-within-k-subarrays-equal/solution.py) | [✓](3505-minimum-operations-to-make-elements-within-k-subarrays-equal/solution.java) | [read](https://yral.dev/leetcode/minimum-operations-to-make-elements-within-k-subarrays-equal) |
