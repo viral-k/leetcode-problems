@@ -128,3 +128,12 @@ LeetCode's text, a copy would not rank against the original, and LeetCode has
 sent takedowns over mirrored statements. `problem.md` stays in this repo
 untouched. Tradeoff: the site needs a rebuild per push, done with a Cloudflare
 deploy hook called from a GitHub Action.
+
+## 2026-11-14 — 3364 uses a sorted prefix-sum window; Python sticks to bisect
+
+The minimum positive sum ending at `j` comes from the largest prefix sum below
+`P[j]` among the allowed starts `[j - r, j - l]`, so a sorted sliding window
+beats trying every length (O(n log n) vs O(n * (r - l))). Java uses a TreeMap
+multiset. Python uses `bisect` on a plain list instead of `sortedcontainers`,
+which isn't installed locally and isn't used anywhere else in the repo; list
+shifts make it O(n * r), which is negligible at n <= 100 and stated honestly.
