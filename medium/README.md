@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 133 problems
+**Total:** 134 problems
 
 ## Problems
 
@@ -45,6 +45,7 @@
 | 1391 | [Check if There is a Valid Path in a Grid](1391-check-if-there-is-a-valid-path-in-a-grid/) | `Array`, `BFS`, `DFS`, `Matrix`, `Union Find` | [✓](1391-check-if-there-is-a-valid-path-in-a-grid/solution.py) | [✓](1391-check-if-there-is-a-valid-path-in-a-grid/solution.java) | [read](https://yral.dev/leetcode/check-if-there-is-a-valid-path-in-a-grid) |
 | 1401 | [Circle and Rectangle Overlapping](1401-circle-and-rectangle-overlapping/) | `Math`, `Geometry` | [✓](1401-circle-and-rectangle-overlapping/solution.py) | [✓](1401-circle-and-rectangle-overlapping/solution.java) | [read](https://yral.dev/leetcode/circle-and-rectangle-overlapping) |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each with Target Sum](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | `Array`, `Hash Table`, `Binary Search`, `Dynamic Programming`, `Sliding Window` | [✓](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.py) | [✓](1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/solution.java) | [read](https://yral.dev/leetcode/find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| 1524 | [Number of Sub-arrays with Odd Sum](1524-number-of-sub-arrays-with-odd-sum/) | `Array`, `Math`, `Dynamic Programming`, `Prefix Sum` | [✓](1524-number-of-sub-arrays-with-odd-sum/solution.py) | [✓](1524-number-of-sub-arrays-with-odd-sum/solution.java) | [read](https://yral.dev/leetcode/number-of-sub-arrays-with-odd-sum) |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](1541-minimum-insertions-to-balance-a-parentheses-string/) | `String`, `Stack`, `Greedy` | [✓](1541-minimum-insertions-to-balance-a-parentheses-string/solution.py) | [✓](1541-minimum-insertions-to-balance-a-parentheses-string/solution.java) | [read](https://yral.dev/leetcode/minimum-insertions-to-balance-a-parentheses-string) |
 | 1545 | [Find Kth Bit in Nth Binary String](1545-find-kth-bit-in-nth-binary-string/) | `String`, `Recursion`, `Bit Manipulation` | [✓](1545-find-kth-bit-in-nth-binary-string/solution.py) | [✓](1545-find-kth-bit-in-nth-binary-string/solution.java) | [read](https://yral.dev/leetcode/find-kth-bit-in-nth-binary-string) |
 | 1559 | [Detect Cycles in 2D Grid](1559-detect-cycles-in-2d-grid/) | `Array`, `DFS`, `BFS`, `Union Find`, `Matrix` | [✓](1559-detect-cycles-in-2d-grid/solution.py) | [✓](1559-detect-cycles-in-2d-grid/solution.java) | [read](https://yral.dev/leetcode/detect-cycles-in-2d-grid) |

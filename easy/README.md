@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 62 problems
+**Total:** 63 problems
 
 ## Problems
 
@@ -33,6 +33,7 @@
 | 2078 | [Two Furthest Houses with Different Colors](2078-two-furthest-houses-with-different-colors/) | `Array`, `Greedy` | [✓](2078-two-furthest-houses-with-different-colors/solution.py) | [✓](2078-two-furthest-houses-with-different-colors/solution.java) | [read](https://yral.dev/leetcode/two-furthest-houses-with-different-colors) |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | `Array`, `Binary Search`, `Sorting` | [✓](2089-find-target-indices-after-sorting-array/solution.py) | [✓](2089-find-target-indices-after-sorting-array/solution.java) | [read](https://yral.dev/leetcode/find-target-indices-after-sorting-array) |
 | 2144 | [Minimum Cost of Buying Candies with Discount](2144-minimum-cost-of-buying-candies-with-discount/) | `Array`, `Greedy`, `Sorting` | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.py) | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.java) | [read](https://yral.dev/leetcode/minimum-cost-of-buying-candies-with-discount) |
+| 2243 | [Calculate Digit Sum of a String](2243-calculate-digit-sum-of-a-string/) | `String`, `Simulation` | [✓](2243-calculate-digit-sum-of-a-string/solution.py) | [✓](2243-calculate-digit-sum-of-a-string/solution.java) | [read](https://yral.dev/leetcode/calculate-digit-sum-of-a-string) |
 | 2287 | [Rearrange Characters to Make Target String](2287-rearrange-characters-to-make-target-string/) | `Hash Table`, `String`, `Counting` | [✓](2287-rearrange-characters-to-make-target-string/solution.py) | [✓](2287-rearrange-characters-to-make-target-string/solution.java) | [read](https://yral.dev/leetcode/rearrange-characters-to-make-target-string) |
 | 2409 | [Count Days Spent Together](2409-count-days-spent-together/) | `Math`, `String` | [✓](2409-count-days-spent-together/solution.py) | [✓](2409-count-days-spent-together/solution.java) | [read](https://yral.dev/leetcode/count-days-spent-together) |
 | 2515 | [Shortest Distance to Target String in a Circular Array](2515-shortest-distance-to-target-string-in-a-circular-array/) | `Array`, `String` | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.py) | [✓](2515-shortest-distance-to-target-string-in-a-circular-array/solution.java) | [read](https://yral.dev/leetcode/shortest-distance-to-target-string-in-a-circular-array) |
