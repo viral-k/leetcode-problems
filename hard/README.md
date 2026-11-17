@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 81 problems
+**Total:** 82 problems
 
 ## Problems
 
@@ -59,6 +59,7 @@
 | 2751 | [Robot Collisions](2751-robot-collisions/) | `Array`, `Stack`, `Sorting`, `Simulation` | [✓](2751-robot-collisions/solution.py) | [✓](2751-robot-collisions/solution.java) | [read](https://yral.dev/leetcode/robot-collisions) |
 | 2790 | [Maximum Number of Groups with Increasing Length](2790-maximum-number-of-groups-with-increasing-length/) | `Array`, `Greedy`, `Sorting`, `Binary Search` | [✓](2790-maximum-number-of-groups-with-increasing-length/solution.py) | [✓](2790-maximum-number-of-groups-with-increasing-length/solution.java) | [read](https://yral.dev/leetcode/maximum-number-of-groups-with-increasing-length) |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](2897-apply-operations-on-array-to-maximize-sum-of-squares/) | `Array`, `Hash Table`, `Greedy`, `Bit Manipulation` | [✓](2897-apply-operations-on-array-to-maximize-sum-of-squares/solution.py) | [✓](2897-apply-operations-on-array-to-maximize-sum-of-squares/solution.java) | [read](https://yral.dev/leetcode/apply-operations-on-array-to-maximize-sum-of-squares) |
+| 2911 | [Minimum Changes to Make K Semi-palindromes](2911-minimum-changes-to-make-k-semi-palindromes/) | `Two Pointers`, `String`, `Dynamic Programming` | [✓](2911-minimum-changes-to-make-k-semi-palindromes/solution.py) | [✓](2911-minimum-changes-to-make-k-semi-palindromes/solution.java) | [read](https://yral.dev/leetcode/minimum-changes-to-make-k-semi-palindromes) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](2916-subarrays-distinct-element-sum-of-squares-ii/) | `Array`, `Hash Table`, `Binary Indexed Tree`, `Segment Tree` | [✓](2916-subarrays-distinct-element-sum-of-squares-ii/solution.py) | [✓](2916-subarrays-distinct-element-sum-of-squares-ii/solution.java) | [read](https://yral.dev/leetcode/subarrays-distinct-element-sum-of-squares-ii) |
 | 3093 | [Longest Common Suffix Queries](3093-longest-common-suffix-queries/) | `Array`, `String`, `Trie` | [✓](3093-longest-common-suffix-queries/solution.py) | [✓](3093-longest-common-suffix-queries/solution.java) | [read](https://yral.dev/leetcode/longest-common-suffix-queries) |
 | 3116 | [Kth Smallest Amount with Single Denomination Combination](3116-kth-smallest-amount-with-single-denomination-combination/) | `Array`, `Binary Search`, `Bit Manipulation`, `Math`, `Number Theory`, `Combinatorics` | [✓](3116-kth-smallest-amount-with-single-denomination-combination/solution.py) | [✓](3116-kth-smallest-amount-with-single-denomination-combination/solution.java) | [read](https://yral.dev/leetcode/kth-smallest-amount-with-single-denomination-combination) |
