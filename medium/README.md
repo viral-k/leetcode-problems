@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 134 problems
+**Total:** 135 problems
 
 ## Problems
 
@@ -87,6 +87,7 @@
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](2770-maximum-number-of-jumps-to-reach-the-last-index/) | `Array`, `Dynamic Programming` | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.py) | [✓](2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) | [read](https://yral.dev/leetcode/maximum-number-of-jumps-to-reach-the-last-index) |
 | 2812 | [Find the Safest Path in a Grid](2812-find-the-safest-path-in-a-grid/) | `Array`, `BFS`, `Heap (Priority Queue)`, `Matrix`, `Binary Search` | [✓](2812-find-the-safest-path-in-a-grid/solution.py) | [✓](2812-find-the-safest-path-in-a-grid/solution.java) | [read](https://yral.dev/leetcode/find-the-safest-path-in-a-grid) |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](2904-shortest-and-lexicographically-smallest-beautiful-string/) | `String`, `Sliding Window`, `Greedy`, `Two Pointers` | [✓](2904-shortest-and-lexicographically-smallest-beautiful-string/solution.py) | [✓](2904-shortest-and-lexicographically-smallest-beautiful-string/solution.java) | [read](https://yral.dev/leetcode/shortest-and-lexicographically-smallest-beautiful-string) |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | `String` | [✓](2914-minimum-number-of-changes-to-make-binary-string-beautiful/solution.py) | [✓](2914-minimum-number-of-changes-to-make-binary-string-beautiful/solution.java) | [read](https://yral.dev/leetcode/minimum-number-of-changes-to-make-binary-string-beautiful) |
 | 2943 | [Maximize Area of Square Hole in Grid](2943-maximize-area-of-square-hole-in-grid/) | `Array`, `Sorting`, `Greedy` | [✓](2943-maximize-area-of-square-hole-in-grid/solution.py) | [✓](2943-maximize-area-of-square-hole-in-grid/solution.java) | [read](https://yral.dev/leetcode/maximize-area-of-square-hole-in-grid) |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](2948-make-lexicographically-smallest-array-by-swapping-elements/) | `Array`, `Union Find`, `Sorting`, `Greedy` | [✓](2948-make-lexicographically-smallest-array-by-swapping-elements/solution.py) | [✓](2948-make-lexicographically-smallest-array-by-swapping-elements/solution.java) | [read](https://yral.dev/leetcode/make-lexicographically-smallest-array-by-swapping-elements) |
 | 2958 | [Length of Longest Subarray with at Most K Frequency](2958-length-of-longest-subarray-with-at-most-k-frequency/) | `Array`, `Hash Table`, `Sliding Window` | [✓](2958-length-of-longest-subarray-with-at-most-k-frequency/solution.py) | [✓](2958-length-of-longest-subarray-with-at-most-k-frequency/solution.java) | [read](https://yral.dev/leetcode/length-of-longest-subarray-with-at-most-k-frequency) |
