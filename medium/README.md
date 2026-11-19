@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 135 problems
+**Total:** 136 problems
 
 ## Problems
 
@@ -80,6 +80,7 @@
 | 2333 | [Minimum Sum of Squared Difference](2333-minimum-sum-of-squared-difference/) | `Array`, `Math`, `Binary Search`, `Sorting`, `Heap (Priority Queue)`, `Greedy`, `Counting` | [✓](2333-minimum-sum-of-squared-difference/solution.py) | [✓](2333-minimum-sum-of-squared-difference/solution.java) | [read](https://yral.dev/leetcode/minimum-sum-of-squared-difference) |
 | 2452 | [Words Within Two Edits of Dictionary](2452-words-within-two-edits-of-dictionary/) | `Array`, `String` | [✓](2452-words-within-two-edits-of-dictionary/solution.py) | [✓](2452-words-within-two-edits-of-dictionary/solution.java) | [read](https://yral.dev/leetcode/words-within-two-edits-of-dictionary) |
 | 2492 | [Minimum Score of a Path Between Two Cities](2492-minimum-score-of-a-path-between-two-cities/) | `BFS`, `DFS`, `Union Find`, `Graph` | [✓](2492-minimum-score-of-a-path-between-two-cities/solution.py) | [✓](2492-minimum-score-of-a-path-between-two-cities/solution.java) | [read](https://yral.dev/leetcode/minimum-score-of-a-path-between-two-cities) |
+| 2567 | [Minimum Score by Changing Two Elements](2567-minimum-score-by-changing-two-elements/) | `Array`, `Greedy`, `Sorting` | [✓](2567-minimum-score-by-changing-two-elements/solution.py) | [✓](2567-minimum-score-by-changing-two-elements/solution.java) | [read](https://yral.dev/leetcode/minimum-score-by-changing-two-elements) |
 | 2615 | [Sum of Distances](2615-sum-of-distances/) | `Array`, `Hash Table`, `Prefix Sum` | [✓](2615-sum-of-distances/solution.py) | [✓](2615-sum-of-distances/solution.java) | [read](https://yral.dev/leetcode/sum-of-distances) |
 | 2657 | [Find the Prefix Common Array of Two Arrays](2657-find-the-prefix-common-array-of-two-arrays/) | `Array`, `Hash Table`, `Counting` | [✓](2657-find-the-prefix-common-array-of-two-arrays/solution.py) | [✓](2657-find-the-prefix-common-array-of-two-arrays/solution.java) | [read](https://yral.dev/leetcode/find-the-prefix-common-array-of-two-arrays) |
 | 2685 | [Count the Number of Complete Components](2685-count-the-number-of-complete-components/) | `DFS`, `BFS`, `Union Find`, `Graph` | [✓](2685-count-the-number-of-complete-components/solution.py) | [✓](2685-count-the-number-of-complete-components/solution.java) | [read](https://yral.dev/leetcode/count-the-number-of-complete-components) |
