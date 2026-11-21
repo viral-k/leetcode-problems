@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 136 problems
+**Total:** 137 problems
 
 ## Problems
 
@@ -101,6 +101,7 @@
 | 3286 | [Find a Safe Walk Through a Grid](3286-find-a-safe-walk-through-a-grid/) | `Array`, `BFS`, `Graph`, `Matrix`, `Shortest Path` | [✓](3286-find-a-safe-walk-through-a-grid/solution.py) | [✓](3286-find-a-safe-walk-through-a-grid/solution.java) | [read](https://yral.dev/leetcode/find-a-safe-walk-through-a-grid) |
 | 3302 | [Find the Lexicographically Smallest Valid Sequence](3302-find-the-lexicographically-smallest-valid-sequence/) | `String`, `Greedy`, `Two Pointers`, `Suffix` | [✓](3302-find-the-lexicographically-smallest-valid-sequence/solution.py) | [✓](3302-find-the-lexicographically-smallest-valid-sequence/solution.java) | [read](https://yral.dev/leetcode/find-the-lexicographically-smallest-valid-sequence) |
 | 3310 | [Remove Methods from Project](3310-remove-methods-from-project/) | `Array`, `DFS`, `BFS`, `Graph` | [✓](3310-remove-methods-from-project/solution.py) | [✓](3310-remove-methods-from-project/solution.java) | [read](https://yral.dev/leetcode/remove-methods-from-project) |
+| 3331 | [Find Subtree Sizes After Changes](3331-find-subtree-sizes-after-changes/) | `Array`, `Hash Table`, `String`, `Tree`, `Depth-First Search` | [✓](3331-find-subtree-sizes-after-changes/solution.py) | [✓](3331-find-subtree-sizes-after-changes/solution.java) | [read](https://yral.dev/leetcode/find-subtree-sizes-after-changes) |
 | 3418 | [Maximum Amount of Money Robot Can Earn](3418-maximum-amount-of-money-robot-can-earn/) | `Array`, `Matrix`, `Dynamic Programming` | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.py) | [✓](3418-maximum-amount-of-money-robot-can-earn/solution.java) | [read](https://yral.dev/leetcode/maximum-amount-of-money-robot-can-earn) |
 | 3488 | [Closest Equal Element Queries](3488-closest-equal-element-queries/) | `Array`, `Hash Table` | [✓](3488-closest-equal-element-queries/solution.py) | [✓](3488-closest-equal-element-queries/solution.java) | [read](https://yral.dev/leetcode/closest-equal-element-queries) |
 | 3499 | [Maximize Active Section with Trade I](3499-maximize-active-section-with-trade-i/) | `String`, `Greedy`, `Enumeration`, `Two Pointers` | [✓](3499-maximize-active-section-with-trade-i/solution.py) | [✓](3499-maximize-active-section-with-trade-i/solution.java) | [read](https://yral.dev/leetcode/maximize-active-section-with-trade-i) |
