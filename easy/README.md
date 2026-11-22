@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 63 problems
+**Total:** 64 problems
 
 ## Problems
 
@@ -32,6 +32,7 @@
 | 1979 | [Find Greatest Common Divisor of Array](1979-find-greatest-common-divisor-of-array/) | `Array`, `Math`, `Number Theory` | [✓](1979-find-greatest-common-divisor-of-array/solution.py) | [✓](1979-find-greatest-common-divisor-of-array/solution.java) | [read](https://yral.dev/leetcode/find-greatest-common-divisor-of-array) |
 | 2078 | [Two Furthest Houses with Different Colors](2078-two-furthest-houses-with-different-colors/) | `Array`, `Greedy` | [✓](2078-two-furthest-houses-with-different-colors/solution.py) | [✓](2078-two-furthest-houses-with-different-colors/solution.java) | [read](https://yral.dev/leetcode/two-furthest-houses-with-different-colors) |
 | 2089 | [Find Target Indices After Sorting Array](2089-find-target-indices-after-sorting-array/) | `Array`, `Binary Search`, `Sorting` | [✓](2089-find-target-indices-after-sorting-array/solution.py) | [✓](2089-find-target-indices-after-sorting-array/solution.java) | [read](https://yral.dev/leetcode/find-target-indices-after-sorting-array) |
+| 2124 | [Check if All A's Appears Before All B's](2124-check-if-all-as-appears-before-all-bs/) | `String` | [✓](2124-check-if-all-as-appears-before-all-bs/solution.py) | [✓](2124-check-if-all-as-appears-before-all-bs/solution.java) | [read](https://yral.dev/leetcode/check-if-all-as-appears-before-all-bs) |
 | 2144 | [Minimum Cost of Buying Candies with Discount](2144-minimum-cost-of-buying-candies-with-discount/) | `Array`, `Greedy`, `Sorting` | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.py) | [✓](2144-minimum-cost-of-buying-candies-with-discount/solution.java) | [read](https://yral.dev/leetcode/minimum-cost-of-buying-candies-with-discount) |
 | 2243 | [Calculate Digit Sum of a String](2243-calculate-digit-sum-of-a-string/) | `String`, `Simulation` | [✓](2243-calculate-digit-sum-of-a-string/solution.py) | [✓](2243-calculate-digit-sum-of-a-string/solution.java) | [read](https://yral.dev/leetcode/calculate-digit-sum-of-a-string) |
 | 2287 | [Rearrange Characters to Make Target String](2287-rearrange-characters-to-make-target-string/) | `Hash Table`, `String`, `Counting` | [✓](2287-rearrange-characters-to-make-target-string/solution.py) | [✓](2287-rearrange-characters-to-make-target-string/solution.java) | [read](https://yral.dev/leetcode/rearrange-characters-to-make-target-string) |
