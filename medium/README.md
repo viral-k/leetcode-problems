@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 137 problems
+**Total:** 138 problems
 
 ## Problems
 
@@ -40,6 +40,7 @@
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | `Array`, `Binary Search`, `Matrix`, `Prefix Sum` | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.py) | [✓](1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/solution.java) | [read](https://yral.dev/leetcode/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | 1306 | [Jump Game III](1306-jump-game-iii/) | `Array`, `BFS`, `DFS` | [✓](1306-jump-game-iii/solution.py) | [✓](1306-jump-game-iii/solution.java) | [read](https://yral.dev/leetcode/jump-game-iii) |
 | 1344 | [Angle Between Hands of a Clock](1344-angle-between-hands-of-a-clock/) | `Math`, `Geometry` | [✓](1344-angle-between-hands-of-a-clock/solution.py) | [✓](1344-angle-between-hands-of-a-clock/solution.java) | [read](https://yral.dev/leetcode/angle-between-hands-of-a-clock) |
+| 1352 | [Product of the Last K Numbers](1352-product-of-the-last-k-numbers/) | `Array`, `Math`, `Design`, `Prefix Sum` | [✓](1352-product-of-the-last-k-numbers/solution.py) | [✓](1352-product-of-the-last-k-numbers/solution.java) | [read](https://yral.dev/leetcode/product-of-the-last-k-numbers) |
 | 1358 | [Number of Substrings Containing All Three Characters](1358-number-of-substrings-containing-all-three-characters/) | `Hash Table`, `String`, `Sliding Window` | [✓](1358-number-of-substrings-containing-all-three-characters/solution.py) | [✓](1358-number-of-substrings-containing-all-three-characters/solution.java) | [read](https://yral.dev/leetcode/number-of-substrings-containing-all-three-characters) |
 | 1386 | [Cinema Seat Allocation](1386-cinema-seat-allocation/) | `Array`, `Hash Table`, `Greedy`, `Bit Manipulation`, `Counting` | [✓](1386-cinema-seat-allocation/solution.py) | [✓](1386-cinema-seat-allocation/solution.java) | [read](https://yral.dev/leetcode/cinema-seat-allocation) |
 | 1391 | [Check if There is a Valid Path in a Grid](1391-check-if-there-is-a-valid-path-in-a-grid/) | `Array`, `BFS`, `DFS`, `Matrix`, `Union Find` | [✓](1391-check-if-there-is-a-valid-path-in-a-grid/solution.py) | [✓](1391-check-if-there-is-a-valid-path-in-a-grid/solution.java) | [read](https://yral.dev/leetcode/check-if-there-is-a-valid-path-in-a-grid) |

@@ -137,3 +137,12 @@ beats trying every length (O(n log n) vs O(n * (r - l))). Java uses a TreeMap
 multiset. Python uses `bisect` on a plain list instead of `sortedcontainers`,
 which isn't installed locally and isn't used anywhere else in the repo; list
 shifts make it O(n * r), which is negligible at n <= 100 and stated honestly.
+
+## 2026-11-23 — Design-class problems put the docstring on the class
+
+1352 is the first problem here whose LeetCode stub is a design class
+(`ProductOfNumbers`) instead of `class Solution`. The `<num>. <Title>` /
+Time / Space block goes in the class docstring (Python) and the javadoc above
+the class (Java), since no single method represents the problem. Time is
+stated per operation. `update_readme.get_complexity` scans the whole file, so
+it still picks up the values; checked without regenerating any README.
