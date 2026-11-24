@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 64 problems
+**Total:** 65 problems
 
 ## Problems
 
@@ -54,6 +54,7 @@
 | 3300 | [Minimum Element After Replacement with Digit Sum](3300-minimum-element-after-replacement-with-digit-sum/) | `Array`, `Math` | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.py) | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.java) | [read](https://yral.dev/leetcode/minimum-element-after-replacement-with-digit-sum) |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i/) | `Math`, `Enumeration`, `Simulation` | [✓](3345-smallest-divisible-digit-product-i/solution.py) | [✓](3345-smallest-divisible-digit-product-i/solution.java) | [read](https://yral.dev/leetcode/smallest-divisible-digit-product-i) |
 | 3364 | [Minimum Positive Sum Subarray](3364-minimum-positive-sum-subarray/) | `Array`, `Sliding Window`, `Prefix Sum` | [✓](3364-minimum-positive-sum-subarray/solution.py) | [✓](3364-minimum-positive-sum-subarray/solution.java) | [read](https://yral.dev/leetcode/minimum-positive-sum-subarray) |
+| 3411 | [Maximum Subarray with Equal Products](3411-maximum-subarray-with-equal-products/) | `Array`, `Math`, `Sliding Window`, `Enumeration`, `Number Theory` | [✓](3411-maximum-subarray-with-equal-products/solution.py) | [✓](3411-maximum-subarray-with-equal-products/solution.java) | [read](https://yral.dev/leetcode/maximum-subarray-with-equal-products) |
 | 3471 | [Find the Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer/) | `Array`, `Hash Table`, `Enumeration`, `Counting` | [✓](3471-find-the-largest-almost-missing-integer/solution.py) | [✓](3471-find-the-largest-almost-missing-integer/solution.java) | [read](https://yral.dev/leetcode/find-the-largest-almost-missing-integer) |
 | 3483 | [Unique 3-Digit Even Numbers](3483-unique-3-digit-even-numbers/) | `Array`, `Hash Table`, `Enumeration`, `Counting` | [✓](3483-unique-3-digit-even-numbers/solution.py) | [✓](3483-unique-3-digit-even-numbers/solution.java) | [read](https://yral.dev/leetcode/unique-3-digit-even-numbers) |
 | 3498 | [Reverse Degree of a String](3498-reverse-degree-of-a-string/) | `String`, `Simulation` | [✓](3498-reverse-degree-of-a-string/solution.py) | [✓](3498-reverse-degree-of-a-string/solution.java) | [read](https://yral.dev/leetcode/reverse-degree-of-a-string) |

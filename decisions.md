@@ -146,3 +146,10 @@ Time / Space block goes in the class docstring (Python) and the javadoc above
 the class (Java), since no single method represents the problem. Time is
 stated per operation. `update_readme.get_complexity` scans the whole file, so
 it still picks up the values; checked without regenerating any README.
+
+## 2026-11-24 — Cross-check Java against Python by piping it to the JDK
+
+Starting with 3411, `solution.java` is run on the same random cases as the
+Python version, using the Homebrew JDK. The source and a small `Main` are fed
+to `java --source 27 /dev/stdin`, so no harness file is created. Needs
+`brew install openjdk`; `/usr/bin/java` is only a stub.
