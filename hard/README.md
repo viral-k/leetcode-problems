@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 83 problems
+**Total:** 84 problems
 
 ## Problems
 
@@ -91,3 +91,4 @@
 | 3753 | [Total Waviness of Numbers in Range II](3753-total-waviness-of-numbers-in-range-ii/) | `Digit DP`, `Dynamic Programming`, `Math` | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.py) | [✓](3753-total-waviness-of-numbers-in-range-ii/solution.java) | [read](https://yral.dev/leetcode/total-waviness-of-numbers-in-range-ii) |
 | 3841 | [Palindromic Path Queries in a Tree](3841-palindromic-path-queries-in-a-tree/) | `Array`, `String`, `Divide and Conquer`, `Bit Manipulation`, `Tree`, `Depth-First Search`, `Binary Indexed Tree`, `Segment Tree` | [✓](3841-palindromic-path-queries-in-a-tree/solution.py) | [✓](3841-palindromic-path-queries-in-a-tree/solution.java) | [read](https://yral.dev/leetcode/palindromic-path-queries-in-a-tree) |
 | 3886 | [Sum of Sortable Integers](3886-sum-of-sortable-integers/) | `Array`, `Math`, `Sorting`, `Enumeration` | [✓](3886-sum-of-sortable-integers/solution.py) | [✓](3886-sum-of-sortable-integers/solution.java) | [read](https://yral.dev/leetcode/sum-of-sortable-integers) |
+| 3934 | [Smallest Unique Subarray](3934-smallest-unique-subarray/) | `Array`, `Hash Table`, `Binary Search` | [✓](3934-smallest-unique-subarray/solution.py) | [✓](3934-smallest-unique-subarray/solution.java) | [read](https://yral.dev/leetcode/smallest-unique-subarray) |

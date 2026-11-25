@@ -153,3 +153,10 @@ Starting with 3411, `solution.java` is run on the same random cases as the
 Python version, using the Homebrew JDK. The source and a small `Main` are fed
 to `java --source 27 /dev/stdin`, so no harness file is created. Needs
 `brew install openjdk`; `/usr/bin/java` is only a stub.
+
+## 2026-11-25 — 3934 uses a suffix automaton instead of hashing
+
+Binary search on the length plus rolling hashes is the expected solution:
+O(n log n), and it can collide. The automaton is O(n) expected and compares
+exactly. Tradeoff: more code and a hash map per state (about 2n maps; the Java
+passes under -Xmx256m at n = 1e5). The fetched tags were left as they are.
