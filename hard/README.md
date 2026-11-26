@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 84 problems
+**Total:** 85 problems
 
 ## Problems
 
@@ -35,6 +35,7 @@
 | 239 | [Sliding Window Maximum](239-sliding-window-maximum/) | `Array`, `Sliding Window`, `Heap (Priority Queue)` | [✓](239-sliding-window-maximum/solution.py) | [✓](239-sliding-window-maximum/solution.java) | [read](https://yral.dev/leetcode/sliding-window-maximum) |
 | 262 | [Trips and Users](262-trips-and-users/) | `Database` | - | - | [read](https://yral.dev/leetcode/trips-and-users) |
 | 273 | [Integer to English Words](273-integer-to-english-words/) | `Math`, `String`, `Recursion` | [✓](273-integer-to-english-words/solution.py) | [✓](273-integer-to-english-words/solution.java) | [read](https://yral.dev/leetcode/integer-to-english-words) |
+| 282 | [Expression Add Operators](282-expression-add-operators/) | `Math`, `String`, `Backtracking` | [✓](282-expression-add-operators/solution.py) | [✓](282-expression-add-operators/solution.java) | [read](https://yral.dev/leetcode/expression-add-operators) |
 | 301 | [Remove Invalid Parentheses](301-remove-invalid-parentheses/) | `String`, `Backtracking`, `Breadth-First Search` | [✓](301-remove-invalid-parentheses/solution.py) | [✓](301-remove-invalid-parentheses/solution.java) | [read](https://yral.dev/leetcode/remove-invalid-parentheses) |
 | 887 | [Super Egg Drop](887-super-egg-drop/) | `Math`, `Dynamic Programming`, `Binary Search` | [✓](887-super-egg-drop/solution.py) | [✓](887-super-egg-drop/solution.java) | [read](https://yral.dev/leetcode/super-egg-drop) |
 | 940 | [Distinct Subsequences II](940-distinct-subsequences-ii/) | `String`, `Dynamic Programming`, `Counting` | [✓](940-distinct-subsequences-ii/solution.py) | [✓](940-distinct-subsequences-ii/solution.java) | [read](https://yral.dev/leetcode/distinct-subsequences-ii) |

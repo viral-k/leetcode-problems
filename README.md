@@ -10,10 +10,10 @@ Every solution also has its own page at **[yral.dev/leetcode](https://yral.dev/l
 
 | Difficulty | Solved | Problems |
 |------------|--------|----------|
-| Easy       | 65      | [View](easy/README.md) |
+| Easy       | 66      | [View](easy/README.md) |
 | Medium     | 138      | [View](medium/README.md) |
-| Hard       | 84      | [View](hard/README.md) |
-| **Total**  | **287**  | |
+| Hard       | 85      | [View](hard/README.md) |
+| **Total**  | **289**  | |
 
 ## Topics Covered
 

@@ -2,7 +2,7 @@
 
 [← Back to main README](../README.md)
 
-**Total:** 65 problems
+**Total:** 66 problems
 
 ## Problems
 
@@ -53,6 +53,7 @@
 | 3120 | [Count the Number of Special Characters I](3120-count-the-number-of-special-characters-i/) | `Hash Set`, `String` | [✓](3120-count-the-number-of-special-characters-i/solution.py) | [✓](3120-count-the-number-of-special-characters-i/solution.java) | [read](https://yral.dev/leetcode/count-the-number-of-special-characters-i) |
 | 3300 | [Minimum Element After Replacement with Digit Sum](3300-minimum-element-after-replacement-with-digit-sum/) | `Array`, `Math` | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.py) | [✓](3300-minimum-element-after-replacement-with-digit-sum/solution.java) | [read](https://yral.dev/leetcode/minimum-element-after-replacement-with-digit-sum) |
 | 3345 | [Smallest Divisible Digit Product I](3345-smallest-divisible-digit-product-i/) | `Math`, `Enumeration`, `Simulation` | [✓](3345-smallest-divisible-digit-product-i/solution.py) | [✓](3345-smallest-divisible-digit-product-i/solution.java) | [read](https://yral.dev/leetcode/smallest-divisible-digit-product-i) |
+| 3360 | [Stone Removal Game](3360-stone-removal-game/) | `Math`, `Simulation` | [✓](3360-stone-removal-game/solution.py) | [✓](3360-stone-removal-game/solution.java) | [read](https://yral.dev/leetcode/stone-removal-game) |
 | 3364 | [Minimum Positive Sum Subarray](3364-minimum-positive-sum-subarray/) | `Array`, `Sliding Window`, `Prefix Sum` | [✓](3364-minimum-positive-sum-subarray/solution.py) | [✓](3364-minimum-positive-sum-subarray/solution.java) | [read](https://yral.dev/leetcode/minimum-positive-sum-subarray) |
 | 3411 | [Maximum Subarray with Equal Products](3411-maximum-subarray-with-equal-products/) | `Array`, `Math`, `Sliding Window`, `Enumeration`, `Number Theory` | [✓](3411-maximum-subarray-with-equal-products/solution.py) | [✓](3411-maximum-subarray-with-equal-products/solution.java) | [read](https://yral.dev/leetcode/maximum-subarray-with-equal-products) |
 | 3471 | [Find the Largest Almost Missing Integer](3471-find-the-largest-almost-missing-integer/) | `Array`, `Hash Table`, `Enumeration`, `Counting` | [✓](3471-find-the-largest-almost-missing-integer/solution.py) | [✓](3471-find-the-largest-almost-missing-integer/solution.java) | [read](https://yral.dev/leetcode/find-the-largest-almost-missing-integer) |
